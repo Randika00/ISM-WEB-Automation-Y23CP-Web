@@ -1,0 +1,834 @@
+Local Rules of the Eastern District of California		
+General Rules		
+100. Title - Construction - Numbering		
+101. Definitions		
+102. Scope and Availability of Local Rules		
+103. Policy Regarding Weapons in the Courthouse and Courtrooms		
+110. Sanctions for Noncompliance with Rules		
+120. Sessions of Court - Intra District Venue		
+121. The Clerk of the District Court		
+122. Authority of Assigned Judges and Magistrate Judges in Emergencies		
+123. Related Cases		
+130. General Format of Documents		
+131. Counsel Identification and Signatures		
+132. Notice of Claim of Unconstitutionality		
+133. Filing and Contents of Documents		
+134. Time of Filing		
+135. Service of Documents During Action		
+136. [Deleted]		
+138. Files and Records – Exhibits		
+140. Privacy Concerns and Redaction		
+141. Sealing of Documents		
+141.1. Orders Protecting Confidential Information		
+142. Affidavits		
+143. Stipulations		
+144. Extending and Shortening Time		
+145. Appeals from Bankruptcy Court		
+146. Appeals to the Ninth Circuit		
+150. Deposits of Registry Funds		
+151. Security		
+159. Notice of Filing of Bankruptcy		
+160. Notice of Settlement or Other Disposition		
+161. Grand and Petit Trial Jurors		
+162.1. Examination and Challenges of Trial Jury – Civil and Criminal		
+162.2. Impanelment of Trial Jury – Civil and Criminal		
+163. Jury Instructions and Verdicts – Civil and Criminal Actions		
+170. Court Reporters and Court Recorders		
+171. Publication		
+173. Photographing, Recording or Broadcasting of Judicial Proceedings		
+174. APPEARANCE BY VIDEO TELECONFERENCING OR TELEPHONE – CIVIL MATTERS		
+180. Attorneys		
+181. Certified Students		
+182. Attorneys – Appearance and Withdrawal		
+183. Persons Appearing in Propria Persona		
+184. Disciplinary Proceedings Against Attorneys		
+190. Petitions for Habeas Corpus and Motions Pursuant to 28 U.S.C. §§ 2254 & 2255		
+191. Special Requirements for Habeas Corpus Petitions Involving the Death Penalty		
+Civil Rules		
+200. Designation of Category of Action		
+201. Demand for Jury Trial		
+202. Minors and Incompetents		
+203. Notice of Requirement of Three-Judge Court		
+204. Allegations of Jurisdiction		
+205. Special Rule for Class Actions		
+206. Special Rule for Social Security and Black Lung Actions		
+210. Service of Process and Return of Service		
+220. Changed Pleadings		
+230. Civil Motion Calendar and Procedure		
+231. Temporary Restraining Order – Preliminary Injunction		
+232. Receivers		
+233. MOTIONS FOR ADMINISTRATIVE RELIEF		
+240. Status Conference		
+250.1. Depositions		
+250.2. Interrogatories		
+250.3. Production of Documents		
+250.4. Requests for Admission		
+250.5. Subpoenas Duces Tecum		
+251. Motions Dealing with Discovery Matters		
+260. Motions for Summary Judgment or Summary Adjudication		
+261. PROCEDURE IN ACTIONS FOR REVIEW ON AN ADMINISTRATIVE RECORD IN NON-SOCIAL SECURITY CASES		
+270. Court Settlement Conferences		
+271. Voluntary Dispute Resolution Program		
+272. Notice of Settlement		
+280. Diligence – Setting for Pretrial Conference or for Trial		
+281. Pretrial Statements		
+282. Pretrial Conference		
+283. Pretrial Order		
+285. Trial Briefs		
+290. Settlement of Findings of Fact and Conclusions of Law		
+291.1. Post-Trial Motions for Judgment as a Matter of Law		
+291.2. Motions for New Trial		
+292. Costs		
+293. Awards of Attorneys' Fees		
+Magistrate Judges' Rules		
+300. Scope of Magistrate Judges' Rules – General Authority		
+301. Trials by Consent		
+302. Duties to be Performed by Magistrate Judges		
+303. Role of Magistrate Judge and Procedure for Resolving General Pretrial Matters in Criminal and Civil Actions		
+304. Magistrate Judges' Authority in Excepted Pretrial Matters		
+305. Procedures for the Disposition of Civil Actions on Consent of the Parties		
+Criminal Rules		
+400. General Rules Applicable in Criminal Actions, Electronic Filing, and Plan for Prompt Disposition of Criminal Actions		
+401. Shackling of In-Custody Defendants		
+403. Court Interpreter Services in Criminal Actions		
+410. Fixed Sums Payable in Lieu of Appearance		
+420. Referral of Misdemeanors to Magistrate Judges		
+421. Disposition of Misdemeanor Actions		
+422. Appeal from Conviction by a Magistrate Judge		
+423. Referral of Class A Misdemeanors to the District Court		
+428. VIRTUAL TESTIMONY		
+429. BAIL REVIEW PROCEDURES		
+430.1. Criminal Motions and Procedures		
+430.2. Criminal Trial Setting Procedures		
+440. Pretrial Discovery and Inspection		
+450. Trial Confirmation		
+460. Disclosure of Presentence Reports, Pretrial Services Reports and Related Records		
+461. Sentencing Procedures	461. Sentencing Procedures	
+480. Rule 35 Motions – Service		
+Admiralty and In rem Rules		
+500. Title and Scope of Rules		
+501. The United States Marshal		
+510. Complaints, Allegations and Accompanying Affidavit		
+512. Process Generally		
+513. Prompt Hearing Following Arrest, Attachment or Garnishment		
+520. Security for Costs		
+521. Deposits of Marshal's Fees and Expenses		
+522. Intervenors' Claims		
+523. Undertakings in Lieu of Arrest		
+530. Publication of Notice of Action and Arrest		
+540. Default in Actions In rem		
+550. Custody of Property		
+560. Appraisal		
+570. Sale of Property		
+580. Publication of Notices		
+590. Rate of Prejudgment Interest Allowed		
+Appendix A. Automated Case Assignment Plan		
+General Orders		
+General Orders A-50		
+General Order No. A. Transfer of Certain Furniture and Equipment (Adopted as Eastern District)		
+General Order No. B. Order Appointing Deputy Clerks, Northern Division (Adopted as Eastern District)		
+General Order No. C. Order Continuing Authority of United States Commissioners and their Employees, Northern Division (Adopted as Eastern District)		
+General Order No. D. Order Continuing Authority of Law Clerks, Secretaries, Court Reporters, Criers and Bailiffs, Northern Division (Adopted as Eastern District)		
+General Order No. E. Order Continuing in Office Probation Officers and Staff, Northern Division (Adopted as Eastern District)		
+General Order No. F. Order Transferring Civil Cases, Including Bankruptcy and Admiralty (Adopted as Eastern District)		
+General Order No. G. Order Transferring Jurisdiction of Certain Cases Under Probation Supervision (Adopted as Eastern District)		
+General Order No. 1. Establishment of General Order Book		
+General Order No. 2. Order Adopting a Seal		
+General Order No. 3. Order Appointing Clerk and Deputy Clerks		
+General Order No. 4. Order Appointing Jury Commissioner		
+General Order No. 5. Order Appointing United States Attorney, John P. Hyland		
+General Order No. 6. Order Appointing Deputy United States Attorneys and Employees		
+General Order No. 7. Order Appointing Chief Probation Officer, Probation Officers, Clerks and Other Employees		
+General Order No. 8. Order Appointing United States Marshal		
+General Order No. 9. Order Appointing Deputy Marshals and Employees		
+General Order No. 10. Order Appointing United States Commissioners and their Employees		
+General Order No. 11. Order Appointing Jury Commissioner		
+General Order No. 12. Order Appointing Referees in Bankruptcy and their Clerks and Other Employees		
+General Order No. 13. Order Appointing Law Clerks, Secretaries, Court Reporters, Criers and Bailiffs		
+General Order No. 14. Order Establishing Civil and Criminal Rules of Court		
+General Order No. 15. Order Adopting Bankruptcy Rules		
+General Order No. 16. Designated, Authorized Depositories of Court Funds		
+General Order No. 17. Order Reference of Bankruptcy Cases		
+General Order No. 18. Order Re: Place of Commencement of Cases and Legal Proceedings		
+General Order No. 19. Order for Admission of Attorneys to Practice in Eastern District		
+General Order No. 20. Order Adopting Plan for Representation of Indigent Defendants Pursuant to Criminal Justice Act of 1964		
+General Order No. 21. Reporters' Rates for Transcripts		
+General Order No. 22. Salary of United States Commissioner for Yosemite National Park		
+General Order No. 23. Acceptance of Documents Only When Attested to by Notary Public or Judicial Officer		
+General Order No. 24. Adoption of a Jury Selection Plan Under Public Law 90-274		
+General Order No. 25. Order of Continuation of Service of Grand and Petit Jurors		
+General Order No. 26. Reporters' Rates for Transcripts		
+General Order No. 27. Amendment of Random Jury Selection Plan		
+General Order No. 28. Order Amending Plan for Representation of Indigent Defendants Pursuant to Criminal Justice Act of 1964		
+General Order No. 29. Order Appointing United States Attorney, Dwayne Keyes		
+General Order No. 30. Forfeiture of Collateral		
+General Order No. 31. Order Appointing United States Commissioner at South Lake Tahoe		
+General Order No. 32. Order Appointing Referee in Bankruptcy as Special Master		
+General Order No. 33. Order Implementing Individual Calendar System in Sacramento Court		
+General Order No. 34. Duties of Unites States Magistrate Judges		
+General Order No. 35. Appointment of United States Magistrates for the Eastern District of California		
+General Order No. 36. Duties and Powers of United States Magistrates: Forfeiture of Collateral		
+General Order No. 37. Six-Man Juries for Civil Cases		
+General Order No. 38. Referral of Minor Offenses to United States Magistrate Judges		
+General Order No. 39. Appointment of Public Defender in Indigent Parole Violation Cases		
+General Order No. 40. Referral of Minor Offenses by Magistrate to United States District Court		
+General Order No. 41. Duties of United States Magistrate Judges (Amending and Supplementing General Order No. 36)		
+General Order No. 42. Order for Adoption of Federal Defender Plan Eastern District of California		
+General Order No. 43. Amendment to Rule 6, Bankruptcy Rules of the Eastern District of California		
+General Order No. 44. Amendment to Federal Defender Plan Eastern District of California		
+General Order No. 45. Adoption of Rule 9 Concerning Admission and Discipline of Attorneys		
+General Order No. 46. Appointment of Part-Time United States Magistrate at Fresno, CA (James M. Thuesen)		
+General Order No. 47. Plan for Prompt Disposition of Criminal Cases		
+General Order No. 48. Order Re: Discovery Motions		
+General Order No. 49. Order of Continuation of Service of Grand and Petit Jurors		
+General Order No. 50. Amendment of Random Jury Selection Plan		
+General Orders 51-100		
+General Order No. 51. Appointment of Part-Time United States Magistrate, Susanville (Donald P. Cady)		
+General Order No. 52. Adoption of Rules Re: Work of Court Reporters in Preparation of Criminal Cases on Appeal		
+General Order No. 53. Appointment of Part-Time United States Magistrate, Redding (J. Ross Carter)		
+General Order No. 54. Fee for Admission of Attorneys to Practice in the Eastern District		
+General Order No. 55. Requirement that Court Reporters Provide Estimate of Cost to Transcript and Copies for Appeal		
+General Order No. 56. Order Appointing Clerk of Court, James R. Grindstaff		
+General Order No. 57. Reporters' Rates for Transcripts		
+General Order No. 58. Trial Confirmation Hearing		
+General Order No. 59. Reappointment of United States Magistrate for the Eastern District of CA		
+General Order No. 60. Appointment of United States Magistrate to Serve the Central and Eastern Districts of California (Leonard A. Cosgrove)		
+General Order No. 61. Authority of United States Magistrate to Modify Bail Fixed on Probation Violation Warrant		
+General Order No. 62. Appointment of Full-Time Magistrate at Yosemite National Park (Gene J. Ottonello)		
+General Order No. 63. Plan for Prompt Disposition of Criminal Cases		
+General Order No. 64. Appointment of Full-Time United States Magistrate at Yosemite National Park (Donald W. Pitts)		
+General Order No. 65. Reporters' Rates for Transcripts		
+General Order No. 66. Disposition of Minor and Petty Offenses by United States Magistrates		
+General Order No. 67. Plan for Prompt Disposition of Criminal Cases		
+General Order No. 68. Processing of Criminal Appeals		
+General Order No. 69. Appointment of Part-Time United States Magistrate at Fresno (James M. Thuesen)		
+General Order No. 70. Appointment of Full-Time United States Magistrate at Fresno (Alan Dale Christensen)		
+General Order No. 71. Removal of Defendants to Other Districts		
+General Order No. 72. Reappointment of Part-Time United States Magistrate at Susanville (Donald P. Cady)		
+General Order No. 73. Plan for the Selection of Bar Representatives to the Annual Ninth Circuit Judicial Conference		
+General Order No. 74. Reappointment of Part-Time United States Magistrate at Redding (J. Ross Carter)		
+General Order No. 75. Adoption of Amended Jury Selection Plan Adopted Pursuant to Jury Selection and Service Act of 1968 as Amended (28 U.S.C. § 1861 et seq.)		
+General Order No. 76. Duties of United States Magistrates		
+General Order No. 77. Plan for Prompt Disposition of Criminal Cases Pursuant to Speedy Trial Act of 1974		
+General Order No. 78. Amendment to Plan for Prompt Disposition of Criminal Cases Pursuant to Speedy Trial Act of 1974		
+General Order No. 79. Reappointment of United States Magistrate (Esther Mix)		
+General Order No. 80. Reappointment of United States Magistrate for the Eastern District of California		
+General Order No. 81. Deposit of Registry Funds in Interest Bearing Accounts		
+General Order No. 82. Petition for Disclosure of Presentence or Probation Records: Addition of Local Criminal Rule 205		
+General Order No. 83. Appointment of Part-Time United States Magistrate Yreka (Wray E. Kirsher)		
+General Order No. 84. Fee for Admission of Attorneys to Practice in Eastern District		
+General Order No. 85. Duties of United States Magistrates		
+General Order No. 86. Intradistrict Venue		
+General Order No. 87. Assignment of Civil Cases on Individual Calendar System		
+General Order No. 88. Order Amending Local Rule 9 (Attorneys)		
+General Order No. 89. Court Appointment of Counsel for Indigent Claimants in Title VII of the Civil Rights Act of 1964 (42 U.S.C. § 2200 et seq.) Actions		
+General Order No. 90. Reporters' Rates for Transcripts		
+General Order No. 91. Amendment of Federal Defender Plan		
+General Order No. 92. Plan for Prompt Disposition of Criminal Cases Pursuant to Speedy Trial Act of 1974		
+General Order No. 93. Amendment to General Order No. 92: Plan for Prompt Disposition of Criminal Cases Pursuant to Speedy Trial Act of 1974		
+General Order No. 94. Reporters' Rates for Transcripts		
+General Order No. 95. Amended Affirmative Action Plan		
+General Order No. 96. Order Amending Local Rule 305 (Matters to be Heard by the Magistrate)		
+General Order No. 97. Order Amending Local Rule 9 by Adding New Rule 9(g)		
+General Order No. 98. Order Amending General Order No. 87 (Assignment of Civil Cases on Individual Calendar System)		
+General Order No. 99. Order Amending Local Rule 9(g)(3)		
+General Order No. 100. Reappointment of Part-Time United States Magistrate Susanville (Donald P. Cady)		
+General Orders 101-150		
+General Order No. 101. Amendments to the Jury Selection		
+General Order No. 102. Consolidation of Clerical and Administrative Functions for the Central Violations Bureau		
+General Order No. 103. Reappointment of Part-Time United States Magistrate at Redding (J. Ross Carter)		
+General Order No. 104. Order Amending General Order No. 102 (Consolidation of Clerical and Administrative Functions for the Central Violation Bureau)		
+General Order No. 105. Service of Civil Process		
+General Order No. 106. Preserving Confidentiality of Presentence Report, a Court Document, When Loaned to Parole Commission or Bureau of Prisons		
+General Order No. 107. Assignment of Cases to Magistrate Pursuant to Section 1484(d) of Title 46 (Coordinated National Boating Safety)		
+General Order No. 108. Order Amending Local Rule 9 (Attorneys)		
+General Order No. 109. Supervision of Certain United States Magistrates		
+General Order No. 110. Assignment of Civil Cases on Individual Calendar System		
+General Order No. 111. Amendment of Federal Defender Plan		
+General Order No. 112. Appointment of Merit Selection Panel		
+General Order No. 113. Appointment of Merit Selection Panel		
+General Order No. 113A. Plan for Effective Utilization of Court Reporters		
+General Order No. 114. The Reference of Bankruptcy Cases After October 4, 1982		
+General Order No. 115. Order Staying General Order No. 114		
+General Order No. 116. Appointment of Merit Selection Panel		
+General Order No. 117. The Reference of Bankruptcy Cases After December 25, 1982		
+General Order No. 118. Appointment of Part-Time United States Magistrate (John F. Moulds)		
+General Order No. 119. Preserving Confidentiality of Presentence Investigation Reports		
+General Order No. 120. Preserving Confidentiality of Bail Investigation Reports		
+General Order No. 121. Appointment of Part-Time United States Magistrate Bishop (William F. Murano)		
+General Order No. 122. Appointment of Merit Selection Panel		
+General Order No. 123. Appointment of Merit Selection Panel		
+General Order No. 124. Appointment of District Court Space Management Planning Committee Members		
+General Order No. 125. Appointment of Merit Selection Panel		
+General Order No. 126. Appointment of Merit Selection Panel		
+General Order No. 127. Designation of Part-Time United States Magistrate to Try Jury Trials		
+General Order No. 128. Appointment of Part-Time United States Magistrate Bakersfield (Gary T. Friedman)		
+General Order No. 129. Amendment to Local Rules		
+General Order No. 130. Reappointment of Part-Time United State Magistrate Alturas (Paul E. Baker)		
+General Order No. 131. Appointment of Merit Selection Panel		
+General Order No. 132. Reappointment of Part-Time United States Magistrate Merced (William L. Garrett)		
+General Order No. 133. Reappointment of Part-Time United States Magistrate Sequoia/Kings Canyon National Parks (Richard E. Combs)		
+General Order No. 134. Extension of Magistrate's Term of Office		
+General Order No. 135. Appointment of Merit Selection Panel		
+General Order No. 136. Amended Plan for the Selection of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 137. Reappointment of Part-Time United States Magistrate Yreka (Wray E. Kirsher)		
+General Order No. 138. Order Amending Local Rule 9 (Attorneys)		
+General Order No. 139. Reference of Suppression Motions in Consent Misdemeanor Cases to United States Magistrates		
+General Order No. 140. Appointment of Part-Time United States Magistrate South Lake Tahoe (Monte Meredith Reece)		
+General Order No. 141. Appointment of Merit Selection Panel		
+General Order No. 142. Trial of Misdemeanor Cases		
+General Order No. 143. Appointment of Merit Selection Panel		
+General Order No. 144. Order Amending Local Rule 9 (Attorneys)		
+General Order No. 145. Appointment of Merit Selection Panel		
+General Order No. 146. Reappointment of United States Magistrate Yosemite National Park (Donald W. Pitts)		
+General Order No. 147. Appointment of a Committee to Study and Report on the Jury Selection Plan		
+General Order No. 148. Designation of United States Magistrate to Receive Grand Jury Returns		
+General Order No. 149. Amendment to Local Rule 125 (Types of Cases Excluded from FRCP 16)		
+General Order No. 150. Appointment of Part-Time United States Magistrate Bakersfield (Louis P. Etcheverry)		
+General Orders 151-200		
+General Order No. 151. Rescinding General Order No. 89: Court Appointment of Counsel for Indigent Claimants in Title VII of the Civil Rights Act of 1964 (42 U.S.C. § 2000 et seq.) Actions		
+General Order No. 152. Appointment of Part-Time United States Magistrate (Leonard A. Cosgrove)		
+General Order No. 153. The Reference of Bankruptcy Cases After March 31, 1984		
+General Order No. 154. Plan for Administration of Nonappropriated Funds		
+General Order No. 155. The Reference of Bankruptcy Cases After April 30, 1984		
+General Order No. 156. Reporters' Rates for Transcripts		
+General Order No. 157. Bankruptcy Appeals Procedure		
+General Order No. 158. Service by United States Marshal		
+General Order No. 159. The Operation of the Bankruptcy Court Clerk's Office After June 27, 1984		
+General Order No. 160. Appointment of the Bankruptcy Estate Administration Consultants		
+General Order No. 161. The Reference of Bankruptcy After July 10, 1984		
+General Order No. 162. Emergency Appointment of Robert E. Woodward, Loren S. Dahl, Joseph W. Hedrick, Eckhart A. Thompson as Special Masters in Bankruptcy Matters Pending in the Eastern District of California		
+General Order No. 163. Amendment to General Order No. 161		
+General Order No. 164. Sealed Documents		
+General Order No. 165. Bankruptcy Court Nonappropriated Funds		
+General Order No. 166. Appointment of a Merit Selection Panel		
+General Order No. 167. Appointment of a Merit Selection Panel		
+General Order No. 168. Order Amending Local Rule 230 (Civil Motion Calendar and Procedure)		
+General Order No. 169. Order Authorizing Bankruptcy Judges to Designate Accountable Officer		
+General Order No. 170. Amendment to General Order No. 168 (Civil Motion Calendar and Procedure)		
+General Order No. 171. Amendment to General Order No. 166 (Appointment of a Merit Selection Panel)		
+General Order No. 172. Order Appointing Interim Full-Time United States Magistrate (Alan D. Christensen)		
+General Order No. 173. Reappointment of Part-Time United States Magistrate Susanville (Donald P. Cady)		
+General Order No. 174. In the Matter of Vladimir Alexander Zatko aka Dr. Vladimir Zatko aka Peter Romano aka Peter Romanov aka Dr. Peter Romano aka Dr. Peter Romanov		
+General Order No. 175. Appointment of a Committee on Pretrial Settlement of Criminal Cases		
+General Order No. 176. Appointment of a Bradshaw Committee		
+General Order No. 177. Reappointment of Full-Time United States Magistrate Fresno (Alan D. Christensen)		
+General Order No. 178. Appointment of a Merit Selection Panel		
+General Order No. 179. Appointment of a Merit Selection Panel		
+General Order No. 180. Designation of Chief Judge of the Bankruptcy Court		
+General Order No. 181. District Administrative Management Committee		
+General Order No. 182. Order Referring Bankruptcy Cases and Proceedings to Bankruptcy Judges and Authorizing Bankruptcy Appeals to be Decided by the Ninth Circuit Bankruptcy Appellate Panel		
+General Order No. 183. Adoption of Amended Jury Selection Plan		
+General Order No. 184. Reappointment of Part-Time United States Magistrate Redding (J. Ross Carter)		
+General Order No. 185. Amendment to Local Rule 200		
+General Order No. 186. Amendment to Federal Defender Plan		
+General Order No. 187. Appointment of a Merit Selection Panel		
+General Order No. 188. Adoption of Procedures of Establishment of a Bradshaw Panel in Sacramento		
+General Order No. 189. Designation of Civil Duties to United States Magistrates in Sacramento		
+General Order No. 190. Appointment of Full-Time United States Magistrate Sacramento (John F. Moulds)		
+General Order No. 191. Guidelines for Implementing Amendments to the Local Rules of Court		
+General Order No. 192. Bankruptcy Court "Pro Hac Vice" Applications		
+General Order No. 193. Appointment Authorizing Magistrate Alan Christensen to Serve Beyond the Age of 70 Years Old		
+General Order No. 194. Appointment of Part-Time United States Magistrate Merced (Dennis A. Cornell)		
+General Order No. 195. Appointment of a Merit Selection Panel		
+General Order No. 196. Uniform Collateral Forfeiture Schedule		
+General Order No. 197. Order Amending Local Rules 160, 190 and 284		
+General Order No. 198. Designation of Chief Judge of Bankruptcy Court		
+General Order No. 199. Amendment to Appointment of a Merit Selection Panel		
+General Order No. 200. Pre-Plea Investigations by the Probation Office of a Persons Charged with Unlawful Entry of Unlawful Presence in the United States		
+General Orders 201-250		
+General Order No. 201. Order Amending Local Rule 184 (Discipline of Attorneys)		
+General Order No. 202. Motions to Correct Presentence Reports		
+General Order No. 203. Approved Depositories for Registry Funds		
+General Order No. 204. Amendment to Reporters' Rates for Transcripts		
+General Order No. 205. Appointment of a Merit Selection Panel		
+General Order No. 206. Approved Depositories for Registry Funds		
+General Order No. 207. Order Amending Local Rule 250 (Discovery Documents)		
+General Order No. 208. Appointment of a Merit Selection Panel		
+General Order No. 209. Appointment of a Merit Selection Panel		
+General Order No. 210. Amended Affirmative Action Plan		
+General Order No. 211. Reappointment of Part-Time United States Magistrate Bishop (Frank W. Murano)		
+General Order No. 212. Reappointment of Full-Time United States Magistrate Sacramento (Esther Mix)		
+General Order No. 213. Appointment of David F. Levi as United States Attorney at Sacramento		
+General Order No. 214. Order Amending Local Rule 250 (Discovery Documents)		
+General Order No. 215. Appointment of a Merit Selection Panel		
+General Order No. 216. Appointment of a Merit Selection Panel		
+General Order No. 217. Order Amending Local Rules 301 and 302 and Adopting Admiralty Rules		
+General Order No. 218. Order Amending Local Rule 270 (Court Settlement Conferences)		
+General Order No. 219. Reappointment of Part-Time United States Magistrate Yreka (Wray E. Kirsher)		
+General Order No. 220. Reappointment of Part-Time United States Magistrate South Lake Tahoe (Monte M. Reece)		
+General Order No. 221. Appointment of a Merit Selection Panel		
+General Order No. 222. Appointment of Part-Time United States Magistrate at Sequoia/Kings Canyon National Park		
+General Order No. 223. Order Referring Bankruptcy Matters to Bankruptcy Judges		
+General Order No. 224. Reappointment of Part-Time United States Magistrate Bakersfield (Louis P. Etcheverry)		
+General Order No. 225. Sentencing Procedures Under the Sentencing Reform Act of 1984		
+General Order No. 225A. Amendment to General Order No. 225		
+General Order No. 226. Amendment to Plan for Prompt Disposition of Criminal Cases Pursuant to Speedy Trial Act of 1974		
+General Order No. 227. Addendum to the Plan for the Implementation of the Criminal Justice Act of 1964, as Amended, 18 U.S.C. § 3006A		
+General Order No. 228. Appointment of a Merit Selection Panel		
+General Order No. 229. Appointment of a Merit Selection Panel		
+General Order No. 230. Adoption of Procedures for Establishment of a Section 1983 Panel in Sacramento		
+General Order No. 231. Amendment to the Plan for Prompt Disposition of Criminal Cases Pursuant to Speedy Trial Act of 1974		
+General Order No. 232. Order Adopting Local Rule 191 (Special Requirements for Habeas Corpus Petitions Involving the Death Penalty)		
+General Order No. 233. Selection Board, Death Penalty Habeas Corpus Cases		
+General Order No. 234. Order Amending Local Rules 131 and 180		
+General Order No. 235. Order Amending Local Rule 190 (Petitions for Habeas Corpus and Motions Pursuant to 28 U.S.C. § 2255)		
+General Order No. 236. Appointment of Part-Time United States Magistrate Bishop (Edward Forstenzer)		
+General Order No. 237. Appointment of Part-Time United States Magistrate Susanville (Craig M. Kellison)		
+General Order No. 238. Planning Committee - Annual Eastern District Meeting		
+General Order No. 239. Delegation of Authority to the Bankruptcy Judges for the Promulgation of Local Rules		
+General Order No. 240. Order Amending Local Rule 233, Selection Board, Death Penalty Habeas Corpus Cases		
+General Order No. 241. Appointment of a Merit Selection Panel		
+General Order No. 242. Order Appointing Chief Magistrate for the Eastern District of California (John F. Moulds)		
+General Order No. 243. Order Adopting Local Rule 143 (Appeals from Bankruptcy)		
+General Order No. 244. Extension of Appointment of Magistrate Carter at Redding		
+General Order No. 245. Appointment of a Merit Selection Panel		
+General Order No. 246. Appointment of a Merit Selection Panel		
+General Order No. 247. Early Neutral Evaluation Pilot Project (Phase I)		
+General Order No. 248. Amendments to Local Rules of Court		
+General Order No. 249. Eastern District Policy Regarding Firearms in the Courthouse and Courtrooms		
+General Order No. 250. Appointment of a Merit Selection Panel		
+General Orders 251-300		
+General Order No. 251. Amendment to Local Rule 150 (Deposits of Registry Funds)		
+General Order No. 252. Order Amending Local Rule 233 (Selection Board, Death Penalty Habeas Corpus Cases)		
+General Order No. 253. Preserving Confidentiality of Presentence Investigation Reports		
+General Order No. 254. Appointment of a Merit Selection Panel		
+General Order No. 255. Rate for Compensation of Counsel Appointed Under 21 U.S.C. § 848 (q)		
+General Order No. 256. Appointment of Part-Time United States Magistrate Redding (Richard M. Bay)		
+General Order No. 257. Appointment of Full-Time United States Magistrate Sacramento (Gregory G. Hollows)		
+General Order No. 258. Appointment of Jesse Casaus as Acting Clerk		
+General Order No. 259. Amendment to Plan for the Administration of Non-Appropriated Funds		
+General Order No. 260. Appointment of Full-Time United States Magistrate Fresno (Dennis L. Beck)		
+General Order No. 261. Reappointment of Part-Time United States Magistrate Merced (Dennis A. Cornell)		
+General Order No. 262. Designation of Civil Duties to United States Magistrates in Sacramento		
+General Order No. 263. Amendment to Local Rule 150 (Deposits of Registry Funds)		
+General Order No. 264. Appointment of Jack L. Wagner as Acting Clerk		
+General Order No. 265. Transfer of Jack L. Wagner, U.S. Courts		
+General Order No. 266. Appointment of Merit Selection Panel		
+General Order No. 267. Selection Board for Habeas Corpus Death Penalty Cases		
+General Order No. 268. Reappointment of United States Magistrate Sacramento (Esther Mix)		
+General Order No. 269. Security for B.F. Sisk Federal Building and Courthouse, Fresno		
+General Order No. 270. Security for John E. Moss Federal Building and Courthouse, Sacramento		
+General Order No. 271. Criminal Case Assignment Procedure for Judge David F. Levi		
+General Order No. 272. Appointment of Full-Time United States Magistrate Sacramento (Peter A. Nowinksi)		
+General Order No. 273. Reappointment of United States Magistrate Sacramento (Esther Mix)		
+General Order No. 274. Appointment of Merit Selection Panel		
+General Order No. 275. Relation of Criminal Cases Filed in the Sacramento Division of the Eastern District of California		
+General Order No. 276. Appointment of a Merit Selection Panel		
+General Order No. 277. Reappointment of Part-Time United States Magistrate South Lake Tahoe (Monte M. Reece)		
+General Order No. 278. Appointment of a Merit Selection Panel		
+General Order No. 279. Reappointment of Part-Time United States Magistrate Yreka (Wray E. Kirsher)		
+General Order No. 280. Reappointment of Part-Time United States Magistrate Sequoia/Kings National Park (Frederic A. Jacobus)		
+General Order No. 281. Appointment of a Merit Selection Panel		
+General Order No. 282. Reappointment of Full-Time United States Magistrate Yosemite National Park (Donald W. Pitts)		
+General Order No. 283. Appointment of a Merit Selection Panel		
+General Order No. 284. Civil Justice Reform Act of 1990		
+General Order No. 285. Reappointment of Part-Time United States Magistrate Judge Bakersfield		
+General Order No. 286. Adoption of Amended Jury Selection Plan		
+General Order No. 287. Appointment of a Merit Selection Panel		
+General Order No. 288. Appointment of a Merit Selection Panel		
+General Order No. 289. Reappointment of a Part-Time United States Magistrate Susanville (Craig M. Kellison)		
+General Order No. 290. Appointment of a Merit Selection Panel		
+General Order No. 291. Reappointment of a Part-Time United States Magistrate Bishop (Edward Forstenzer)		
+General Order No. 292. Adoption of Management Plan for Court Reporting and Recording Services		
+General Order No. 293. Early Neutral Evaluation Pilot Project (Phase II)		
+General Order No. 294. Assignments in Criminal Cases, Fresno Division		
+General Order No. 295. Delegation of Authority to the Bankruptcy Judges for the Promulgation of Local Rules		
+General Order No. 296. Appointment of a Merit Selection Panel		
+General Order No. 297. Appointment of a Full-Time United States Magistrate Fresno (Sandra M. Snyder-Hylton)		
+General Order No. 298. Adoption of Amendments to Magistrate Judges' Rules (Local Rules 300-305) June 1, 1993		
+General Order No. 299. Appointment Authorizing Magistrate Judge Wray E. Kirsher to Serve Beyond the Age of 70 Years Old		
+General Order No. 300. Appointment of a Merit Selection Panel		
+General Orders 301-350		
+General Order No. 301. Appointment of a Merit Selection Panel		
+General Order No. 302. Reappointment of Full-Time United State Magistrate Sacramento (John F. Moulds)		
+General Order No. 303. Notice of Intent to Amend Local Rules 250 and 251 and Promulgation of Local Rule 253		
+General Order No. 304. Adoption of Amendments to Local Rules 250 and 251 and Promulgation of Local Rule 253		
+General Order No. 305. Reappointment of Part-Time United States Magistrate Redding (Richard M. Bay)		
+General Order No. 306. Delegation of Chief Judge of Bankruptcy Court		
+General Order No. 307. Appointment of Full-Time United States Magistrate Yosemite National Park (Hollis G. Best)		
+General Order No. 308. Duties and Power of United States Magistrate Judges: Forfeiture of Collateral		
+General Order No. 309. Appointment of a Merit Selection Panel October 7, 1994		
+General Order No. 310. Adoption of Amendments to Local Rules of Court December 13, 1994		
+General Order No. 311. Duties and Powers of United States Magistrate Judges: Forfeiture of Collateral December 13, 1994 (Applies to Fresno Only)		
+General Order No. 312. Appointment of Part-Time United States Magistrate Bakersfield/Mojave (Louis P. Etcheverry)		
+General Order No. 312A. Appointment of Part-Time United States Magistrate Bakersfield/Mojave (Louis P. Etcheverry)		
+General Order No. 313. Name Change of United States Magistrate Judge, Sandra M. Snyder		
+General Order No. 314. Duties and Powers of United States Magistrate Judges: Forfeiture of Collateral May 22, 1995 (Applies to Fresno Only)		
+General Order No. 315. Appointment of a Merit Selection Panel		
+General Order No. 316. Reappointment of Part-Time United States Magistrate South Lake Tahoe (Monte M. Reece)		
+General Order No. 317. Appointment of Local Rules Review Committee		
+General Order No. 318. Duties and Powers of United States Magistrate Judges: Forfeiture of Collateral December 22, 1995 (Applies to Fresno Only)		
+General Order No. 319. Ninth Circuit Model Employment Opportunity Plan (Adopted by Eastern District)		
+General Order No. 320. Appointment of Merit Selection Panel (Magistrate Judge Kellison)		
+General Order No. 321. Appointment Authorizing Magistrate Judge Hollis G. Best to Serve Beyond the Age of 70 Years Old		
+General Order No. 322. Procedure for Reassignment of Related Cases (L.R. 123 (c))		
+General Order No. 323. Adoption of Criminal Justice Act Plan (CJA)		
+General Order No. 324. Adoption of Amendment to Procedure for Filing Documents in Office of Proper Venue		
+General Order No. 325. Adoption of Amendments to Local Rules 101, 123, 134, 250 and 292 September 5, 1996		
+General Order No. 326. Reappointment of Part-Time United States Magistrate Susanville (Craig M. Kellison)		
+General Order No. 327. Adoption of Amendment to Local Rule 180		
+General Order No. 328. Appointment of a Merit Selection Panel (New Magistrate Position in Sacramento)		
+General Order No. 329. Approval of CJA Panel Attorneys in Fresno		
+General Order No. 330. Rules Governing Bankruptcy Appeals to the District Court		
+General Order No. 331. Increase in Fees for Attorney Admissions and Pro Hac Vice Applications		
+General Order No. 332. Amendment to General Order No. 328		
+General Order No. 333. Appointment of Criminal Local Rules Review Committee		
+General Order No. 334. Appointment of a Merit Selection Panel (Magistrate Judge Hollows)		
+General Order No. 335. Adoption of Amendments to Local Rules of Court		
+General Order No. 336. Designation of Chief Magistrate Judge		
+General Order No. 337. Appointment Authorizing Magistrate Judge Hollis G. Best to Serve Beyond the Age of 70 Years Old		
+General Order No. 338. Appointment of a Merit Selection Panel (New Part-Time Magistrate Position in Redding)		
+General Order No. 339. Reappointment of Full-Time United States Magistrate Sacramento (Gregory G. Hollows)		
+General Order No. 340. Amendment to General Order No. 338		
+General Order No. 341. Appointment of Full-Time United States Magistrate Sacramento (Dale A. Drozd)		
+General Order No. 342. Adoption of Amendment to Local Rule 72-302		
+General Order No. 343. Appointment of a Merit Selection Panel		
+General Order No. 344. Designation of Judge to Order Exception to Amended Jury Selection Panel		
+General Order No. 345. Consent to Jurisdiction by United States Magistrate Judge		
+General Order No. 346. Reappointment of Full-Time United States Magistrate Fresno (Dennis L. Beck)		
+General Order No. 347. Public Access to Electronic Court Records Accessible via the Internet in United States v. Kaczynski, CR. S-96-259 GEB		
+General Order No. 348. Judicial Advisory Committee of the Eastern District of California Amended by General Order No. 576		
+General Order No. 349. Appointments to Judicial Advisory Committee		
+General Order No. 350. Public Access to Electronic Court Records Accessible via the Internet in California Prolife Council Political Action Committee v. Jan Scully, et al., CV. S-96-1965 LKK		
+General Orders 351-400		
+General Order No. 351. Appointment of Part-Time United States Magistrate Redding (Craig M. Kellison)		
+General Order No. 352. Appointment of a Merit Selection Panel		
+General Order No. 353. Appointment Authorizing Magistrate Judge Hollis G. Best to Serve Beyond the Age of 70 Years Old		
+General Order No. 354. Appointment of a Merit Selection Panel		
+General Order No. 355. Adoption of Amendment to Criminal Justice Act Plan		
+General Order No. 356. Appointment of a Merit Selection Panel (New Fresno Magistrate)		
+General Order No. 357. Adoption of Adverse Action Procedure for United States Probation Officers		
+General Order No. 358. Amendment to General Order No. 356		
+General Order No. 359. Amendment to General Order Nos. 356 and 358: Appointment of Merit Selection Panel		
+General Order No. 360. Reappointment of Full-Time United States Magistrate Sacramento (Peter A. Nowinski)		
+General Order No. 361. Appointment of a Merit Selection Panel (Magistrate Judge Monte M. Reece)		
+General Order No. 362. Amended Employment Dispute Resolution Plan December 7, 1998		
+General Order No. 363. Reappointment of Part-Time Magistrate Bakersfield/Mojave (Louis P. Etcheverry)		
+General Order No. 364. Appointment of Full-Time United States Magistrate Fresno (Lawrence J. O'Neill)		
+General Order No. 365. Adoption of Amendment to Local Rule 6-136 (Calculation of Time Periods)		
+General Order No. 366. Reappointment of Part-Time United States Magistrate South Lake Tahoe (Monte M. Reece)		
+General Order No. 367. Appointment Authorizing Magistrate Judge Hollis G. Best to Serve Beyond the Age of 70 Years Old		
+General Order No. 368. Duties and Power of United States Magistrate Judges: Forfeiture of Collateral		
+General Order No. 369. Appointment of Chief Probation Officer Sue H. Sorum		
+General Order No. 370. Adoption of Amendment to Criminal Justice Act Plan		
+General Order No. 371. Reporters' Rates for Realtime Unedited Transcripts		
+General Order No. 372. Relation of Criminal Cases and Petitioner for Probation Action or Violations of Supervised Release		
+General Order No. 373. Appointment of Judicial Advisory Committee (Robert D. Wilson - 3 Year Term Member at Large Beginning January 1, 2000)		
+General Order No. 374. Adoption of Amended Jury Selection Panel - Pending Approval of the Ninth Circuit Judicial Council		
+General Order No. 375. Appointment of Judicial Advisory Committee (William C. Hahesy - 3 Year Term Member at Large Beginning January 1, 2000)		
+General Order No. 376. Appointment of Additional Employment Resolution Coordinator		
+General Order No. 377. Amendment to General Order Nos. 154 and 259: Plan for the Administration of Non-Appropriated Funds		
+General Order No. 378. Adoption of Amendment to General Order No. 374		
+General Order No. 379. Adoption of Amendment to Local Rule 7-131		
+General Order No. 380. Appointment Authorizing Magistrate Judge Hollis G. Best to Serve Beyond the Age of 70 Years Old		
+General Order No. 381. Duties and Powers of United States Magistrate Judges: Forfeiture of Collateral		
+General Order No. 382. Adoption of New Rule Replacing Local Rule 16-271		
+General Order No. 383. Delegation of Chief Judge of Bankruptcy Court (Michael S. McManus)		
+General Order No. 384. Adoption of New Rule Replacing Local Rule 16-271 and Amending Local Rule 16-240		
+General Order No. 385. Adoption of Amendments to Local Rules 16-240, 26-252, 30-250, 33-250, 34-250, 36-250 and 37-251		
+General Order No. 386. Appointment of a Merit Selection Panel (Magistrate Sandra M. Snyder)		
+General Order No. 387. Appointment of Judicial Advisory Committee (Kenneth C. Mennemeier, Chair and Ann Schwing, Member at Large)		
+General Order No. 388. Appointment to Judicial Advisory Committee (Charles J. Stevens, Esq. Member at Large for a 3-Year Term)		
+General Order No. 389. Appointment of a Merit Selection Panel		
+General Order No. 390. Amendment to General Order No. 348: Judicial Advisory Committee		
+General Order No. 391. Reappointment of Full-Time United States Magistrate Fresno (Sandra M. Snyder)		
+General Order No. 392. Appointment of John K. Vincent as United States Attorney		
+General Order No. 393. Appointment Authorizing Magistrate Judge Hollis G. Best to Serve Beyond the Age of 70 Years Old		
+General Order No. 394. Appointment of a Merit Selection Panel (Magistrate John F. Moulds)		
+General Order No. 395. Appointment of a Merit Selection Panel (Magistrate Hollis G. Best)		
+General Order No. 396. Appointment of a Merit Selection Panel (Magistrate Craig M. Kellison) August		
+General Order No. 397. 30-Day Extension for Recommendation of Merit Selection Panel (Hollis G. Best)		
+General Order No. 398. Reappointment of Full-Time United States Magistrate Yosemite National Park (Hollis G. Best)		
+General Order No. 399. Reappointment of Full-Time United States Magistrate Sacramento (John F. Moulds)		
+General Order No. 400. Reappointment of Part-Time United States Magistrate Redding (Craig M. Kellison)		
+General Orders 401-450		
+General Order No. 401. Designation of Chief Magistrate Judge (Dennis L. Beck)		
+General Order No. 402. Appointment to Judicial Advisory Committee (Kim J. Mueller 3-Year Term Beginning January 1, 2002		
+General Order No. 403. Amended Employment Dispute Resolution Plan		
+General Order No. 404. Appointment of a Merit Selection Panel (Replacement of Magistrate Position in Sacramento Vacated by John F. Moulds) May 8, 2002		
+General Order No. 405. Adoption of Amendments to Local Rules of Court: 5-134(a), 67-150(b), 83-180(b)(4)(A)(ii), 83-181(h), 83-184(b), 78-230(b), (c), (k) and (m), 37-251(e), 16-270 (b) and (d), 16-281(a)(1) and (b)(5), 73-305(a), Crim 12-430(d), (e)		
+General Order No. 406. Adoption of Amendment to Local Rule Crim 5-403		
+General Order No. 407. Duties and Powers of United States Magistrate Judges: Forfeiture of Collateral (Amended Uniform Bail Schedule)		
+General Order No. 408. Appointment Authorizing Magistrate Judge Hollis G. Best to Serve Beyond the Age of 70 Years Old		
+General Order No. 409. Appointment of a Merit Selection Panel (Full-Time Magistrate Bakersfield)		
+General Order No. 410. Adoption of Amendment to Appendix A(j)(1)(2)(3) of the Local Rules		
+General Order No. 411. Reporters' Rate for Transcripts (Increased by 10%)		
+General Order No. 412. Appointment of Full-Time United States Magistrate Sacramento (Kimberly J. Mueller)		
+General Order No. 413. Adoption of Amendment to Local Rule 83-182		
+General Order No. 414. Amendment to General Order No. 348: Judicial Advisory Committee		
+General Order No. 415. Procedure for Custody of Wire, Oral or Electronic Communications		
+General Order No. 416. Adoption of Amendments to Local Rule 58-422(b)		
+General Order No. 417. Appointment Authorizing Magistrate Judge Hollis G. Best to Serve Beyond the Age of 70 Years Old		
+General Order No. 418. Appointment of Full-Time United States Magistrate Bakersfield (Theresa A. Goldner)		
+General Order No. 419. Assignment of Kern and Inyon County Civil Cases to Full-Time Magistrate Bakersfield		
+General Order No. 420. Amendment to General Order No. 419		
+General Order No. 421. Compliance with 28 U.S.C. § 994(w)(1)		
+General Order No. 422. Appointment of a Merit Selection Panel (Full-Time Magistrate Yosemite)		
+General Order No. 422A. Amendment to General Order No. 422		
+General Order No. 423. Reappointment to Judicial Advisory Committee (Kenneth C. Mennemeier, Chair, Additional 2-Year Term)		
+General Order No. 424. Appointment of a Merit Selection Panel (Full-Time Magistrate Redding)		
+General Order No. 425. Amendment to General Order No. 414		
+General Order No. 426. Appointment to Judicial Advisory Committee (Margaret [Peg] Carew Toledo, Esq. 3-Year Term, Charles J. Stevens, Esq. Term Extended 1-Year, Robert D. Wilkinson, Esq. Term Extended 2-Years as Members at Large)		
+General Order No. 427. Appointment of Full-Time Magistrate Yosemite National Park (William M. Wunderlich)		
+General Order No. 428. Increase in Fees for Attorney Admissions and Pro Hac Vice Applications		
+General Order No. 429. Court will be Closed on Friday, June 11, 2004, in Observance of the National Day of Mourning in Honor of Former President Ronald W. Reagan		
+General Order No. 430. Appointment of Full-Time United States Magistrate Redding (Craig M. Kellison)		
+General Order No. 431. Order that Judges of the Eastern District of California Adopt the Amendments to the Local Rules Available on the Court's Website		
+General Order No. 432. Appointment of a Merit Selection Panel (Reappointment of Dale A. Drozd)		
+General Order No. 433. Appointment of a Merit Selection Panel (Reappointment of Gregory G. Hollows)		
+General Order No. 434. Appointment of Jay D. Craddock as Chief Probation Officer		
+General Order No. 435. Reappointment of Full-Time United States Magistrate Sacramento (Dale A. Drozd)		
+General Order No. 436. Appointment of a Merit Selection Panel		
+General Order No. 437. Adoption of Interim Procedure Rules		
+General Order No. 438. Reappointment of Full-Time United States Magistrate Sacramento (Gregory G. Hollows)		
+General Order No. 439. Reappointment of Full-Time United States Magistrate Fresno (Dennis L. Beck)		
+General Order No. 440. Appointment of Lynn Ernce as Delegate to the Eastern District Lawyer Representatives		
+General Order No. 441. Shackling of Prisoners During Court Proceedings		
+General Order No. 442. Appointment of Merit Selection Panel (Full-Time Magistrate Sacramento to Replace Peter A. Nowinski)		
+General Order No. 443. Collateral Forfeiture Schedule		
+General Order No. 444. Appointment to Judicial Advisory Committee (Kenneth C. Mennemier, Esq. Chair for 1 Year Term; Charles J. Stevens, Esq. Extended for 1 Year Term; Daniel Gregory Durbin, Esq. Appointed for a 3 Year Term)		
+General Order No. 445. Adoption of Amendment to Jury Selection Plan		
+General Order No. 446. Appointment of Marianne Matherly as Acting Clerk of Court		
+General Order No. 447. Appointment of Victoria C. Minor as Clerk of Court, Effective 8/7/06		
+General Order No. 448. Appointment of Full-Time United States Magistrate Judge, Edmund F. Brennan		
+General Order No. 449. Immediate Adoption of Local Rule Crim 43-401 Shackling of Prisoners During Court Proceedings; Notice and Request for Comment		
+General Order No. 450. Extension of Term of Chief Judge Michael S. McManus as Chief Judge of Bankruptcy Court		
+General Orders 451-500		
+General Order No. 451. Appointment of Lawyer Representative for the Eastern District Conference; Extending Term of Steven H. Felderstein		
+General Order No. 452. Appointment of Lawyer Representatives for the Eastern District Conference; Riley Walter, Lori Gualco and Robin Taylor Appointed for Three (3) Year Terms Beginning January 1, 2007 and Ending December 31, 2009		
+General Order No. 453. Court will be Closed on Tuesday, January 2, 2007 in Observance of the National Day of Mourning in Honor of Former President Gerald R. Ford December 29, 2006		
+General Order No. 454. Designation of Chief Magistrate Judge Sandra M. Snyder for a Five (5) Year Term, Effective Pro Nunc Tunc January 1, 2007		
+General Order No. 455. Appointment of Merit Selection Panel (Re-Appointment of Full-Time Magistrate Judge Lawrence J. O'Neill)		
+General Order No. 456. Vacates General Order #455; Appointment of Merit Selection Panel for New Full-Time Magistrate Judge at Fresno, California		
+General Order No. 457. Duties and Powers of United States Magistrate Judges: Forfeiture of Collateral [In re: 2007 Collateral Forfeiture Schedule]		
+General Order No. 458. Adoption of Amendment to General Order #445 In re: Amendment to Jury Selection Plan		
+General Order No. 459. Appointment to Judicial Advisory Committee (Margaret Carew Toledo, Esq. Chair for a Three Year Term; Kenneth C. Mennemeier, Esq. Appointed for a Two Year Term; Geoffrey Allan Goodman, Esq. Appointed for a Two Year Term)		
+General Order No. 460. Immediate Adoption of Amended Local Rule Crim 43-401		
+General Order No. 461. Appointment of Full-Time United States Magistrate Judge at Fresno, California		
+General Order No. 462. Reporters' Rates for Transcripts and New Transcript Delivery Category		
+General Order No. 463. Appointment of Lawyer Representatives for the Eastern District		
+General Order No. 464. Adoption of Amendments to Local Rules of Court Effective December 1, 2007		
+General Order No. 465. Immediate Adoption of Amended Local Rule Crim 43-401		
+General Order No. 466. Authorization for the United States Probation Office to Disclose Certain Presentence Reports and Statements of Reason to the United States Attorney and Federal Defender		
+General Order No. 467. Adoption of Amendment to Appendix A(k)(1)(2)(3)(4) of the Local Rules		
+General Order No. 468. Appointment of a Merit Selection Panel		
+General Order No. 469. Designation of Chief Judge of Bankruptcy Court		
+General Order No. 470. Reappointment of Full-Time United States Magistrate Judge at Fresno, California		
+General Order No. 471. Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 472. Appointment of Merit Selection Panel (Bakersfield)		
+General Order No. 473. Appointment of Merit Selection Panel (Yosemite)		
+General Order No. 474. Appointment of Merit Selection Panel (Sacramento)		
+General Order No. 475. Appointment of Merit Selection Panel (Fresno)		
+General Order No. 476. Modification of General Order No. 475		
+General Order No. 477. Modification of General Order No. 474		
+General Order No. 478. Immediate Adoption of Amendment to Local Rule Crim 43-401		
+General Order No. 479. Plan for Prompt Disposition of Criminal Cases Pursuant to Speedy Trial Act of 1974		
+General Order No. 480. Appointment of Lawyer Representative to the Ninth Circuit Judicial Conference		
+General Order No. 481. Adoption of Amendments to Local Rules of Court Effective December 1, 2009		
+General Order No. 482. Appointment of Full-Time United States Magistrate Judge at Bakersfield, California		
+General Order No. 483. Immediate Adoption of Amended Local Rule 401		
+General Order No. 484. Appointment of Full-Time United States Magistrate Judge at Sacramento, California		
+General Order No. 485. Adoption of Amendment to Jury Selection Plan		
+General Order No. 486. Adoption of Local Rule 401 (Fed. R. Crim. P. 43)		
+General Order No. 487. Adoption of Amendment to General Order No. 485		
+General Order No. 488. Duties and Powers of United States Magistrate Judges: Forfeiture of Collateral		
+General Order No. 489. Appointment of Full-Time United States Magistrate Judge at Fresno, California		
+General Order No. 490. Appointment of Full-Time United States Magistrate Judge at Yosemite, California		
+General Order No. 491. Adoption of Amended Jury Selection Plan		
+General Order No. 492. Adoption of New and Amended Local Rules		
+General Order No. 493. Adoption of Amended Jury Selection Plan		
+General Order No. 494. Appointment to Judicial Advisory Committee		
+General Order No. 495. Reappointment of Lawyer Representative to the Ninth Circuit Judicial Conference		
+General Order No. 496. Appointment of ADR Judge, Sacramento Division, Pursuant to Local Rule 271(b)(1)		
+General Order No. 497. Appointment of ADR Judge, Fresno Division, Pursuant to Local Rule 271(b)(1)		
+General Order No. 498. Appointment of a Merit Selection Panel		
+General Order No. 499. Appointment Budget Committee		
+General Order No. 500. Appointment of Lawyer Representatives to the Ninth Circuit		
+General Orders 501-550		
+General Order No. 501. Designation of Chief Magistrate Judge		
+General Order No. 502. Appointment to Judicial Advisory Committee		
+General Order No. 503. Appointment of a Merit Selection Panel		
+General Order No. 504. Adoption of Amendments to Local Rules 133(Fed. R. Civ. P.5) and 191(Fed. R. Civ. P.81)		
+General Order No. 505. Appointment of Selection Board Pursuant to Local Rule 191(c)(Fed. R. Civ. P.81)		
+General Order No. 506. Adoption of Amended Employment Dispute Resolution Plan		
+General Order No. 507. Appointment of Merit Selection Panel		
+General Order No. 508. Modification of General Order No. 507		
+General Order No. 509. Appointment of Full-Time United States Magistrate Judge at Sacramento, California		
+General Order No. 510. Modification of General Order No. 230		
+General Order No. 511. Appointment of Full-Time United States Magistrate Judge at Fresno, California		
+General Order No. 512. Increase in Fees for Attorney Admissions and Pro Hac Vice Applications		
+General Order No. 513. Adoption of Revised Plan for the Administration of the Non-Appropriated Fund		
+General Order No. 514. Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 515. Recusal When Former Judge Appears as Counsel		
+General Order No. 516. Reappointment of Lawyer Representative to the Ninth Circuit Judicial Conference		
+General Order No. 517. Appointment of a Merit Selection Panel		
+General Order No. 518. Adoption of Amended Local Rule 292 (Fed. R. Civ. P. 54)		
+General Order No. 519. Appointment of Merit Selection Panel		
+General Order No. 520. Appointment of Merit Selection Panel		
+General Order No. 521. Adoption of Amended Plan for the Administration of the Non-Appropriated Fund June 14, 2012 Superseded by General Order No. 539		
+General Order No. 522. Reappointment of Full-Time United States Magistrate Judge at Redding, California		
+General Order No. 523. Appointment of District Court Technology Users Group July 16, 2012 Superseded by General Order No. 579		
+General Order No. 524. Appointment of Lawyer Representative to the Ninth Circuit Judicial Conference		
+General Order No. 525. Appointment to Judicial Advisory Committee		
+General Order No. 526. Adoption of Amended Local Rule 133 (Fed. R. Civ. P. 5) and Local Rule 160 (Fed. R. Civ. P. 16)		
+General Order No. 527. Appointment of Full-Time United States Magistrate Judge at Sacramento, CA		
+General Order No. 528. Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 529. Reappointment to Judicial Advisory Committee		
+General Order No. 530. Appointment of Full-Time United States Magistrate Judge at Fresno, California		
+General Order No. 531. Deposit and Investment of Registry Funds		
+General Order No. 532. Appointment of a Merit Selection Panel		
+General Order No. 533. Adoption of Amended Local Rules 230 (Fed. R. Civ. P. 78), 403 (Fed. R. Crim. P. 5), 460 (Fed. R. Crim. P. 32) and 461 (Fed. R. Crim. P. 32)		
+General Order No. 534. Order Appointing Marianne Matherly Clerk of Court, Effective May 6, 2013		
+General Order No. 535. Reappointment of Full-Time United States Magistrate Judge at Sacramento, California		
+General Order No. 536. Adoption of Amended Local Rules 101, 137, 159, 163, 202, 205, 281, 403, 460		
+General Order No. 537. Operations of the United States District Court for the Eastern District of California in the Absence of an Appropriations Bill or Continuing Resolution by the United States Congress		
+General Order No. 538. Adoption of Amended Employment Dispute Resolution Plan		
+General Order No. 539. Adoption of Amended Plan for the Administration of the Non-Appropriated Fund November 8, 2013 Supersedes General Order No. 521		
+General Order No. 540. Reappointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 541. Appointment to Judicial Advisory Committee		
+General Order No. 542. Appointment of a Merit Selection Panel		
+General Order No. 543. Duties and Powers of United States Magistrate Judges: Fofeiture of Collateral April 4, 2014 Superseded by General Order No. 574		
+General Order No. 544. Appointment of Lawyer Representative to the Ninth Circuit Judicial Conference		
+General Order No. 545. Reappointment of Full-Time Magistrate Judge at Sacramento, California		
+General Order No. 546. Retroactive Application of United States Sentencing Commission Amendment 782		
+General Order No. 547. Petitions for Clemency, Commutation, and Pardon Applications		
+General Order No. 548. Reappointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 549. Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 550. Adoption of Amended Local Rules 180 (Fed. R. Civ. P. 83), 251 (Fed. R. Civ. P. 37), and 403 (Fed. R. Crim. P. 5)		
+General Orders 551-600		
+General Order No. 551. Appointment to Judicial Advisory Committee		
+General Order No. 552. Appointment of Merit Selection Panel		
+General Order No. 553. Adoption of Amended Jury Selection Plan		
+General Order No. 554. Adoption of Amended Jury Selection Plan		
+General Order No. 555. Adoption of Amended Management Plan for Court Reporting Services March 13, 2015 Supersedes General Order No. 292 Superseded by General Order No. 560		
+General Order No. 556. Appointment of Selection Board Pursuant to Local Rule 191(c) (Fed. R. Civ. P. 81) March 18, 2015 Supersedes General Order No. 505		
+General Order No. 557. Amended Plan for the Selection of Lawyer Representatives to the Ninth Circuit Judicial Conference March 18, 2015 Supersedes General Order No. 136		
+General Order No. 558. Adoption of Amended Plan Governing Reimbursement of Appointed Pro Bono Counsel March 18, 2015 Supersedes General Order No. 510		
+General Order No. 559. Delegation of Approval Authority to Magistrate Judges to Approve CJA Vouchers		
+General Order No. 560. Adoption of Amended Management Plan for Court Reporting Services June 24, 2015 Supersedes General Order No. 555		
+General Order No. 561. Designation of Chief Judge of Bankruptcy Court		
+General Order No. 562. Appointment of Full-Time United States Magistrate Judge at Fresno, California		
+General Order No. 563. Retroactive Application of the Supreme Court's Johnson v. United States Decision		
+General Order No. 564. Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 565. Designation of Chief Magistrate Judge		
+General Order No. 566. Reappointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 567. Appointment of Merit Selection Panel		
+General Order No. 568. Adoption of Amended Jury Selection Plan		
+General Order No. 569. Adoption of Amended Jury Selection Plan		
+General Order No. 570. Appointment of Full-Time United Magistrate Judge at Sacramento, California		
+General Order No. 571. Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 572. Appointment to Judicial Advisory Committee		
+General Order No. 573. Deposit and Investment of Registry Funds November 30, 2016 Supersedes General Order No. 531		
+General Order No. 574. Duties and Powers of United States Magistrate Judges: Forfeiture of Collateral December 28, 2016 Supersedes General Order No. 543		
+General Order No. 575. Obtaining CJA Services Without Prior Approval		
+General Order No. 576. Amendment to General Order 348, Judicial Advisory Committee of the Eastern District of California February 27, 2017 Amends General Order No. 348		
+General Order No. 577. Adoption of Amended Local Rule 150 (Fed. R. Civ. P. 67)		
+General Order No. 578. Appointment of a Merit Selection Panel		
+General Order No. 579. Amended Appointment of District Court Technology Users Group June 8, 2017 Supersedes General Order No. 523		
+General Order No. 580. Reappointment of Full-Time United States Magistrate Judge at Bakersfield, California		
+General Order No. 581. Reappointment of Full-Time United States Magistrate Judge at Fresno, California		
+General Order No. 582. Adoption of Criminal Justice Act Plan		
+General Order No. 583. Appointment of a Merit Selection Panel		
+General Order No. 584. Reappointment and Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 585. Reappointment of Full-Time United States Magistrate Judge at Sacramento, California		
+General Order No. 586. Continued Service of United States Magistrate Judge Michael J. Seng Beyond the Age of 70		
+General Order No. 587. Appointment of Merit Selection Panel (Magistrate Judge Redding)		
+General Order No. 588. Appointment to Judicial Advisory Committee		
+General Order No. 589. Interim CJA Voucher Requests are Required Whenever More than $1,000 of Billable Services have Accrued in a Quarter		
+General Order No. 590. Appointment of Full-Time United States Magistrate Judge at Yosemite, California		
+General Order No. 591. Selection Board for Habeas Corpus Death Penalty Cases		
+General Order No. 592. Appointment of Full-Time United States Magistrate Judge at Redding, California		
+General Order No. 594. Amended Order Re Intermin CJA Voucher Requests are Required Whenever More than $5,000 of Billable Services have Accrued in a Quarter		
+General Order No. 595. Retroactive and Other Application of the First Step Act January 9, 2019		
+General Order No. 596. Adoption of Amended Local Rules 138, 180, 230, 240, 270, 302, 422, 460, Appendix A January 31, 2019		
+General Order No. 597. Appointment of a Merit Selection Panel February 6, 2019		
+General Order No. 598. Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 599. Reappointment of Lawyer Representative to the Ninth Circuit Judicial Conference		
+General Order No. 600. Appointment of a Merit Selection Panel		
+General Orders 601-650		
+General Order No. 601. Reappointment of Full-Time United States Magistrate Judge at Sacramento, California		
+General Order No. 602. Reappointment of Full-Time United States Magistrate Judge at Fresno, California		
+General Order No. 603. Retroactive and Other Application of the Supreme Court's Rehaif v. United States, United States vs. Davis, and Haymond vs. United States Decisions		
+General Order No. 604. Appointment of Lawyer Representative to the Ninth Circuit Judicial Conference		
+General Order No. 605. Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 606. Reassignment of United States Magistrate Judge Jeremy D. Peterson		
+General Order No. 607. Order Appointing Clerk of Court		
+General Order No. 608. Appointment of a Merit Selection Panel		
+General Order No. 609. Appointment of a Merit Selection Panel		
+General Order No. 610. Restrictions on Visitors to Eastern District of California Courthouses		
+General Order No. 611. Findings and Order as to Court Proceedings in Light of COVID-19, Also Known as Coronavirus		
+General Order No. 612. Additional Temporary Restrictions on Courthouse Access and in Courthouse Hearings		
+General Order No. 612  (Clarification). Interpretation of General Order 612; Clarification Regarding Media Access		
+General Order No. 613. Temporary Procedures to Provide Pretrial Service Reports by Email to Assigned Counsel (AUSA and Defense Attorney) Who are Appearing Telephonically or by Video		
+General Order No. 614. Coronavirus Public Emergency Authorizing Video-teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief and Economic Security (CARES) Act		
+General Order No. 615. Social Security Matters Under 42 U.S.C. § 405(g) During the COVID-19 Public Emergency		
+General Order No. 616. Consent and Signature Requirements on Documents Filed in Criminal Actions During the COVID-19 Public Emergency		
+General Order No. 617. Extending Temporary Restrictions on Courthouse Access and in Court Hearings		
+General Order No. 618. Further Extending Temporary Restrictions on Courthouse Access and in Court Hearings Until Further Notice		
+General Order No. 619. Reappointment of Full-Time United States Magistrate Judge at Sacramento, California		
+General Order No. 620. Coronavirus Public Emergency Authorizing Video-Teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief and Economic Security (CARES) Act		
+General Order No. 621. Requirement to Wear Face Coverings in All Eastern District of California Federal Courthouses		
+General Order No. 622. Reappointment of Full-Time Magistrate United States Magistrate Judge at Fresno, California		
+General Order No. 623. Designation of Chief Magistrate Judge		
+General Order No. 624. Coronavirus Public Emergency Authorizing Video-teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief and Economic Security (CARES) Act		
+General Order No. 625. Appointment of Full-Time United States Magistrate Judge at Yosemite, California		
+General Order No. 626. Reappointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 627. Duties and Powers of United States Magistrate Judges: Forfeiture of Collateral		
+General Order No. 628. Coronavirus Public Emergency Authorizing Video-Teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief, and Economic Security (CARES) Act		
+General Order No. 629. Appointments to Judicial Advisory Committee		
+General Order No. 630 Coronavirus Public Emergency Authorizing Video-Teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief, and Economic Security (CARES) Act		
+General Order No. 631 Providing Notice of Planned Reopening of Courthouses on June 14, 2021		
+General Order No. 632 Coronavirus Public Emergency Authorizing Video-Teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief, and Economic Security (CARES) Act		
+General Order No. 633 Policy Regarding the Wearing of Face Coverings in Eastern District of California Federal Courthouses		
+General Order No. 634 Compliance with CDC Guidance in Eastern District of California Courthouses		
+General Order No. 635. Coronavirus Public Emergency Authorizing Video-Teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief, and Economic Security (CARES) Act		
+General Order No. 636. Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 637. COVID-19 Public Health Emergency and Court Policy Re: Vaccination and Testing		
+General Order No. 638. Magistrate Judges’ Policy Re: Vaccination of All Individuals Appearing Before the Court in the Sacramento Division		
+General Order No. 639. Appointment to Judicial Advisory Committee		
+General Order No. 640. Coronavirus Public Emergency Authorizing Video-Teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief, and Economic Security (CARES) Act		
+General Order No. 641. Designation of Chief Magistrate Judge		
+General Order No. 642. Adoption of Amended Jury Selection Plan		
+General Order No. 643. Appointment of a Merit Selection Panel		
+General Order No. 644. Rescission of General Order No. 615 RE: Stay of Social Security Matters Under 42 U.S.C. § 405(g) During the COVID-19 Public Emergency		
+General Order No. 645. Adoption of Amended and New Local Rules 101, 135, 173, 174, 230, 233, 251, 261, 428, 429, 430.1, 460, 461 and Appendix A.		
+General Order No. 646. Adoption of Amended Jury Selection Plan		
+General Order No. 647. Rescission of General Order No. 638 Magistrate Judges’ Police RE Vaccination of All Individuals Appearing Before the Court in the Sacramento Division		
+General Order No. 648. Compliance with CDC Masking Guidance in Eastern District of California Federal Courthouses		
+General Order No. 649. Coronavirus Public Emergency Authorizing Video-Teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief, and Economic Security (CARES) Act March 29, 2022		
+General Order No. 650. Appointment of Phillip A. Talbert as United States Attorney		
+651 to 700		
+General Order No. 651. Direct Assignment of Civil Actions to a Magistrate Judge Only Pursuant to Eastern District of California Local Rule Appendix A(m)		
+General Order No. 652. Coronavirus Public Emergency Authorizing Video-Teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief, and Economic Security (CARES) Act		
+General Order No. 653. Appointment of Full-Time United States Magistrate Judge at Bakersfield, CA		
+General Order No. 654. Designation of Chief Bankruptcy Judge		
+General Order No. 655. Coronavirus Public Emergency Authorizing Video-Teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief, and Economic Security (CARES) Act		
+General Order No. 656 Coronavirus Public Emergency Authorizing Video-Teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief, and Economic Security (CARES) Act		
+General Order No. 657 Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 658 Appointment to Judicial Advisory Committee of the Eastern District of California		
+General Order No. 659 Appointment of a Merit Selection Panel		
+General Order No. 660 Appointment of Lawyer Representatives to the Ninth Circuit Judicial Conference		
+General Order No. 661 Adoption of Criminal Justice Act Plan		
+General Order No. 662 Coronavirus Public Emergency Authorizing Video-Teleconferencing and Telephone Conferencing for Criminal Proceedings Under Section 15002 of the Coronavirus Aid, Relief, and Economic Security (CARES) Act		
+General Order No. 663 Amended Adoption of Criminal Justice Act Plan		
+Standing Orders		
+Sample Order Assigning Random Fresno Civil Actions to Sacramento District Judges		
+Standing Order Re Procedural Rules for Electronic Submission of Prisoner Litigation		
+Judge Daniel J. Calabretta (DJC) Civil Standing Order		
+Judge Dale A. Drozd (DAD) Civil Standing Order		
+Judge Kimberly J. Mueller (KJM) Civil Standing Order		
+Judge Kimberly J. Mueller (KJM) Criminal Standing Order		
+Standing Order Re Release of Defendants on their Own Recognizance in Yosemite National Park and Federal Lands and Federal Enclaves in Kern and Inyo Counties		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

@@ -1,0 +1,929 @@
+Local Rules of the Central District of California	
+Chapter I: Local Civil Rules	
+L.R. 1-1. Applicability	
+L.R. 1-2. General Orders	
+L.R. 1-3. Applicability of Rules to Persons Appearing Without Attorneys	
+L.R. 1-4. Definitions	
+L.R. 3-1. Civil Cover Sheet and Other Forms Required at the Time of Filing a New Action	
+L.R. 3-2. Filing of Initiating Documents	
+L.R. 4-1. Summons - Presentation for Issuance	
+L.R. 4-2. Summons - Service of Process - United States Marshal - Civil Cases	
+L.R. 4-3. Summons - Service of Process - United States Government	
+L.R. 4-4. Summons - Service of Process - Habeas Corpus Proceedings	
+L.R. 4-5. Summons - Service of Process Directed to Foreign Countries or to Persons or Entities Within Them	
+L.R. 5-1. Lodging Documents	
+L.R. 5-2. Filing in Forma Pauperis	
+L.R. 5-3. Serving Documents	
+L.R. 5-3.1. Service of Documents Not Filed Electronically	
+L.R. 5-3.1.1. Service	
+L.R. 5-3.1.2. Proof of Service	
+L.R. 5-3.2. Service of Documents Filed Electronically	
+L.R. 5-3.2.1. Service	
+L.R. 5-3.2.2. Electronic Service for Pro Se Litigants	
+L.R. 5-3.2.3. Consent to Electronic Service [Abrogated]	
+L.R. 5-4. Filing Documents	
+L.R. 5-4.1. Electronic Filing in Civil Cases	
+L.R. 5-4.1.1. Pro Se Litigants	
+L.R. 5-4.1.2. Authorization of Electronic Filing	
+L.R. 5-4.1.3. Applicability of Other Rules	
+L.R. 5-4.1.4. Definitions	
+L.R. 5-4.2. Exceptions to Electronic Filing in Civil Cases	
+L.R. 5-4.3. Format of Electronically Filed Documents	
+L.R. 5-4.3.1. Technical Requirements (File Format and Size Limitations)	
+L.R. 5-4.3.2. Redaction	
+L.R. 5-4.3.3. Hyperlinks	
+L.R. 5-4.3.4. Signatures	
+L.R. 5-4.4. Submission of Proposed Orders, Judgments, or Other Proposed Documents that Require a Judge's Signature	
+L.R. 5-4.4.1. Electronic Lodging of Proposed Orders	
+L.R. 5-4.4.2. Submission of Word-Processing Versions of Proposed Orders	
+L.R. 5-4.5. Mandatory Chambers Copies	
+L.R. 5-4.6. Deadlines	
+L.R. 5-4.6.1. Timeliness	
+L.R. 5-4.6.2. Technical Failures	
+L.R. 5-4.7. Effectiveness of Electronic Filings	
+L.R. 5-4.7.1. Entry of Documents	
+L.R. 5-4.7.2. Certification of Electronic Documents	
+L.R. 5-4.7.3. Court Orders	
+L.R. 5-4.8. Maintenance of Personal Contact Information	
+L.R. 5-4.8.1. Obligation to Maintain Personal Contact Information	
+L.R. 5-4.8.2. Obligation to Maintain Electronic Post Office Box	
+L.R. 5.2-1. Redaction	
+L.R. 5.2-2. Exceptions	
+L.R. 5.2-2.1. Remote Access Limitations	
+L.R. 5.2-2.2. Documents to be Excluded from the Public Case File	
+L.R. 6-1. Notice and Service of Motion	
+L.R. 7-1. Stipulations	
+L.R. 7-2. Applicability	
+L.R. 7-3. Conference of Counsel Prior to Filing of Motions	
+L.R. 7-4. Motions	
+L.R. 7-5. Moving Papers	
+L.R. 7-6. Evidence on Motions	
+L.R. 7-7. Form and Content of Declarations	
+L.R. 7-8. Presence of Declarants - Civil Cases	
+L.R. 7-9. Opposing Papers	
+L.R. 7-10. Reply Papers	
+L.R. 7-11. Continuance of Hearing Date	
+L.R. 7-12. Failure to File Required Documents	
+L.R. 7-13. Sanctions for Late Filing	
+L.R. 7-14. Appearances at Hearing	
+L.R. 7-15. Oral Argument - Waiver	
+L.R. 7-16. Advance Notice of Withdrawal or Non-Opposition	
+L.R. 7-17. Resubmission of Motions Previously Acted Upon	
+L.R. 7-18. Motion for Reconsideration	
+L.R. 7-19. Ex Parte Application	
+L.R. 7-19.1. Notice of Application	
+L.R. 7-19.2. Waiver of Notice	
+L.R. 7-20. Orders on Motions and Applications	
+L.R. 7.1-1. Notice of Interested Parties	
+L.R. 8-1. Jurisdiction - Allegations	
+L.R. 8-2. Three-Judge Court - Identification in Pleading	
+L.R. 8-3. Response to Initial Complaint	
+L.R. 11-1. Signature of Counsel	
+L.R. 11-2. Facsimile Documents	
+L.R. 11-3. Documents Presented to the Court - Form and Format	
+L.R. 11-3.1. Legibility	
+L.R. 11-3.1.1. Font	
+L.R. 11-3.2. Paper	
+L.R. 11-3.3. Pagination	
+L.R. 11-3.4. Original; Copies	
+L.R. 11-3.5. Pre-Punching of Documents	
+L.R. 11-3.6. Spacing	
+L.R. 11-3.6.1. Footnotes - Exception	
+L.R. 11-3.6.2. Real Property Description - Exception	
+L.R. 11-3.6.3. Corporate Surety Bonds - Exception	
+L.R. 11-3.7. Quotations	
+L.R. 11-3.8. Title Page	
+L.R. 11-3.9. Citations	
+L.R. 11-3.9.1. Acts of Congress	
+L.R. 11-3.9.2. Regulations	
+L.R. 11-3.9.3. Cases	
+L.R. 11-3.10. Translations Required	
+L.R. 11-4. Copies	
+L.R. 11-4.1. In General	
+L.R. 11-4.1.1. Electronically Filed Documents	
+L.R. 11-4.1.2. Non-Electronically Filed Documents [Deleted]	
+L.R. 11-4.2. Three-Judge Court	
+L.R. 11-4.3. Carbon Copies [Deleted]	
+L.R. 11-4.4. Conformed Copy	
+L.R. 11-4.5. Request for Conformed Copy	
+L.R. 11-5. Exhibits to Documents	
+L.R. 11-5.1. Nonpaper Physical Exhibits to Documents	
+L.R. 11-5.2. Paper Exhibits to Documents – Attachment and Numbering	
+L.R. 11-5.3. Exhibit Numbers on Paper Exhibits to Documents	
+L.R. 11-5.4. Size of Paper Exhibits to Documents	
+L.R. 11-5.5. Small Paper Exhibits to Documents	
+L.R. 11-6. Points and Authorities - Trial Briefs - Length	
+L.R. 11-6.1 Points and Authorities - Trial Briefs - Length	
+L.R. 11-6.2. Certificate of Compliance	
+L.R. 11-7. Appendices	
+L.R. 11-8. Table of Contents and Table of Authorities	
+L.R. 11-9. Sanctions	
+L.R. 15-1. Separate Document	
+L.R. 15-2. Complete Document	
+L.R. 15-3. Date of Service	
+L.R. 15-4. [Deleted]	
+L.R. 16-1. Applicability	
+L.R. 16-2. Meeting of Counsel Before Final Pretrial Conference	
+L.R. 16-2.1. Subject Matter Jurisdiction	
+L.R. 16-2.2. Stipulation to Facts	
+L.R. 16-2.3. Disclosure of Exhibits	
+L.R. 16-2.4. Disclosure of Witnesses	
+L.R. 16-2.5. Expert Witnesses	
+L.R. 16-2.6. Evidentiary Matters	
+L.R. 16-2.7. Depositions	
+L.R. 16-2.8. Contentions of Law and Fact	
+L.R. 16-2.9. Settlement	
+L.R. 16-3. Disclosure of Graphic and Illustrative Material	
+L.R. 16-4. Memorandum of Contentions of Fact and Law	
+L.R. 16-4.1. Claims and Defenses	
+L.R. 16-4.2. [Abrogated]	
+L.R. 16-4.3. Bifurcation of Issues	
+L.R. 16-4.4. Jury Trial	
+L.R. 16-4.5. Attorneys' Fees	
+L.R. 16-4.6. Abandonment of Issues	
+L.R. 16-5. Witness List	
+L.R. 16-6. Exhibits	
+L.R. 16-6.1. Joint Exhibit List	
+L.R. 16-6.2. Enlarged Copies of Exhibits	
+L.R. 16-6.3. Objections to Exhibits	
+L.R. 16-6.4. Marking of Exhibits for Trial	
+L.R. 16-7. Final Pretrial Conference Order	
+L.R. 16-7.1. Lodging	
+L.R. 16-7.2. Form	
+L.R. 16-8. Final Pretrial Conference	
+L.R. 16-8.1. Unserved Parties	
+L.R. 16-8.2. Other Matters	
+L.R. 16-8.3. Setting of Trial Date	
+L.R. 16-9. Continuances	
+L.R. 16-10. Trial Brief	
+L.R. 16-11. Waiver of Pretrial	
+L.R. 16-11.1. Procedure on Waiver	
+L.R. 16-11.2. Preparation for Trial	
+L.R. 16-11.3. Guideline for Granting Waiver	
+L.R. 16-12. Exemptions	
+L.R. 16-13. Representation at Conferences	
+L.R. 16-14. Modification of Scheduling Orders and Pretrial Orders	
+L.R. 16-15. Policy Re Settlement & ADR	
+L.R. 16-15.1. Proceedings Mandatory	
+L.R. 16-15.2. Time for Proceedings	
+L.R. 16-15.3. Court-Ordered Proceedings	
+L.R. 16-15.4. Suggested ADR Procedures	
+L.R. 16-15.5. Requirements for ADR Procedures	
+L.R. 16-15.6. Optional Requirements for ADR Procedures	
+L.R. 16-15.7. Report of Settlement	
+L.R. 16-15.8. Confidentiality	
+L.R. 16-15.9. Rule Non-Exclusive	
+L.R. 17-1. Minors or Incompetents	
+L.R. 17-1.1. Minors or Incompetents - Appointment of Guardian Ad Litem	
+L.R. 17-1.2. Minors or Incompetents - Settlement of Claim of Minor or Incompetent	
+L.R. 17-1.3. Minors or Incompetents - Settlement of Claim Procedure	
+L.R. 17-1.4. Minors or Incompetents - Attorney's Fees	
+L.R. 17-1.5. Minors or Incompetents - Judgment or Settlement Funds	
+L.R. 17-1.6. Minors or Incompetents - Disbursement of Funds	
+L.R. 17-1.6.1. Conformance to State Law	
+L.R. 17-1.7. Minors or Incompetents - Letters of Guardianship or Custody - Bond	
+L.R. 17-1.7.1. Corporate Guardian	
+L.R. 19-1. Fictitiously Named Parties	
+L.R. 19-2. Misjoinder	
+L.R. 23-1. Caption	
+L.R. 23-2. Class Allegations	
+L.R. 23-2.1. Statutory Reference	
+L.R. 23-2.2. Class Action Requisites	
+L.R. 23-3. Certification	
+L.R. 26-1. Conference of Parties; Report	
+L.R. 26-2. Discovery Documents - Filing	
+L.R. 26-3. Exhibits in Discovery	
+L.R. 26-3.1. Numbering of Exhibits	
+L.R. 26-3.2. Duplicate Exhibits	
+L.R. 26-3.3. Inadvertent Numbering of a Duplicate Exhibit	
+L.R. 26-3.4. Designation of Exhibit Sub-Parts	
+L.R. 26-3.5. Exhibits - Internal Control Numbering	
+L.R. 32-1. Use at Trial or an Evidentiary Hearing	
+L.R. 32-2. Original of Transcript	
+L.R. 33-1. Numbering	
+L.R. 33-2. Answers and Objections	
+L.R. 33-3. Original	
+L.R. 34-1. Numbering	
+L.R. 34-2. Responses and Objections	
+L.R. 34-3. Original	
+L.R. 36-1. Numbering	
+L.R. 36-2. Answers and Objections	
+L.R. 36-3. Original	
+L.R. 37-1. Prefiling Conference of Counsel	
+L.R. 37-2. Moving Papers	
+L.R. 37-2.1. Form of Joint Stipulation	
+L.R. 37-2.2. Preparation of Joint Stipulation	
+L.R. 37-2.3. Supplemental Memorandum	
+L.R. 37-2.4. Failure to File Joint Stipulation	
+L.R. 37-3. Hearing on Motion	
+L.R. 37-4. Cooperation of Counsel - Sanctions	
+L.R. 38-1. Jury Trial Demand - Included in Pleading	
+L.R. 38-2. Jury Trial Demand - Removed Cases Where Jury Trial Not Demanded Prior to Removal	
+L.R. 38-3. Jury Trial Demand - Marking Civil Cover Sheet Insufficient	
+L.R. 38-4. Exceptions	
+L.R. 40-1. Continuances	
+L.R. 40-1.1. Notice of Application for Continuance	
+L.R. 40-1.2. Application for Continuance - Approval of the Court	
+L.R. 40-2. Notice of Settlement	
+L.R. 40-3. Late Notification	
+L.R. 41-1. Dismissal - Unreasonable Delay	
+L.R. 41-2. Dismissal - Effect	
+L.R. 41-3. Reinstatement - Sanctions	
+L.R. 41-4. Refiling of Dismissed Action	
+L.R. 41-5. Dismissal - Failure to Appear	
+L.R. 41-6. Dismissal - Failure of Pro Se Plaintiff to Keep Court Apprised of Current Address	
+L.R. 43-1. Non-Jury Trial - Narrative Statements	
+L.R. 45-1. Motions Relating to Discovery Subpoenas	
+L.R. 49-1. Request for Special Verdict or Interrogatories	
+L.R. 49-2. Form - Presentation by Counsel	
+L.R. 51-1. Requests for Instructions	
+L.R. 51-2. Form of Requests	
+L.R. 51-3. Identity of Requesting Party	
+L.R. 51-4. Citation of Authority	
+L.R. 51-5. Objections	
+L.R. 51-5.1. Separate Objections	
+L.R. 52-1. Non-Jury Trial - Findings of Fact and Conclusions of Law	
+L.R. 52-2. Other Findings of Fact and Conclusions of Law	
+L.R. 52-3. Format	
+L.R. 52-4. Orders	
+L.R. 52-4.1. Separate Order	
+L.R. 52-5. Signing of Orders for Absent Judges	
+L.R. 52-6. Service of Document	
+L.R. 52-7. Separate Objection	
+L.R. 52-8. Endorsement of Counsel	
+L.R. 52-9. Order Upon Stipulation [Deleted]	
+L.R. 53-1. Appointment	
+L.R. 53-2. Fees and Expenses	
+L.R. 54-1. Determination of Prevailing Party	
+L.R. 54-2. Application to Tax Costs Under F.R.Civ.P. 54(d); Bill of Costs	
+L.R. 54-2.1. Filing and Form of Application to the Clerk to Tax Costs	
+L.R. 54-2.2. Objections	
+L.R. 54-2.3. Response to Objections	
+L.R. 54-2.4. Clerk's Determination - Finality	
+L.R. 54-2.5. Review of Clerk's Determination	
+L.R. 54-3. Items Taxable as Costs	
+L.R. 54-3.1. Clerk's Fees	
+L.R. 54-3.2. Fees for Service of Process	
+L.R. 54-3.3. United States Marshal's Fees	
+L.R. 54-3.4. Transcripts of Court Proceedings	
+L.R. 54-3.5. Depositions	
+L.R. 54-3.6. Witness Fees	
+L.R. 54-3.7. Interpreter's Fees	
+L.R. 54-3.8. Docket Fees	
+L.R. 54-3.9. Court-Appointed Experts, Masters, Commissioners, and Receivers	
+L.R. 54-3.10. Certification, Exemplification and Reproduction of Documents	
+L.R. 54-3.11. Premiums on Undertakings and Bonds	
+L.R. 54-3.12. Other Costs	
+L.R. 54-3.13. State Court Costs	
+L.R. 54-4. Items Taxable as Costs on Appeal	
+L.R. 54-5. Items Taxable as Costs on a Bankruptcy Appeal to the District Court	
+L.R. 54-6. Writ of Execution for Attorney's Fees and Costs	
+L.R. 54-7. Filing Date for Requests for Attorneys' Fees	
+L.R. 54-8. Filing Date for Motions to Award Costs Not Governed by F.R.Civ.P. 54(d)	
+L.R. 54-9. Writ of Execution for Costs	
+L.R. 54-10. Filing Date for Requests for Attorneys' Fees	
+L.R. 54-11. Filing Date for Motions to Award Costs Not Governed by F.R.Civ.P. 54(d)	
+L.R. 55-1. Default Judgments	
+L.R. 55-2. Default Judgment - Unliquidated Damages	
+L.R. 55-3. Default Judgment - Schedule of Attorneys' Fees	
+L.R. 56-1. Documents Required from Moving Party	
+L.R. 56-2. Statement of Genuine Disputes of Material Fact by Opposing Party	
+L.R. 56-3. Response to Statement of Genuine Disputes of Material Fact	
+L.R. 56-4. Determination of Motion	
+L.R. 58-1. Entry of Judgments and Orders	
+L.R. 58-2. Entry of Judgments - Costs	
+L.R. 58-3. Entry of Judgments and Orders - Clerk's Orders and Judgments	
+L.R. 58-4. Entry of Judgments and Orders - Settlement of Orders or Judgments	
+L.R. 58-5. Judgment by Clerk	
+L.R. 58-6. Entry of Judgment - Memorandum of Decision, Opinion, Minute Order	
+L.R. 58-7. Entry of Judgment - Settlement of Interest	
+L.R. 58-8. Entry of Judgment - Award - Tax Cases	
+L.R. 58-9. Judgment, Order, Decree - United States a Party - Duty of Clerk	
+L.R. 58-10. Signature Line for Signature of Judge	
+L.R. 58-11. Default Judgment - Separate Document	
+L.R. 59-1. New Trial - Procedure	
+L.R. 59-1.1. Specification of Ground - Error of Law	
+L.R. 59-1.2. Specification of Ground - Insufficiency of Evidence	
+L.R. 59-1.3. Specification of Ground - Newly Discovered Evidence	
+L.R. 59-1.4. New Trial - Hearing	
+L.R. 59-1.5. New Trial - Declarations - Time for Filing	
+L.R. 59-1.6. New Trial - Calendaring of Motion	
+L.R. 64-1. Issuance of Writ	
+L.R. 64-2. Writs or Other Process of Seizure - Civil Cases - Execution and Return	
+L.R. 64-3. Process Requiring Entry Upon Premises	
+L.R. 64-4. Applications Concerning Provisional Remedies	
+L.R. 65-1. Temporary Restraining Orders and Preliminary Injunctions	
+L.R. 65-2. Approval of Bonds, Undertakings and Stipulations of Security	
+L.R. 65-3. Bonds or Undertakings - Sureties - Qualifications	
+L.R. 65-4. Bonds or Undertakings - Corporate Surety	
+L.R. 65-5. Bonds or Undertakings - Certificate by Attorney	
+L.R. 65-6. Certificate by Attorney - Meaning	
+L.R. 65-7. Bonds or Undertakings - Approval of Judge	
+L.R. 65-8. Bonds or Undertakings - Summary Adjudication of Obligation and Execution - Proceeding	
+L.R. 65-9. Bonds or Undertakings - Surety - Judges and Attorneys	
+L.R. 65-10. Bonds or Undertakings - Cash Deposit	
+L.R. 66-1. Temporary Receiver	
+L.R. 66-2. Temporary Receiver - Term of Appointment	
+L.R. 66-3. Permanent Receiver - Order to Show Cause	
+L.R. 66-4. Permanent Receiver - Notice	
+L.R. 66-4.1. Notice - Change of Form	
+L.R. 66-5. Schedule of Creditors	
+L.R. 66-5.1. Known Creditors - Defined	
+L.R. 66-6. Permanent Receivers - Reports	
+L.R. 66-6.1. Report Required	
+L.R. 66-7. Permanent Receivers - Notice of Hearing	
+L.R. 66-8. Permanent and Temporary Receivers - Administration of Estate	
+L.R. 66-8.1. Permanent Receivers - Attorney - Records	
+L.R. 66-8.2. Failure to Maintain Itemized Record	
+L.R. 67-1. Order of Deposit - Service on the Clerk	
+L.R. 67-2. Registry Fee on Funds Deposited	
+L.R. 67-3. Financial Institution Fee on Funds Deposited	
+L.R. 69-1. Writs and Examinations	
+L.R. 72-1. Duties and Functions of Magistrate Judges	
+L.R. 72-2. Nondispositive Rulings on Pretrial Matters	
+L.R. 72-2.1. Motions for Review of Nondispositive Rulings	
+L.R. 72-2.2. Effectiveness of Magistrate Judge's Ruling Pending Review	
+L.R. 72-3. Dispositive Motions and Prisoner Petitions	
+L.R. 72-3.1. Duties of Magistrate Judge	
+L.R. 72-3.2. Summary Dismissal of Habeas Corpus Petition	
+L.R. 72-3.3. Report by Magistrate Judge	
+L.R. 72-3.4. Objections to Report Where Party in Custody	
+L.R. 72-3.5. Determination of Objections by District Judge	
+L.R. 72-3.6. Filing of Transcript	
+L.R. 72-4. Post-Judgment Matters	
+L.R. 72-5. Motion to Disqualify Magistrate Judge	
+L.R. 73-1. Authorization	
+L.R. 73-2. Direct Assignment of Cases to Magistrate Judge	
+L.R. 73-2.1. Notice	
+L.R. 73-2.2. Proof of Service	
+L.R. 73-2.3. Execution of Statement of Consent	
+L.R. 73-2.4. Filing of Statement of Consent	
+L.R. 73-2.4.1. Cases Originally Filed in District Court	
+L.R. 73-2.4.1.1. Exception for United States, its Agencies, Officers and Employees	
+L.R. 73-2.4.2. Cases Removed from State Court	
+L.R. 73-2.5. Party Added After Election to Proceed Before Magistrate Judge	
+L.R. 73-2.6. Discovery Assignment	
+L.R. 73-3. Consent in Cases Assigned for Report and Recommendation	
+L.R. 77-1. Procedures for Emergency Matters	
+L.R. 78-1. Motion Days	
+L.R. 79-1. Clerk's Office - Removal of Records and Files	
+L.R. 79-2. Receipt for Removal	
+L.R. 79-2.1. Clerk's Office - Removal of Records and Files - Court Officers	
+L.R. 79-3. Retention and Disposition of Exhibits	
+L.R. 79-4. Contraband and Valuable, Sensitive, and Dangerous Exhibits	
+L.R. 79-5. Confidential Court Records – Under Seal	
+L.R. 79-5.1. Definition	
+L.R. 79-5.2. Procedures	
+L.R. 79-5.2.1. Under-Seal Civil Cases	
+L.R. 79-5.2.2. Under-Seal Documents in Non-Sealed Civil Cases	
+L.R. 79-5.3. Service of Documents Filed Under Seal	
+L.R. 79-6. Confidential Court Records – In Camera Review	
+L.R. 79-6.1. In Camera Review	
+L.R. 79-6.2. Prior Court Approval Required	
+L.R. 79-6.3. After Review	
+L.R. 79-7. Confidential Court Records – Disclosure	
+L.R. 79-7.1. Non-Disclosure of Confidential Court Records	
+L.R. 79-7.2. Procedure for Disclosure of Confidential Court Records	
+L.R. 83-1. Assignment of Cases - Notice of Related Cases in Central District, Other Actions, or Petitions to Multidistrict Panel	
+L.R. 83-1.1. Assignment of Cases	
+L.R. 83-1.2. Refiling of Actions	
+L.R. 83-1.2.1. Improper Refiling of Actions	
+L.R. 83-1.2.2. Duty on Refiling of Actions	
+L.R. 83-1.3. Notice of Related Cases	
+L.R. 83-1.3.1. Notice of Related Civil Cases	
+L.R. 83-1.3.2. Notice of Related Civil Forfeiture and Criminal Cases	
+L.R. 83-1.3.3. Opposition	
+L.R. 83-1.3.4. Continuing Duty	
+L.R. 83-1.4. Notice of Pendency of Other Actions or Proceedings	
+L.R. 83-1.4.1. Notice	
+L.R. 83-1.4.2. Notice - Contents	
+L.R. 83-1.4.3. Notice of Petition to the Judicial Panel on Multidistrict Litigation - Duty of Counsel	
+L.R. 83-2. Attorneys; Parties Without Attorneys	
+L.R. 83-2.1. Attorneys	
+L.R. 83-2.1.1. Appearance Before the Court	
+L.R. 83-2.1.1.1. Who may Appear	
+L.R. 83-2.1.1.2. Effect of Appearance	
+L.R. 83-2.1.1.3. Form of Appearance - Professional Corporations and Unincorporated Law Firms	
+L.R. 83-2.1.2. The Bar of this Court	
+L.R. 83-2.1.2.1. In General	
+L.R. 83-2.1.2.2. Admission to the Bar of this Court	
+L.R. 83-2.1.2.3. Continuing Membership in the Bar of this Court	
+L.R. 83-2.1.3. Pro Hac Vice Practice	
+L.R. 83-2.1.3.1. Who may Apply for Permission to Practice Pro Hac Vice	
+L.R. 83-2.1.3.2. Disqualification from Pro Hac Vice Appearance	
+L.R. 83-2.1.3.3. How to Apply for Permission to Appear Pro Hac Vice	
+L.R. 83-2.1.3.4. Designation of Local Counsel	
+L.R. 83-2.1.3.5. Designation of Co-Counsel	
+L.R. 83-2.1.4. Attorneys for the United States or its Departments or Agencies	
+L.R. 83-2.1.4.1. Attorney for the United States or its Departments or Agencies	
+L.R. 83-2.1.4.2. Special Assistant United States Attorneys	
+L.R. 83-2.1.5. Registered Legal Services Attorney	
+L.R. 83-2.2. Parties Without Attorneys	
+L.R. 83-2.2.1. Individuals	
+L.R. 83-2.2.2. Organizations	
+L.R. 83-2.2.3. Compliance with Federal Rules	
+L.R. 83-2.2.4. Sanctions	
+L.R. 83-2.3. Withdrawal and Substitution of Attorneys	
+L.R. 83-2.3.1. Appearance by Attorney	
+L.R. 83-2.3.2. Motion for Withdrawal	
+L.R. 83-2.3.3. Individuals	
+L.R. 83-2.3.4. Organizations	
+L.R. 83-2.3.5. Delays by Substitution of Attorneys	
+L.R. 83-2.4. Notification of Change of Name, Address, Firm Association, Telephone Number, Facsimile Number or E-Mail Address	
+L.R. 83-2.5. Communications with the Judge	
+L.R. 83-3. Attorney Disciplinary Rules of the Court	
+L.R. 83-3.1. Discipline	
+L.R. 83-3.1.1. The Standing Committee on Discipline	
+L.R. 83-3.1.2. Standards of Professional Conduct - Basis for Disciplinary Action	
+L.R. 83-3.1.3. Possible Disciplinary Penalties	
+L.R. 83-3.1.4. Who may Originate Complaints - Initial and Further Investigation - Hearing and Opportunity for Attorney Involved to Appear and Present Evidence	
+L.R. 83-3.1.4.1. Appointment of Prosecutor	
+L.R. 83-3.1.4.2. Duties of the Chief Judge	
+L.R. 83-3.1.4.3. Indemnification of Prosecutor, Section, and Committee	
+L.R. 83-3.1.5. Right of Attorney Involved to a Hearing and to Present Evidence	
+L.R. 83-3.1.6. Confidentiality of Proceedings	
+L.R. 83-3.1.7. Presentation of Disciplinary Recommendations to the Court	
+L.R. 83-3.1.8. Application for Reinstatement	
+L.R. 83-3.2. Enforcement of Attorney Discipline	
+L.R. 83-3.2.1. Disbarment or Suspension by Other Courts or Conviction of a Crime	
+L.R. 83-3.2.2. Alternatives	
+L.R. 83-3.2.3. Contested Matters	
+L.R. 83-3.2.4. Reinstatement	
+L.R. 83-3.2.5. Discipline by Agencies	
+L.R. 83-3.2.6. Notice of Disciplinary Action to State Bar and Other Courts	
+L.R. 83-3.2.7. Powers of an Individual Judge to Deal with Contempt or Other Misconduct Not Affected	
+L.R. 83-3.3. Practice Prohibited While on Inactive Status	
+L.R. 83-3.4. Obligation to Notify Court of Felony Conviction or Change of Status	
+L.R. 83-4. Student Practice	
+L.R. 83-4.1. Consent	
+L.R. 83-4.2. Requirements	
+L.R. 83-4.3. Supervising Attorney	
+L.R. 83-4.4. Law School Dean's Certification	
+L.R. 83-4.5. Student Appearance	
+L.R. 83-5. [Reserved]	
+L.R. 83-6. Possession and Use of Electronic Devices	
+L.R. 83-6.1. Definitions	
+L.R. 83-6.1.1. Electronic Devices	
+L.R. 83-6.1.2. Courthouse	
+L.R. 83-6.2. Possession	
+L.R. 83-6.3. Permissible Uses of Electronic Devices	
+L.R. 83-6.4. Prohibited Uses	
+L.R. 83-6.5. Restricted Areas	
+L.R. 83-6.6. Use of Electronic Devices from Remote Locations	
+L.R. 83-6.7. Use of Electronic Devices by Jurors	
+L.R. 83-6.8. Exceptions	
+L.R. 83-6.8.1. Official Recordings	
+L.R. 83-6.8.2. Video Testimony	
+L.R. 83-6.8.3. Ceremonial and Educational Functions	
+L.R. 83-6.8.4. Press Conferences	
+L.R. 83-6.8.5. Dictation	
+L.R. 83-6.9. Enforcement	
+L.R. 83-6.9.1. Violations of Rule	
+L.R. 83-6.9.2. Contempt	
+L.R. 83-7. Sanctions - Violation of Rule	
+L.R. 83-8. Vexatious Litigants	
+L.R. 83-8.1. Policy	
+L.R. 83-8.2. Orders for Security and Control	
+L.R. 83-8.3. Findings	
+L.R. 83-8.4. Reference to State Statute	
+L.R. 83-9. Time Limits for Decisions by Court	
+L.R. 83-9.1. Time Limit Established	
+L.R. 83-9.1.1. "Submitted" Defined	
+L.R. 83-9.2. Duty of Counsel	
+L.R. 83-9.3. Duty of Court to Respond	
+L.R. 83-9.4. Follow-Up Duty of Counsel	
+L.R. 83-9.5. Date of Intended Decision	
+L.R. 83-10. Appeals - Designation of Reporter's Transcript	
+L.R. 83-11 through 83-15. [Reserved]	
+L.R. 83-16. Habeas Corpus Petitions and Motions Under 28 U.S.C. Section 2255	
+L.R. 83-16.1. Court Forms	
+L.R. 83-16.2. Verification - Other than by Person in Custody	
+L.R. 83-16.3. Habeas Corpus - Exclusion, Deportation and Removal Cases	
+L.R. 83-17. Special Requirements for Habeas Corpus Petitions Involving the Death Penalty	
+L.R. 83-17.1. Applicability	
+L.R. 83-17.2. Timely Notice of Execution Dates from California Attorney General	
+L.R. 83-17.3. Initial Filings and Petitions	
+L.R. 83-17.4. Appointment of Counsel	
+L.R. 83-17.5. Transfer of Venue	
+L.R. 83-17.6. Stays of Execution	
+L.R. 83-17.7. Procedures for Considering the Petition	
+L.R. 83-17.8. Evidentiary Hearing	
+L.R. 83-17.9. Budgeting Capital Habeas Cases	
+L.R. 83-17.10. Rulings	
+L.R. 85-1. Short Title	
+Appendix A to Local Rules	
+Appendix B to Local Rules	
+Appendix C to Local Rules	
+Chapter II: Local Rules for Admiralty and Maritime Claims and Asset Forfeiture Actions	
+Rule A (RA-A) - Scope and Definitions	
+A.1 (RA-A.1). Scope	
+A.2 (RA-A.2). Officers of the Court	
+A.3 (83, RA-A.1). Citation	
+Rule B (RB-B) - Attachment and Garnishment	
+B.1 (83, RB-B.1). Identification of State Law Invoked	
+B.2 (RB-B.1). Affidavit that Defendant is Not Found Within the District	
+Rule C (RC-C) - Actions In Rem: Special Provisions	
+C.1 (RC-C.1). Undertakings in Lieu of Arrest	
+C.2 (RC-C.2). Intangible Property	
+C.3 (RC-C.3). Notice of Action and Arrest	
+C.4 (RC-C.4). Default in Action In Rem	
+C.5 (RC-C.5). Entry of Default and Default Judgment	
+C.6 (RC-C.3). Application for Order Authorizing Issuance of Warrant for Arrest of Vessel or Other Property	
+Rule D (RD-D) - Possessory, Petitory and Partition Actions	
+D.1 (RD-D.1). Return Date	
+Rule E (RE-E) - Actions In Rem and Quasi In Rem: General Provisions	
+E.1 (RE-E.1). Itemized Demand for Judgment	
+E.2 (83, RE-E.1). Itemized Demand for Salvage Award	
+E.3 (RE-E.2). Verification and Pleadings	
+E.4 (83-RE.3). Review by Judicial Officer	
+E.5 (83-E.3). Process Held in Abeyance	
+E.6 (83-C.3). Service by Marshal Required	
+E.7 (83). Instructions to the Marshal	
+E.8 (83). Property in Possession of United States Officer	
+E.9 (83-E.2). Security for Costs	
+E.10 (83-E.4). Adversary Hearing	
+E.11 (83). Appraisal	
+E.12 (83). Security Deposit for Arrest or Attachment of Vessels	
+E.13 (83). Intervenor's Claims	
+E.14 (83). Custody of Property	
+E.15 (83-E.9). Sale of Property	
+Rule F (RF-F) - Limitation of Liability	
+F.1 (83-F.1). Security for Costs	
+F.2 (83). Order of Proof at Trial	
+Rule G (83, RG-G) – Miscellaneous	
+G.1 (83). Deserting Seamen Cases	
+G.2 (83). Rate of Prejudgment Interest Allowed	
+G.3 (83). Assignment of Actions	
+Chapter III: Local Criminal Rules	
+L.Cr.R. 5-1. Request to Recall Warrant of Removal	
+L.Cr.R. 7-1. Indictment or Information - Copies	
+L.Cr.R. 7-2. Superseding Indictment or Information	
+L.Cr.R. 7-3. Notice of Complex Case	
+L.Cr.R. 7-4. Notice of Related Criminal Cases	
+L.Cr.R. 7-5. Notice of Related Supervised-Release Case	
+L.Cr.R. 7-6. Notice of Case Related to Pre-Indictment Death-Eligible Matter	
+L.Cr.R. 9-1. Return of Service	
+L.Cr.R. 10-1. Service of Copy of Indictment or Information	
+L.Cr.R. 10-2. Duty of Defendant [Abrogated]	
+L.Cr.R. 12-1. Motion to Suppress	
+L.Cr.R. 12-1.1. Declaration in Support	
+L.Cr.R. 12-1.2. Response of Government	
+L.Cr.R. 12-1.3. Availability of Declarants	
+L.Cr.R. 17-1. Subpoena - Issuance Under Rule 17(b) - Witness Within the District	
+L.Cr.R. 17-2. Subpoena - Issuance Under Rule 17(b) - Witness Outside the District	
+L.Cr.R. 17-3. Subpoena - Fees - Private Service	
+L.Cr.R. 17-4. Subpoena - Confidentiality	
+L.Cr.R. 24-1. Nondisclosure of Jurors' Identity	
+L.Cr.R. 32-1. Supervised Release and Probation - General Conditions	
+L.Cr.R. 32-2. Supervised Release and Probation - General Conditions - Duty of United States Probation Officer	
+L.Cr.R. 32-3. Presentence Investigation ("PSI") Report	
+L.Cr.R. 32-3.1. Minimum Custody Cases	
+L.Cr.R. 32-3.2. Presentence Investigation Reports	
+L.Cr.R. 32-3.3. [Abrogated]	
+L.Cr.R. 32-3.4. Defense Counsel to Provide Defendant with Copy of PSI Report	
+L.Cr.R. 32-3.5. Supervised Release and Probation Records	
+L.Cr.R. 32.1-1. Supervised Release and Probation - Arrest of Violator - Duty of Marshal	
+L.Cr.R. 32.1-2. Supervised Release and Probation Violation - Notice to Attorney for Defendant	
+L.Cr.R. 44-1. Withdrawal of Counsel	
+L.Cr.R. 46-1. Authority of Magistrate Judges	
+L.Cr.R. 46-1.1. Death Penalty Case	
+L.Cr.R. 46-1.2. Bail Previously Fixed by District Judge [Abrogated]	
+L.Cr.R. 46-1.3. Detention Hearing Held After Arraignment	
+L.Cr.R. 46-1.4. Review by Criminal Duty Judge – Hearing Only if Ordered	
+L.Cr.R. 46-2. Modification of Conditions of Bail	
+L.Cr.R. 46-2.1. Written Consent of Surety and Third-Party Custodian	
+L.Cr.R. 46-3. Methods of Bail	
+L.Cr.R. 46-3.1. Appearance Bond – Surety's Affidavit Where No Justification Required	
+L.Cr.R. 46-3.2. Appearance Bond – Affidavit by Owner of Cash Security	
+L.Cr.R. 46-3.3. Appearance Bond – Surety's Affidavit Where Justification Required	
+L.Cr.R. 46-3.3.1. Documentation - Deed of Trust	
+L.Cr.R. 46-3.4. Review of Surety and Documentation by United States Attorney	
+L.Cr.R. 46-3.4.1. Disapproval or Failure to Respond by United States Attorney - Hearing	
+L.Cr.R. 46-4. Appearance Bonds Under $10,000	
+L.Cr.R. 46-5. Corporate Surety - Bond	
+L.Cr.R. 46-5.1. Corporate Surety - Statement Upon Filing	
+L.Cr.R. 46-5.2. Corporate Surety - Failure to Comply	
+L.Cr.R. 46-6. Bond - Summary Adjudication of Obligation	
+L.Cr.R. 46-7. Bond - Exoneration	
+L.Cr.R. 46-8. Court Officers as Surety	
+L.Cr.R. 49-1. Serving and Filing Documents	
+L.Cr.R. 49-1.1. Mandatory Electronic Filing in Criminal Cases	
+L.Cr.R. 49-1.1.1. Authorization of Electronic Filing	
+L.Cr.R. 49-1.1.2. Applicability of Other Rules	
+L.Cr.R. 49-1.1.3. Definitions	
+L.Cr.R. 49-1.2. Exceptions to Electronic Filing in Criminal Cases	
+L.Cr.R. 49-1.3. General Applicability of Civil Electronic Filing Rules; Exceptions and Supplemental Rules for Criminal Cases	
+L.Cr.R. 49-1.3.1. General Applicability of Civil Electronic Filing Rules	
+L.Cr.R. 49-1.3.2. Special Rules for Criminal Cases	
+L.Cr.R. 49.1-1. Redaction	
+L.Cr.R. 49.1-2. Exceptions	
+L.Cr.R. 50-1. Assignment of Cases	
+L.Cr.R. 50-2. Signing of Orders for Absent Judges	
+L.Cr.R. 57-1. Applicability of Local Civil Rules	
+L.Cr.R. 57-2. Duties and Functions of Magistrate Judges	
+L.Cr.R. 57-3. Settlement of Complex Cases	
+L.Cr.R. 57-3.1. Policy	
+L.Cr.R. 57-3.2. Definition	
+L.Cr.R. 57-3.3. Request for Conference	
+L.Cr.R. 57-3.3.1. Time of Request	
+L.Cr.R. 57-3.3.2. Form of Request	
+L.Cr.R. 57-3.3.3. Response to Request	
+L.Cr.R. 57-3.3.4. Withdrawal of Request	
+L.Cr.R. 57-3.4. Settlement Judge	
+L.Cr.R. 57-3.5. Conduct of Conference	
+L.Cr.R. 57-3.5.1. Availability of Defendant	
+L.Cr.R. 57-3.5.2. Criminal History	
+L.Cr.R. 57-3.5.3. Non-recordation	
+L.Cr.R. 57-3.5.4. Written Agreement	
+L.Cr.R. 57-3.6. Restrictions on Participants	
+L.Cr.R. 57-3.6.1. Settlement Judge	
+L.Cr.R. 57-3.6.2. Statements Inadmissible at Trial	
+L.Cr.R. 57-3.6.3. Counsel	
+L.Cr.R. 57-3.7. Discretion of Trial Judge Unaffected	
+L.Cr.R. 58-1. Authority of Magistrate Judge Over Cases Charging Misdemeanor and Other Petty Offenses	
+L.Cr.R. 61-1. Short Title	
+Chapter IV: Local Rules Governing Bankruptcy Appeals, Cases, and Proceedings	
+I. Appeals	
+Rule 1 (8001). Scope of Rules	
+Rule 2. Notice of Appeal	
+2.1 (8012). Certification of Interested Parties and Notice of Related Cases	
+2.2 (8002). Premature Notice of Appeal	
+Rule 3. [Abrogated (Rule 3 Addressed the Record on Appeal, Which is Now Covered by Fed. R. Bankr. P. 8010 & 8018.)]	
+Rule 4. Briefs	
+4.1 (8018(b)). Briefs in Cases Involving Multiple Appellants or Appellees	
+4.2 (8018(a)). Extensions of Time for Filing Briefs	
+Rule 5. Motions	
+5.1 (8026(b)). Emergency Motion; Appendix	
+5.1.1 (8026(b)). Conformed Copy of Notice of Appeal	
+5.1.2 (8026(b)). Conformed Copy of Judgment, Order or Decree	
+5.1.3 (8026(b)). Stay Pending Appeal	
+5.2 (8026(b)). Withdrawal of the Election to the District Court	
+Rule 6. [Abrogated (Rule 6 Addressed Costs on Appeal, Which is Now Covered by Fed. R. Bankr. P. 8021.)]	
+Rule 7. [Abrogated (Rule 7 Addressed Voluntary Dismissals of Appeals, Which is Now Covered by Fed. R. Bankr. P. 8023.)]	
+Rule 8 (8026(b)). Pro Hac Vice Appearances	
+II. Motions to Withdraw the Reference	
+Rule 9 (5011). Motions to Withdraw the Reference	
+General Orders	
+Alternative Dispute Resolution	
+11-10. In the Matter of Alternative Dispute Resolution (ADR) Program (Supersedes General Orders No. 04-01 and No. 07-01)	
+09-09. Order Establishing Prisoner Settlement Program	
+Appointment of Counsel	
+19-11. In the Matter of Appointment of Counsel and Access to Sealed Documents in Criminal Cases Potentially Affected by the First Step Act	
+19-02. In the Matter of Appointment of Counsel and Access to Sealed Documents in Criminal Cases Potentially Affected by the First Step Act	
+15-08. In the Matter of Appointment of Counsel and Access to Sealed Documents in Criminal Cases Potentially Affected by Johnson v. United States, 135 S. CT. 2551 (2015)	
+13-14. Establishing a Capital Habeas Attorney Panel; Creation of Capital Habeas Attorney Panel Advisory Committee; Administration of Panel (Supersedes GO No. 10-08)	
+13-09. Plan for the Composition, Administration, and Management of the Panel of Private Attorneys Under the Criminal Justice Act (Supersedes General Order Nos. 98-06, 07-06, and 08-08)	
+13-06. Procedures for Appointing Counsel to Hospitalized Defendants	
+13-04. In the Matter of CJA Interim and Final Voucher Submissions (Supersedes General Order No. 08-04)	
+01-03. Expansion of Authority to CJA Supervising Attorney (Amends GO 97-07)	
+00-01. Expansion of Authority to CJA Supervising Attorney (Amends GO 97-07)	
+97-07. Criminal Justice Act Vouchers	
+Attorney Admission Fee	
+21-05 In the Matter of Attorney Admission, Annual Renewal, and Pro Hac Vice Fees (Supersedes General Order No. 20-07)	
+20-07. In the Matter of Attorney Admission, Annual Renewal, and Pro Hac Vice Fees (Supersedes General Order No. 18-01)	
+Bankruptcy	
+23-07 In the Matter of Bankruptcy Rulemaking	
+13-05. Reference of Cases and Proceedings to Bankruptcy Judges, etc.	
+Case Assignment	
+23-05 In the Matter of Assignment of Cases and Duties to District Judges (Supersedes General Order No. 21-01)	
+23-06 In the Matter of Assignment of Duties to Magistrate Judges (Amends General Order No. 05-07)	
+21-11 In the Matter of Patent Program (Supersedes General Order No. 19-10)	
+21-01 In the Matter of Assignment of Cases and Duties to District Judges (Supersedes General Order No. 19-03)	
+19-10. In the Matter of Patent Pilot Program (Supersedes General Order No. 11-11)	
+19-03. In the Matter of Assignment of Cases and Duties to District Judges (Supersedes General Order No. 16-05)	
+18-11. In the Matter of Voluntary Consent List for the Assignment of Civil Cases to Magistrate Judges (Supersedes General Order No. 12-01)	
+12-02. Direct Assignment of Civil Cases to Magistrate Judges (Supersedes General Order No. 11-06)	
+06-01. Assignment of Duties to Magistrate Judges (Amends GO 05-07)	
+05-07. Assignment of Duties to Magistrate Judges (Supersedes Gos. 104, 104-A, 104-B, 104-C, 104-D, 104-E, 104-F and 194, 194-A 194-B, 194-C, 194-D, 194-E, 194-F, 194-G, 194-H, 194-I, 97-3 and 01-13)	
+Conditions of Probation and Supervised Release	
+20-04. In the Matter of Adoption of Standard Conditions of Probation and Supervised Release and Sentencing Orders and Conditions of Probation and Supervised Release Pertaining to Financial Sanctions (Supersedes General Order No. 18-10)	
+03-01. Financial Disclosure During Presentence Investigation	
+Court Reporter	
+11-15. The Court Reporter/Recorder Management Plan of the United States District Court, Central District of California	
+Electronic Filing	
+20-13. In the Matter of Criminal Duty Matters Electronic Filing Pilot Project	
+19-01. In the Matter of Criminal Duty Matters Electronic Filing Pilot Project (Supersedes General Order No. 17-02)	
+18-02. In the Matter of Pilot Project for the Submission of Certain Prisoner Filings through Electronic Mail (Supersedes General Order No. 17-04)	
+Forfeiture of Collateral	
+107-A. Duties and Powers of United States Magistrates; Forfeiture of Collateral	
+107. Duties and Powers of United States Magistrates; Forfeiture of Collateral	
+Order of Chief Judge 5-11-12	
+Order of Chief Judge 1-26-96	
+Order of Chief Judge 9-7-90	
+Order of Chief Judge 4-17-72	
+205. Use of the California Department of Motor Vehicles Unpaid Parking Violations Program for Collection of Parking Violations	
+Jury Plan	
+19-07. In the Matter of the Plan of the United States District Court, Central District of California, for the Random Selection of Grand and Petit Jurors (Supersedes General Order No. 13-13)	
+17-08. In the Matter of Juror Attendance Fees for Extended Service	
+13-13. The Plan of the United States District Court, Central District of California, for the Random Selection of Grand and Petit Jurors (Supersedes GO 11-08 )	
+Library Policy	
+07-07. In the Matter of the United States Libraries Located in the California Central District	
+Naturalization Ceremonies	
+12-05. In the Matter of Establishing Court Policy Governing Naturalization Ceremonies Conducted at Locations Other than a United States Courthouse (Supersedes GO 03-05)	
+Personnel & Resource Issues	
+23-08 In the Matter of Coronavirus Public Emergency (Supersedes General Order No. 21-08)	
+23-04 In the Matter of the Appointment of Brianna Fuller Mircheff as a Full-Time United States Magistrate Judge at Los Angeles, California	
+23-01 In the Matter of the Reappointment of Alicia G. Rosenberg as a Full-Time United States Magistrate Judge at Los Angeles, California	
+23-02 In the Matter of the Reappointment of Gail J. Standish as a Full-Time United States Magistrate Judge at Los Angeles, California	
+23-03 In the Matter of the Reappointment of Rozella A. Oliver as a Full-Time United States Magistrate Judge at Los Angeles, California	
+22-05. In re Coronavirus Public Emergency Order Rescinding Amended Policy Regarding COVID-19 Vaccination and Testing (Supersedes General Order 21-17)	
+22-04. In the Matter of the Appointment of the Merit Selection Panel (Supersedes General Order No. 21-12)	
+22-01. In re Coronavirus Public Emergency Order Concerning Access to Court Facilities (Supersedes General order No. 20-03)	
+21-17. In Re Coronavirus Public Emergency Order Concerning Policy Regarding COVID-19 Vaccination and Testing	
+21-12. In the Matter of the Appointment of the Merit Selection Panel (Supersedes General Order No. 20-14)	
+21-13. In the Matter of the Reappointment of Jacqueline Chooljian as a Full-Time United States Magistrate Judge at Los Angeles, California	
+21-14. In the Matter of the Reappointment of Kenly Kiya Kato as a Full-Time United States Magistrate Judge at Riverside, California	
+21-15. In the Matter of the Reappointment of Louise A. LaMothe as a Part-Time United States Magistrate Judge at Santa Barbara, California	
+21-09. In the Matter of the Reappointment of Alka Sagar as a Full-Time United States Magistrate Judge at Los Angeles, California	
+21-10. In the Matter of the Reappointment of Douglas F. McCormick as a Full-Time United States Magistrate Judge at Santa Ana, California	
+21-08. In Re Coronavirus Public Emergency Order Concerning Phased Reopening of the Court (Supersedes General Order No. 21-07, General Order No. 21-06, General Order No. 21-03, and Order of the Chief Judge No. 20-078)	
+20-03. In re Coronavirus Public Emergency Order Concerning Access to Court Facilities	
+21-07. In Re Coronavirus Public Emergency Order Concerning Phased Reopening of the Court (Supersedes General Order No. 21-06, General Order No. 21-03, and Order of the Chief Judge No. 20-078)	
+21-04. In the Matter of the Appointment of Margo A. Rocconi as a Full-Time United States Magistrate Judge at Los Angeles, California	
+20-15. In re Coronavirus Public Emergency Order Concerning the Southern Division's Operations (Supersedes General Order No. 20-12)	
+20-14. In the Matter of the Appointment of the Merit Selection Panel (Supersedes General Order No. 19-12)	
+20-09. In re Coronavirus Public Emergency Order Concerning Phased Reopening of the Court (Supersedes Amended General Order No. 20-08)	
+20-06. In the Matter of the Appointment of Patricia A. Donahue as a Full-Time United States Magistrate Judge at Los Angeles, California	
+20-01. In the Matter of the Appointment of Pedro Castillo as a Full-Time United States Magistrate Judge at Los Angeles, California	
+18-06. In the Matter of the Consolidation of the U.S. Probation Office and U.S. Pretrial Services Office for the Central District of California	
+16-04. In the Matter of Deposit and Investment of Registry Funds	
+15-01. In the Matter of Access to Sealed Documents in Criminal Cases Subject to U.S. Sentencing Guidelines Manual Amendment 782	
+13-15. The Court Interpreter Management Plan of the United States District Court, Central District of California (Supersedes GO 11-04)	
+11-09. In the Matter of Information Technology Policy for the U.S. District Court, Central District of California (Supersedes General Order No. 96-08)	
+356. In Re Court Policy Against Discrimination	
+Security	
+03-07. In the Matter of Authorization of Weapons in the Courtroom and Courthouses	
+346. In Re U.S. Probation and Pretrial Services Officers Authorized to Carry/Use Cap-Stun While on Official Duty	
+Seized Property	
+235. In the Matter of Appointing Substitute Custodian for Seized Property	
+Speedy Trial Act Plan	
+21-02 In Re Federal Rules of Criminal Procedure 5(F) and the Due Process Protections Act	
+11-14. Plan for Achieving Prompt Disposition of Criminal Cases (Supersedes General Order Nos 03-04, 11-05)	
+Archived General Orders	
+00-02. Amendment to Local Rules Governing Duties of Magistrate Judges	
+00-04. The Standing Committee on Discipline	
+00-05. The Prohibition of Broadcasting, Recording or Photographing in the Courtroom	
+00-06. Amendments to Local Rules Governing Duties of Magistrate Judges	
+01-01. Method of Allocating Cases Among the Divisions of the Central District of California	
+01-02. The Prohibition of Broadcasting, Recording or Photographing in the Courtroom (Eastern Division)	
+01-04. Attorney Settlement Officer Panel (Supersedes GO 98-2)	
+01-05. Adoption of Sentencing Orders and Conditions of Probation and Supervised Release Pertaining to Financial Sanctions	
+01-06. Pilot Prisoner Mediation Program (Supersedes GO 99-2)	
+01-07. The Adoption of Revised Local Civil Rules (Supersedes GO 00-08)	
+01-13. Assignment of Duties to Magistrate Judges (Supersedes GOs. 104, 104-A, 104-B, 104-C, 104-D, 104-E, 104-F and 194, 194-A, 194-B, 194-C, 194-D, 194-E, 194-F, 194-G, 194-H, 194-I and 97-3)	
+02-06. Method of Allocating Civil Cases in the Eastern Division of the Central District of California	
+02-07. Alternative Dispute Resolution Pilot Program	
+02-08. Pilot Prisoner Mediation Program (Supersedes General Orders 99-2 and 01-06)	
+02-09. Service and Filing of Pleadings and Other Papers - Electronic Case Filings	
+02-11. Order Designating All Federal Debt Collection Act Cases for Electronic Filing	
+02-14. Documents to be Filed Under Seal	
+03-04. Plan for Achieving Prompt Disposition of Criminal Cases (Speedy Trial Act Plan) (Supersedes GO No. 209 and Superseded by GO Nos. 11-05 & 11-14)	
+03-05. Establishing Court Policy Governing Naturalization Ceremonies Conducted at Locations Other than a United States Courthouse (Rescinds GO 96-6, Superseded by GO 12-05)	
+03-06. Order Designating All Federal Debt Collection Act Cases for Electronic Filing (Supersedes General Order No. 02-11)	
+03-12. Plan of the United States District Court, Central District of California for the Random Selection of Grand and Petit Jurors (Supersedes Section 13.1 of General Order 99-8)	
+03-13. Eastern Division Pilot Project for Inclusion of Magistrate Judge in Civil Case Assignment Wheel	
+04-01. Attorney Settlement Officer Panel (Supersedes General Orders 98-2, No. 01-04, and Superseded by No. 11-10)	
+05-01. Order Authorizing Electronic Filing Pilot Project (Supersedes General Order No. 03-06)	
+05-02. Adoption of Standard Conditions of Probation and Supervised Release (Amends General Order No. 318)	
+05-06. Assignment of Cases and Duties to Judges (Supersedes GOs. 83 & 84 and Consolidates GOs. 224, 224-A, 224-B 224-C, 224-D, 224-E and 224-F and Subsequent GOs. 224, 224-A, 224-B, 224-C, 224-D, and GNs. 96-20 & 98-4)	
+05-08. New Local Criminal Rule 46-2.1	
+05-09. Amendment to Local Civil Rule 7.1-1	
+05-10. Amendment to Local Civil Rule 11-3.8	
+06-05. Adoption of Interim Procedure Rules	
+06-06. In the Matter of Wireless Communication Devices Within Courthouses and Federal Buildings	
+06-07. Order Authorizing Electronic Filing (Supersedes General Order Nos. 03-06 and 05-01)	
+07-01. Alternative Dispute Resolution Pilot Program (Supersedes General Order 02-07, and Superseded by 11-10). ADR-03	
+07-02. Assignment of Cases and Duties to Judges (Supersedes General Order Nos. 83 and 84 and Consolidates General Order Nos. 224, 224-a, 224-b, 224-c, 224-d, 224-e and 224-f and Subsequent General Order Nos. 224, 224-a, 224-b, 224-c, 224-d, and General	
+07-06. Amends Section II of General Order 98-06 (Superseded by GO 13-09)	
+07-08. Order Authorizing Electronic Filing (Supersedes General Order Nos. 03-06, 05-01 and 06-07)	
+07-09. Method of Allocating Criminal and Complex Criminal Cases Among the Divisions of the Central District Court of California (Supersedes General Order No. 96-21)	
+07-10. Plan of the United States District Court, Central District of California for the Random Selection of Grand and Petit Jurors (Rescinds General Order Nos. 99-8 and 03-12) (Superseded by GO 11-08)	
+08-01. Assignment of Cases and Duties to Judges (Supersedes GO No. 07-02)	
+08-02. Order Authorizing Electronic Filing (Supersedes General Order 07-08; also Refer to GO 08-11. Superseded by GO 10-07)	
+08-03. Service of Electronically Filed Documents	
+08-04. CJA Interim and Final Voucher Submissions (Superseded by GO 13-04)	
+08-05. Assignment of Cases and Duties to Judges (Supersedes GO No. 08-01)	
+08-06. The Reappointment of Stephen J. Hillman as Full-Time United States Magistrate Judge at Los Angeles, California	
+08-07. The Reappointment of Rita Coyne Federman as Part-Time United States Magistrate Judge at Santa Barbara, California	
+08-08. Plan for the Composition, Administration, and Management of the Panel of Private Attorneys Under the Criminal Justice Act (Amends Section III of GO 07-06) (Superseded by GO 13-09)	
+08-09. Direct Assignment of Civil Cases to Magistrate Judges (Superseded by GO 11-06)	
+08-10. Repeal of General Order 02-08, Pilot Prisoner Mediation Program	
+08-11. Order Authorizing Electronic Filing (Superseded by GO 10-07)	
+09-01. Registered Legal Services Attorney	
+09-08. Method of Allocating Removal Cases in the Eastern Division of the Central District of California	
+10-04. The Adoption of New and Revised Local Rules	
+10-06. Attorney Admission Fee (Superseded by GO 11-13)	
+10-07. Order Authorizing Electronic Filing (Supersedes GOs 08-02 and 08-11) (Superseded by Local Rules Effective June 1, 2012)	
+10-08. Establishing a Capital Habeas Attorney Panel; Creation of Capital Habeas Attorney Panel Selection Committee; Administration of Panel (Superseded by GO 13-14)	
+10-09. The Adoption of New and Revised Local Rules 83-17 et Seq., Special Requirements for Habeas Corpus Petitions Involving the Death Penalty	
+10-10. The Adoption of New and Revised Local Civil Rules and Rules for Admiralty and Maritime Claims and Asset Forfeiture Actions, Effective December 1, 2010	
+11-04. The Court Interpreter Management Plan of the United States District Court, Central District of California (Superseded by GO 13-15)	
+11-05. Plan for Achieving Prompt Disposition of Criminal Cases (Supersedes GO 03-04 and Superseded by GO 11-14)	
+11-06. Direct Assignment of Civil Cases to Magistrate Judges (Supersedes General Order No. 08-09)	
+11-07. The Equal Employment Opportunity Plan and Employment Dispute Resolution Plan of the United States District Court, Central District of California	
+11-08. The Plan of the United States District Court, Central District of California, for the Random Selection of Grand and Petit Jurors (Superseded by GO 13-13)	
+11-11. In the Matter of Patent Pilot Program	
+11-12. In the Matter of the Appointment of Jean Rosenbluth as a Full-Time United States Magistrate Judge at Santa Ana, California	
+11-16. In the Matter of the Reappointment of Charles F. Eick as a Full-Time United States Magistrate Judge at Los Angeles, California	
+11-17. In the Matter of the Appointment of a New Merit Selection Panel (Superseded by GO 13-12)	
+12-03. In the Matter of the Reappointment of Carla M. Woehrle as a Full-Time United States Magistrate Judge at Los Angeles, California	
+12-04. In the Matter of the Reappointment of Arthur Nakazato as a Full-Time United States Magistrate Judge at Santa Ana, California	
+12-06. In the Matter of the Reappointment of Rita Coyne Federman as a Part-Time United States Magistrate Judge at Santa Barbara, California	
+13-01. Amended: Attorney Case-Opening Pilot Project (Supersedes General Order No. 13-01)	
+13-02. In the Matter of the Reappointment of Ralph Zarefsky as a Full-Time United States Magistrate Judge at Los Angeles, California	
+13-03. In the Matter of the Reappointment of Margaret A. Nagle as a Full-Time United States Magistrate Judge at Los Angeles, California	
+13-07. In the Matter of the Apppointment of Alka Sagar as a Full-time Magistrate Judge at Los Angeles, California	
+13-08. In the Matter of the Apppointment of Douglas F. McCormick as a Full-time Magistrate Judge at Los Angeles, California	
+13-10. In the Matter of the Reappointment of Jacqueline Chooljian as a Full-Time United States Magistrate Judge at Los Angeles, California	
+13-11. In the Matter of the Reappointment of Frederick F. Mumm as a Full-Time United States Magistrate Judge at Los Angeles, California	
+13-12. In the Matter of the Appointment of a New Merit Selection Panel (Supersedes GO-11-17)	
+14-01. In the Matter of Attorney Case-Opening Pilot Project (Supersedes Amended General Order No. 13-01)	
+14-03. In the Matter of Assignment of Cases and Duties to District Judges (Supersedes General Order No. 08-05 and All Other General Orders Regarding Assignment of Cases and Duties to Judges and Allocating Cases Among the Divisions of the Court)	
+14-04. In the Matter of the Appointment of Kenly Kiya Kato as a Full-Time Magistrate Judge at Riverside, California	
+14-06. In the Matter of the Reappointment of Alicia G. Rosenberg as a Full-Time United States Magistrate Judge at Los Angeles, California	
+14-07. In the Matter of the Appointment of the Merit Selection Panel	
+15-02. In the Matter of the Appointment of the Merit Selection Panel	
+15-03. In the Matter of the Appointment of Gail J. Standish as a Full-Time United States Magistrate Judge at Los Angeles, California	
+15-04. In the Matter of the Appointment of Rozella A. Oliver as a Full-Time United States Magistrate Judge at Los Angeles, California	
+15-05. In the Matter of the Appointment of Alexander F. MacKinnon as a Full-Time United States Magistrate Judge at Los Angeles, California	
+15-06. In the Matter of the Appointment of Karen E. Scott as a Full-Time United States Magistrate Judge at Santa Ana, California	
+15-07. In the Matter of the Appointment of Karen Leslie Stevenson As a Full-Time United States Magistrate Judge at Los Angeles, California	
+15-09. In the Matter of Pilot Project for the Submission of Certain Prisoner Filings Through Electronic Mail	
+16-01. In the Matter of the Appointment of Steve Kim as a Full-Time United States Magistrate Judge at Los Angeles, California.	
+16-02. In the Matter of the Service of Magistrate Judge John E. McDermott Beyond the Age of 70	
+16-06. In the Matter of the Service of Magistrate Judge Louise A. LaMothe Beyond the Age of 70	
+17-02. In the Matter of Criminal Duty Matters Electronic Filing Pilot Project	
+17-03. In the Matter of the Appointment of John Daniel Early as a Full-Time United States Magistrate Judge at Santa Ana, California	
+17-05. In the Matter of the Reappointment of Patrick J. Walsh as a Full-Time Magistrate Judge at Los Angeles, California	
+17-06. In the Matter of the Reappointment of John E. McDermott as a Full-Time United States Magistrate Judge at Los Angeles, California	
+17-09. In the Matter of the Appointment of Hemant H. Kewalramani as a Full-Time United States Magistrate Judge at Riverside, California	
+17-10. In the Matter of the Service of Magistrate Judge Louise A. LaMothe Beyond the Age of 70	
+17-12. In the Matter of the Reappointment of Paul L. Abrams as a Full-Time United States Magistrate Judge at Los Angeles, California	
+17-13. In the Matter of the Reappointment of Suzanne H. Segal as a Full-Time United States Magistrate Judge at Los Angeles, California	
+17-14. In the Matter of the Reappointment of Louise A. LaMothe as a Part-Time United States Magistrate Judge at Santa Barbara, California	
+18-05. In the Matter of the Service of Magistrate Judge John E. McDermott Beyond the Age of 70	
+19-04. In the Matter of the Appointment of the Merit Selection Panel (Supersedes General Order No. 17-11)	
+19-05. In the Matter of the Reappointment of Charles F. Eick as a Full-Time United States Magistrate Judge at Los Angeles, California	
+19-06. In the Matter of the Reappointment of Jean P. Rosenbluth as a Full-Time United States Magistrate Judge at Los Angeles, Califoria	
+19-12. In the Matter of the Appointment of the Merit Selection Panel	
+194. Assignment of Duties to Magistrates	
+194-A. Assignment of Duties of Magistrates	
+194-B. Local Rules Governing Duties of Magistrates	
+194-C. Plan for the Referral of Civil Cases to Full Time United States Magistrates, Amendment of the Local Rules Governing the Duties of Magistrate	
+194-E. Local Rules Governing Duties of Magistrates	
+194-F. Assignments of Attorney Admission Responsibility to the United States Magistrates	
+194-G. Local Rules Governing Duties of Magistrate	
+194-H. Assignment of and Local Rules Governing Duties of Magistrates	
+194-I. Local Rules Governing Duties of Magistrates	
+20-02. In re Coronavirus Public Emergency Order Concerning Jury Trials and Other Proceedings	
+20-12. In re Coronavirus Public Emergency Order Concerning Reopening of the Southern Division (Supersedes, in Part, General Order No. 20-09)	
+224. Assignment of Cases and Duties to Judges (Refer to GO 05-06)	
+224-A. The Assignment of Cases and Duties to Judges (Refer to GO 05-06)	
+224-B. The Assignment of Cases and Duties to Judges (Refer to GO 05-06)	
+224-C. Assignment of Cases and Duties to Judges (Refer to GO 05-06)	
+224-D. Assigning Probation or Supervised Release Transfer in Criminal Cases (Refer to GO 05-06)	
+266. Reference of Cases and Proceedings to Bankruptcy Judges of the District, and the Reference of Appeals to the Bankruptcy Appellate Panels	
+269. In the Matter of the Revision of General Order No. 266 Regarding the Reference of Appeals to the Bankruptcy Appellate Panel	
+308. Assignment of Habeas Corpus Petitions Involving the Death Penalty	
+310-A. Operation of the Santa Ana Place of Holding Court	
+310-C. Operation of the Santa Ana Court	
+318. Adoption of Standard Conditions of Probation and Supervised Release	
+325. In the Matter of Amendments to Local Criminal Rules Re Sentencing Procedures	
+339. Deferral of Amendments to Federal Rules of Civil Procedure 5(c), 16(b), 26(a)(1), 26(a)(2)(c),26(a)(3), 26(a)(4), 26(b)(2), 26(d), 29, 30(d)(2), 32(c), and 54(d)(2)(D)	
+339-A. Futher Deferral of Amendments to Federal Rules of Civil Procedure 5(e), 16(b), 26(a)(1), 26(a)(2)(c),26(a)(3), 26(a)(4), 26(b)(2), 26(d), 29, 30(d)(2), 32(c), and 54(d)(2)(D)	
+339-B. Futher Deferral of Amendments to Federal Rules of Civil Procedure 5(e), 16(b), 26(a)(1), 26(a)(2)(c),26(a)(3), 26(a)(4), 26(b)(2), 26(d), 29, 30(d)(2), 32(c), and 54(d)(2)(D)	
+349. Allocation of Cases Among the Divisions (Supersedes Gos. 310-B and 310-D)	
+349-A. Method of Allocating Cases Among the Divisions of the Central District Court of California	
+350-A. The Prohibition of Broadcasting, Recording or Photographing in the Courthouse	
+95-01. Procedures for Appointing Counsel to Hospitalized Defendants	
+95-02. Method of Allocating Criminal and Complex Criminal Cases Among the Divisions of the Central District of California	
+96-01. Method of Assigning Bankruptcy Matters Among the Divisions of the CDCA	
+96-03. Interpreting 11 U.S.C. ? 110 ) Which Governs Conduct of Non-Lawyer Bankruptcy Petition Preparers and Delineating the Relationship, Powers and General Order 96-3 Functions of the Bankruptcy Court and the District Court Under the Statue	
+96-04. Transferring Bankruptcy Cases and Proceedings to the District Court from the Bankruptcy Court	
+96-05. Pro Hac Vice Appearances for Bankruptcy Cases and Proceedings in the District Court	
+96-06. Establishing Court Policy Governing Naturalization Ceremonies Conducted at Locations Other than a United States Courthouse (Refer to GO 03-05)	
+96-08. Automation Policy for the Central District Court of California (Superseded by General Order No. 11-09	
+96-11. Amendments to the Student Practice Rule	
+96-12. Amendments to Local Civil Rule 2.9,Persons Appearing Without an Attorney - Pro Se Litigants	
+96-13. Amendments to Local Civil Rule 6,Early Meeting of Counsel - Report to Court - Status Conference	
+96-14. Amendments to Local Civil Rule 8.1.2, Depositions - Use at Trial or on a Motion	
+96-15. Amendments to Local Civil Rule 9, Pre-Trial Proceedings	
+96-16. Amendments to Local Civil Rule 28, Conduct in Courtroom and Environs	
+96-17. Amendments to Appendix a to Local Rules - Pretrial Form No. 1	
+96-18. Amendments to Local Civil Rule 13.6,Trials - Non-Jury Trial - Narrative Statements	
+96-19. Amendments to the Plan for the Implementation of the Criminal Justice Act of 1964 as Amended, 18 U.S.C. ? 3006A	
+96-20. Assignments of Cases and Duties to Judges (Refer to GO 05-06)	
+96-21. Method of Allocating Criminal and Complex Criminal Cases Among the Divisions of the CDCA	
+96-22. Amendments to Local Civil Rule 3, Form of Pleadings and Papers Filed with Court - Amended Pleadings (Refer to GO 97-01)	
+97-01. Amendments to Local Civil Rule 3, Form of Pleadings and Papers filed with Court - Amended Pleadings	
+97-02. Submission of Monthly Criminal Justice Act Vouchers for Interim Payments in Death Penalty Cases	
+97-03. Assignment of Duties to Magistrate Judges	
+98-03. Method of Allocating Civil Cases Among the Divisions of the Central District of California	
+98-04. Assignment of Cases and Duties to Judges, Amends General Order No. 224 (Refer to GO 05-06)	
+98-05. Method of Allocating Cases Among the Divisions of the CDCA, Amends General Order # 349	
+98-06. In Re: Plan for the Composition, Administration, and Management of the Panel of Private Attorneys Under the Criminal Justice Act (Superseded by GO 13-09)	
+99-02. Pilot Prisoner Mediation Program (Refer to GO 01-06)	
+99-05. New Local Civil Rule 2.2.7, Notification of Attorney Change of Name, Address, Firm Asociation, Telephone Number, Facsimile Number or E-mail Address	
+99-06. Amendment to Local Civil Rule 28.1.3, Conduct in Courtroom and Environs - Southern Division and Deletion of Local Civil Rule 28.1.4	
+99-07. Amendments to Local Civil Rule 4.6, Certification as to Interested Parties	
+99-08. Random Selection of Grand and Petit Jurors	
