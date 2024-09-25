@@ -1,0 +1,90 @@
+NASDAQ OMX PHLX LLC Option Floor Procedure Advices and Order & Decorum Regulations	
+A. Specialists	
+A-1 Reserved	
+A-2 Options Floor Based Management System	
+A-3 Requesting Market Quotations	
+A-4 Specialist as ROT	
+A-5 Reserved	
+A-6 Reserved	
+A-7 Reserved	
+A-8 Reserved	
+A-9 All-or-None Option Orders	
+A-10 Reserved	
+A-11 Reserved	
+A-12 Reserved	
+A-13 Reserved	
+A-14 Reserved	
+B. Registered Options Traders	
+B-1 Responsibility to Make Markets	
+B-2 Crowd Courtesy	
+B-3 Trading Requirements	
+B-4 ROTs Entering Orders from On-Floor and Off-Floor for Execution on the Exchange	
+B-5 Agency-Principal Restrictions	
+B-6 Priority of Options Orders for Equity Options, Index Options and U.S. Dollar-Settled Foreign Currency Options by Account Type (Equity Option, Index Option and U.S. Dollar-Settled Foreign Currency Option Only)	
+B-7 Options Floor Based Management System	
+B-8 Use of Floor Brokers by an ROT While on the Floor	
+B-9 Use of Tickets	
+B-10 Responsibility for Mismatched or "Out" Trades	
+B-11 Reserved	
+B-12 ROTs and Specialists Entering Orders for Execution on Other Exchanges in Multiply Traded Options	
+C. Floor Brokers	
+C-1 Ascertaining the Presence of Registered Options Traders in a Trading Crowd	
+C-2 Options Floor Broker Management System	
+C-3 Handling Orders of ROTs and Other Registered Options Market Makers	
+C-4 Floor Brokers Handling Orders for Same Firm	
+C-5 ROTs Acting as Floor Brokers	
+C-7 Responsibility to Represent Orders to the Trading Crowd	
+C-8 Reserved	
+C-9 Floor Brokers and Clerks Trading in their Customer Accounts	
+D. Reserved	
+E. Staffing	
+E-1 Required Staffing of Options Floor	
+F. Miscellaneous	
+F-1 Use of Identification Letters and Numbers	
+F-2 Allocation, Time Stamping, Matching and Access to Matched Trades	
+F-3 Reserved	
+F-4 Orders Executed as Spreads, Straddles, Combinations or Synthetics and Other Order Ticket Marking Requirements	
+F-5 Changes or Corrections to Material Terms of a Matched Trade	
+F-6 Option Quote Parameters	
+F-7 Reserved	
+F-8 Failure to Comply with an Exchange Inquiry	
+F-9 Affiliations	
+F-10 Unusual Market Conditions	
+F-11 Splitting Orders	
+F-12 Responsibility for Assigning Participation	
+F-13 Supervisory Procedures Relating to ITSFEA	
+F-14 Executing Multi-leg and Synthetic Option Orders	
+F-15 Minor Infractions of Position/Exercise Limits and Hedge Exemptions	
+F-16 Two-Way, Three Way and Multi-Spread Transactions (Foreign Currency Option Only)	
+F-17 Reserved	
+F-18 Reserved	
+F-19 Clearing Agents' Responsibility for Carrying Positions in Market Maker Accounts	
+F-20 Reserved	
+F-21 Reserved	
+F-22 Intra-Day Addition of Strike Prices	
+F-23 Clerks in the Crowd	
+F-24 Reserved	
+F-25 Fingerprinting Floor Personnel	
+F-27 Options Exchange Official Rulings	
+F-28 Deleted	
+F-30 Options Trading Floor Training	
+F-31 Communications and Equipment	
+F-32 Solicitation of Quotations	
+F-33 Failure to Provide Notification of Changes in Business Operations	
+F-34 Failure to Timely Submit Amendments to Form U4, Form U5 and Form BD	
+F-35 Violations of Exercise and Exercise Advice Rules for Noncash-Settled Equity Option Contracts	
+G. Indices	
+G-1 Index Option Exercise Advices	
+H. Regulations Pursuant to Rule 9216(c)	
+Regulation 1 - Smoking and Alcohol	
+Regulation 2 - Food, Liquids and Beverages, Trash, Litter and Vandalism	
+Regulation 3 - Identification Badges/Access Cards	
+Regulation 4 - Order	
+Regulation 5 - Visitors	
+Regulation 6 - Dress	
+Regulation 7 - Proper Utilization of the Security System	
+General Equity and Options Rules	
+General 7 Consolidated Audit Trail Compliance	
+General 8 Connectivity	
+Section 1. Co-Location Services	
+Section 2. Direct Connectivity to Phlx	

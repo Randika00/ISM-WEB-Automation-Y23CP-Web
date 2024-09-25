@@ -1,0 +1,215 @@
+I. Scope of Rules - One Form of Action	
+1	SCOPE OF RULES
+2	ONE FORM OF ACTION
+II. Commencement of Action: Service of Process, Pleadings, Motions and Orders	
+3	COMMENCEMENT OF ACTION
+4	PROCESS
+4.1	SERVICE OF PROCESS IN FOREIGN COUNTRIES
+5	SERVICE AND FILING OF PLEADINGS AND OTHER PAPERS
+6	TIME
+III. Pleadings and Motions	
+7	PLEADINGS ALLOWED: FORM OF MOTIONS
+8	GENERAL RULES OF PLEADING
+9	PLEADING SPECIAL MATTERS
+10	FORM OF PLEADINGS
+11	SIGNING OF PLEADINGS; ATTORNEYS
+12	DEFENSES AND OBJECTIONS-WHEN AND HOW PRESENTED-BY PLEADING OR MOTION-MOTION FOR JUDGMENT ON PLEADINGS
+13	COUNTERCLAIM AND CROSS-CLAIM
+14	THIRD PARTY PRACTICE
+15	AMENDED AND SUPPLEMENTAL PLEADINGS
+16	PRE-TRIAL PROCEDURE: FORMULATING ISSUES
+IV. Parties	
+17	PARTIES PLAINTIFF AND DEFENDANT: CAPACITY
+18	JOINDER OF CLAIMS AND REMEDIES
+19	JOINDER OF PERSONS NEEDED FOR JUST ADJUDICATION
+20	PERMISSIVE JOINDER OF PARTIES
+21	MISJOINDER AND NON-JOINDER OF PARTIES
+22	INTERPLEADER
+23	CLASS ACTIONS
+24	INTERVENTION
+25	SUBSTITUTION OF PARTIES
+V. Depositions and Discovery	
+26	GENERAL PROVISIONS GOVERNING DISCOVERY
+27	DEPOSITIONS BEFORE ACTION OR PENDING APPEAL
+28	PERSONS BEFORE WHOM DEPOSITIONS MAY BE TAKEN; DEPOSITIONS IN OUT-OF-STATE ACTIONS
+29	STIPULATIONS REGARDING DISCOVERY PROCEDURE
+30	DEPOSITIONS UPON ORAL EXAMINATION
+31	DEPOSITIONS UPON WRITTEN QUESTIONS
+32	USE OF DEPOSITIONS IN COURT PROCEEDINGS
+33	INTERROGATORIES TO PARTIES
+34	PRODUCTION OF DOCUMENTS AND THINGS AND ENTRY UPON LAND FOR INSPECTION AND OTHER PURPOSES
+35	PHYSICAL AND MENTAL EXAMINATIONS
+36	REQUEST FOR ADMISSION
+37	FAILURE TO MAKE OR COOPERATE IN DISCOVERY: SANCTIONS
+VI. Trials	
+38	JURY TRIAL OF RIGHT
+39	TRIAL BY JURY OR BY THE COURT
+40	GENERAL DOCKET, TRIAL ROSTERS, AND CALL OF CASES FOR TRIAL
+41	DISMISSAL OF ACTIONS; NON-SUIT
+41.1	SEALING DOCUMENTS AND SETTLEMENT AGREEMENTS
+41.2	PRIVACY PROTECTION FOR FILINGS
+42	CONSOLIDATION; SEPARATE TRIALS
+43	CONDUCT OF TRIAL
+44	PROOF OF OFFICIAL RECORD; FOREIGN LAW
+45	SUBPOENA
+46	EXCEPTIONS UNNECESSARY
+47	JURORS
+48	JURIES OF LESS THAN TWELVE; MAJORITY VERDICT
+49	SPECIAL VERDICTS AND INTERROGATORIES
+50	MOTION FOR A DIRECTED VERDICT AND FOR JUDGMENT NOTWITHSTANDING THE VERDICT
+51	INSTRUCTIONS TO JURY: OBJECTION
+52	FINDINGS BY THE COURT
+53	MASTERS AND SPECIAL REFEREES
+VII. Judgment	
+54	JUDGMENTS: COSTS
+55	DEFAULT
+56	SUMMARY JUDGMENT
+57	DECLARATORY JUDGMENTS
+58	ENTRY OF JUDGMENT
+59	NEW TRIALS; AMENDMENT OF JUDGMENTS
+60	RELIEF FROM JUDGMENT OR ORDER
+61	HARMLESS ERROR
+62	STAY OF PROCEEDINGS TO ENFORCE A JUDGMENT
+63	DISABILITY OF A JUDGE
+VIII. Provisional and Final Remedies and Special Proceedings	
+64	REMEDIES FOR SEIZURE, REMEDIES NOT PROVIDED
+65	INJUNCTIONS; MANDAMUS, HABEAS CORPUS, AND OTHER REMEDIAL WRITS
+66	RECEIVERS
+67	DEPOSIT IN COURT
+68	OFFER OF JUDGMENT
+69	EXECUTION
+70	JUDGMENT FOR SPECIFIC ACTS: VESTING TITLE
+71	FORECLOSURE AND PARTITION
+71.1	POST-CONVICTION RELIEF ACTIONS
+IX. Appeals and Arbitration	
+72	JUDGMENTS AND ORDERS SUBJECT TO APPEAL
+73	PROCEDURE ON APPEAL TO SUPREME COURT OR COURT OF APPEALS
+74	PROCEDURE ON APPEAL TO THE CIRCUIT COURT
+75	RECORD ON APPEAL TO THE CIRCUIT COURT: TRANSMITTAL
+76	ARBITRATION: AUTOMOBILE REPARATION
+X. Courts and Clerks	
+77	COURTS AND CLERKS
+78	CLERKS OF COURT: RECORDS, ABSTRACTS, BOOKS
+79	CALENDAR OF CIVIL ACTIONS; FILE BOOK
+80	STENOGRAPHIC REPORT OF TRANSCRIPT AS EVIDENCE
+XI. General Provisions	
+81	APPLICABILITY
+82	JURISDICTION AND VENUE
+84	FORMS
+85	TITLE; CRIMINAL PROCEDURE; RULES REPEALED
+86	EFFECTIVE DATE
+APPENDIX OF FORMS	
+	Security for Costs - Form of Undertaking (Former Circuit Court Rule 10.)
+	Juror Summons (Former Circuit Court Rule 93.)
+	Application for Post-Conviction Relief (See Rule 71.1, SCRCP.)
+	Subpoena in a Civil Case
+I. Pretrial Matters	
+1	SHERIFF TO FILE AFFIDAVITS ON ARREST
+2	PRELIMINARY HEARINGS
+3	DISPOSITION OF ARREST WARRANTS
+4	MOTIONS IN GENERAL
+5	DISCLOSURE IN CRIMINAL CASES
+6	RULE FOR CHEMICAL ANALYSIS AND CHAIN OF CUSTODY
+7	CONTINUANCES
+8	RESERVED
+II. Trial	
+13	SUBPOENAS
+14	TRIAL BY JURY
+16	PRESENCE OF ACCUSED AT TRIAL
+17	RESERVATION OF OBJECTIONS
+18	ARGUMENT ON OBJECTIONS
+19	DIRECTED VERDICT
+20	INSTRUCTIONS
+22	ADDRESSING THE JURY
+23	SEPARATION OF JURY
+24	EXPERT TESTIMONY
+III. Post Trial Matters	
+28	AFFIDAVIT IN MITIGATION - HOW SUBMITTED
+29	POST TRIAL MOTIONS
+30	PROCESSING AND MAINTAINING BENCH WARRANTS
+IV. General Provisions	
+35	TIME
+36	FORMS
+37	APPLICABILITY
+38	TITLE AND CITATION
+39	RULES REPEALED
+40	EFFECTIVE DATE
+APPENDIX OF FORMS	
+	Affidavit of Chemist or Chemical Analyst
+	Certificate of Proof of Chain of Physical Custody or Control (Initial Custody)
+	Certificate of Proof of Chain of Physical Custody or Control (Subsequent Change of Custody)
+	Bench Warrant
+	Subpoena in a Criminal Case
+	Sentencing Sheet
+Article I. General Provisions	
+101	Scope
+102	Purpose and Construction
+103	Rulings on Evidence
+104	Preliminary Questions
+105	Limited Admissibility
+106	Remainder of or Related Writings or Statements
+Article II. Judicial Notice	
+201	Judicial Notice of Adjudicative Facts
+Article III. Presumptions in Civil Actions and Proceedings	
+301	Presumptions in General in Civil Actions and Proceedings
+Article IV. Relevancy and Its Limits	
+401	Definition of Relevant Evidence
+402	Relevant Evidence Generally Admissible; Irrelevant Evidence Inadmissible
+403	Exclusion of Relevant Evidence on Grounds of Prejudice, Confusion, or Waste of Time
+404	Character Evidence Not Admissible to Prove Conduct; Exception; Other Crimes
+405	Methods of Proving Character
+406	Habit; Routine Practice
+407	Subsequent Remedial Measures
+408	Compromise and Offers to Compromise
+409	Payment of Medical and Similar Expenses
+410	Inadmissibility of Pleas, Plea Discussions, and Related Statements
+411	Liability Insurance
+412	Admissibility of Evidence Concerning Victim''s Sexual Conduct in Criminal Sexual Conduct Cases
+Article V. Privileges	
+501	General Rule
+Article VI. Witnesses	
+601	Competency
+602	Lack of Personal Knowledge
+603	Oath or Affirmation
+604	Interpreters
+605	Competency of Judge as Witness
+606	Competency of Juror as Witness
+607	Who May Impeach
+608	Evidence of Character, Conduct and Bias of Witness
+609	Impeachment by Evidence of Conviction of Crime
+610	Religious Beliefs or Opinions
+611	Mode and Order of Interrogation and Presentation
+612	Writing Used to Refresh Memory
+613	Prior Statements of Witnesses
+614	Calling and Interrogation of Witnesses by Court
+615	Exclusion of Witnesses
+Article VII. Opinions and Expert Testimony	
+701	Opinion Testimony by Lay Witnesses
+702	Testimony by Experts
+703	Bases of Opinion Testimony by Experts
+704	Opinion on Ultimate Issue
+705	Disclosure of Facts or Data Underlying Expert Opinion
+Article VIII. Hearsay	
+801	Definitions
+802	Hearsay Rule
+803	Hearsay Exceptions; Availability of Declarant Immaterial
+804	Hearsay Exceptions; Declarant Unavailable
+805	Hearsay Within Hearsay
+806	Attacking and Supporting Credibility of Declarant
+Article IX. Authentication and Identification	
+901	Requirement of Authentication or Identification
+902	Self-Authentication
+903	Subscribing Witness'' Testimony Unnecessary
+Article X. Contents of Writings, Recordings, and Photographs	
+1001	Definitions
+1002	Requirement of Original
+1003	Admissibility of Duplicates
+1004	Admissibility of Other Evidence of Contents
+1005	Public Records
+1006	Summaries
+1007	Testimony or Written Admission of Party
+1008	Functions of Court and Jury
+Article XI. Miscellaneous Rules	
+1101	Applicability of Rules
+1102	Amendments
+1103	Title and Effective Date

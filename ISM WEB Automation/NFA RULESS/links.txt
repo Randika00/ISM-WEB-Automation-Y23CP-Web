@@ -1,0 +1,377 @@
+NFA Manual/Rules	
+NFA's Functions Explained	
+NFA in Brief	
+NFA Structure	
+NFA's Regulatory Operations	
+Funding	
+Genesis of the NFA Concept	
+Preliminary Statement to NFA's March 16, 1981 Application for Registration Under Section 17 of the Commodity Exchange Act	
+NFA Organizing Committee (1976-1982)	
+NFA's Mission Statement	
+Articles of Incorporation	
+Article I: Name	
+Article II: Location	
+Article III: Purposes	
+Article IV: Form of Organization	
+Article V: [Reserved]	
+Article VI: Members	
+Article VII: Board of Directors	
+Article VIII: Executive Committee	
+Article IX: President and Subordinate Officers	
+Article X: Nominating Committee	
+Article XI: Bylaws	
+Article XII: Effective Date of Requirements	
+Article XIII: Duration	
+Article XIV: Members' Liability	
+Article XV: Financing	
+Article XVI: Miscellaneous	
+Article XVII: Adoption, Amendment and Repeal of Articles	
+Article XVIII: Definitions	
+Bylaws	
+Chapter 1. Offices	
+Bylaw 101. Registered Office	
+Bylaw 102. Other Offices	
+Chapter 2. Purposes	
+Bylaw 201. Purposes	
+Chapter 3. Membership and Association with a Member	
+Bylaw 301. Requirements and Restrictions	
+Bylaw 302. Admission to Membership, or Registration as an Associate, on a Conditional Basis	
+Bylaw 303. Rights and Liabilities of Members	
+Bylaw 304. Transfer of Membership	
+Bylaw 305. Registration Rules	
+Bylaw 306. Forex Dealer Members	
+Chapter 4. Member Meetings and Elections	
+Bylaw 401. Place of Meeting	
+Bylaw 402. Annual Meetings	
+Bylaw 403. Special Meetings	
+Bylaw 404. Notice of Meetings	
+Bylaw 405. Voting; Quorum	
+Bylaw 406. Elections	
+Bylaw 407. Reserved	
+Bylaw 408. Record Date	
+Bylaw 409. Executive Representative	
+Chapter 5. Board of Directors	
+Bylaw 501. General Powers and Duties	
+Bylaw 502. Term of Office	
+Bylaw 503. Reserved	
+Bylaw 504. Reserved	
+Bylaw 505. Resignations	
+Bylaw 506. Regular Meetings	
+Bylaw 507. Special Meetings	
+Bylaw 508. Adjournment; Lack of Quorum	
+Bylaw 509. Manner of Voting by Directors	
+Bylaw 510. Informal Action by Directors	
+Bylaw 511. Interpretation of NFA Requirements	
+Bylaw 512. Voting on Floor Broker or Floor Trader Registration Responsibilities	
+Bylaw 513. Directors Acting as Counsel in NFA Proceedings	
+Bylaw 514. Prohibition Against Use of Non-Public Information	
+Bylaw 515. Qualifications of Directors	
+Bylaw 516. Voting by Interested Directors	
+Chapter 6. Officers	
+Bylaw 601. Officers	
+Bylaw 602. Chairman and Vice Chairman	
+Bylaw 603. President	
+Bylaw 604. Secretary	
+Bylaw 605. Treasurer	
+Bylaw 606. Resignations	
+Bylaw 607. Removal	
+Chapter 7. Committees	
+Bylaw 701. Membership Committee	
+Bylaw 702. Appeals Committee	
+Bylaw 703. Advisory Committees	
+Bylaw 704. Business Conduct Committee	
+Bylaw 705. Finance Committee	
+Bylaw 706. Reserved	
+Bylaw 707. Hearing Committee	
+Bylaw 708. Qualifications and Obligations of Members of NFA Committees	
+Chapter 8. Arbitration	
+Bylaw 801. Code of Arbitration	
+Bylaw 802. Qualifications of Members of Arbitration Panels	
+Chapter 9. Enforcement and Discipline	
+Bylaw 901. Compliance Rules	
+Chapter 10. Financial Requirements	
+Bylaw 1001. Financial Requirements	
+Chapter 11. Doing Business with Non-Members	
+Bylaw 1101. Prohibition	
+Bylaw 1102. Effective Date of Prohibition	
+Chapter 12. Property and Investments	
+Bylaw 1201. Property	
+Bylaw 1202. Investments	
+Chapter 13. Schedule of Dues and Assessments	
+Bylaw 1301. Schedule of Dues and Assessments	
+Bylaw 1302. Payment of Dues and Assessments	
+Bylaw 1303. Default and Deemed Request to Withdraw Membership	
+Bylaw 1304. Audit Fees for LTMs	
+Chapter 14. Indemnification and Lawsuits Against NFA	
+Bylaw 1401. Indemnification	
+Bylaw 1402. Lawsuits Against NFA	
+Chapter 15. Miscellaneous Provisions	
+Bylaw 1501. Corporate Seal	
+Bylaw 1502. Depositories	
+Bylaw 1503. Checks, Drafts, Notes, etc.	
+Bylaw 1504. Fiscal Year	
+Bylaw 1505. Effective Dates	
+Bylaw 1506. Amendments to Bylaws	
+Bylaw 1507. Definitions	
+Bylaw 1508. Security Futures Agreements	
+Compliance Rules	
+Part 1 - Definitions	
+Rule 1-1. Definitions	
+Part 2 - Rules Governing the Business Conduct of Members Registered with the Commission	
+Rule 2-1. Contract Market Jurisdiction	
+Rule 2-2. Fraud and Related Matters	
+Rule 2-3. Sharing in Profits	
+Rule 2-4. Just and Equitable Principles of Trade	
+Rule 2-5. Cooperation in NFA Investigations and Proceedings	
+Rule 2-6. Expelled or Suspended Member or Associate	
+Rule 2-7. Branch Office Managers and Designated Security Futures Principals	
+Rule 2-8. Discretionary Customer Accounts	
+Rule 2-9. Supervision	
+Rule 2-10. Recordkeeping	
+Rule 2-11. Customer Accounts	
+Rule 2-12. [Reserved]	
+Rule 2-13. CPO/CTA Regulations	
+Rule 2-14. Compliance Jurisdiction	
+Rule 2-15. [Reserved]	
+Rule 2-16. [Reserved]	
+Rule 2-17. [Reserved]	
+Rule 2-18. [Reserved]	
+Rule 2-19. [Reserved]	
+Rule 2-20. [Reserved]	
+Rule 2-21. [Reserved]	
+Rule 2-22. Prohibited Representations	
+Rule 2-23. FCM and RFED Responsibility for Guaranteed Member IBs	
+Rule 2-24. Qualification Testing of Associated Persons	
+Rule 2-25. Requirements for Dealer Options Transactions of FCMs	
+Rule 2-26. FCM and IB Regulations	
+Rule 2-27. Transfer of Customer Accounts	
+Rule 2-28. [Reserved]	
+Rule 2-29. Communications with the Public and Promotional Material	
+Rule 2-30. Customer Information and Risk Disclosure	
+Rule 2-31. Foreign Futures and Foreign Options Transactions	
+Rule 2-32. Leverage Transactions	
+Rule 2-33. FCM Receipt of Funds from Omnibus Accounts	
+Rule 2-34. CTA Performance Reporting and Disclosures	
+Rule 2-35. CPO/CTA Disclosure Documents	
+Rule 2-36. Requirements for Forex Transactions	
+Rule 2-37. Security Futures Products	
+Rule 2-38. Business Continuity and Disaster Recovery Plan	
+Rule 2-39. Soliciting, Introducing, or Managing Forex Transactions or Accounts	
+Rule 2-40. Bulk Assignment or Liquidation of Forex Positions; Cessation of Customer Business	
+Rule 2-41. [Reserved]	
+Rule 2-42. [Reserved]	
+Rule 2-43. Forex Orders	
+Rule 2-44. [Reserved]	
+Rule 2-45. Prohibition of Loans by Commodity Pools to CPOs and Affiliated Entities	
+Rule 2-46. CPO and CTA Quarterly Reporting Requirements	
+Rule 2-47. [Reserved]	
+Rule 2-48. Forex Dealer Member Daily Trade Data Reports	
+Rule 2-49. Swap Dealers and Major Swap Participants Regulations	
+Rule 2-50. CPO Notice Filing Requirements	
+Part 3 - Compliance Procedures	
+Rule 3-1. Department of Compliance	
+Rule 3-2. Investigation	
+Rule 3-3. Service	
+Rule 3-4. Notice of Charges	
+Rule 3-5. Right to Counsel	
+Rule 3-6. Answer	
+Rule 3-7. Appointment of Hearing Panel	
+Rule 3-8. Pre-Hearing Procedures	
+Rule 3-9. Hearing	
+Rule 3-10. Decision	
+Rule 3-11. Settlement	
+Rule 3-12. Notice and Publication of Decision	
+Rule 3-13. Appeal; Review	
+Rule 3-14. Penalties	
+Rule 3-15. Member or Associate Responsibility Actions	
+Rule 3-16. Relationship Between Member or Associate Responsibility Action and Disciplinary Action	
+Rule 3-17. Composition of Committees	
+Rule 3-18. Sanctions for Contumacious Conduct	
+Part 4 - Procedures Governing Access to and Certification of CFTC Records, Other than Registration Records, Maintained by NFA	
+Rule 4-1. Disclosure of Information from CFTC Records, Other than Registration Records, Maintained by NFA	
+Rule 4-2. Certification of the Authenticity of CFTC Records Maintained by NFA	
+Code of Arbitration	
+Section 1. Definitions	
+Section 2. Arbitrable Disputes	
+Section 3. Pre-Dispute Arbitration Agreements	
+Section 4. Arbitration Panel	
+Section 5. Time Period for Arbitration	
+Section 6. Initiation of Arbitration	
+Section 7. Right to Counsel	
+Section 8. Pre-Hearing	
+Section 9. Hearing	
+Section 10. Award, Settlement and Withdrawal	
+Section 11. Arbitration Fees	
+Section 12. Arbitration Costs	
+Section 13. Non-Waiver of NFA Rights	
+Section 14. Mediation	
+Section 15. Disputes not Covered Under this Code	
+Section 16. Miscellaneous	
+Section 17. Agreements Conflicting with the Code	
+Section 18. Applicability of Member Arbitration Rules	
+Section 19. NFA's Authority to Interpret the Code	
+Section 20. Other Legal Proceedings	
+Member Arbitration Rules	
+Section 1. Definitions	
+Section 2. Arbitrable Disputes	
+Section 3. Arbitration Panel	
+Section 4. Time Period for Arbitration	
+Section 5. Initiation of Arbitration	
+Section 6. Right to Counsel	
+Section 7. Pre-Hearing	
+Section 8. Dismissal Without Prejudice	
+Section 9. Hearing	
+Section 10. Award, Settlement and Withdrawal	
+Section 11. Arbitration Fees	
+Section 12. Arbitration Costs	
+Section 13. Non-Waiver of NFA Rights	
+Section 14. Mediation	
+Section 15. Miscellaneous	
+Section 16. Agreements Conflicting with the Rules	
+Section 17. NFA's Authority to Interpret the Rules	
+Financial Requirements	
+Section 1. Futures Commission Merchant Financial Requirements	
+Section 2. Eligibility to Guarantee IBs	
+Section 3. Relief Requests	
+Section 4. Financial Requirements and Treatment of Customer Property	
+Section 5. Introducing Broker Financial Requirements	
+Section 6. Leverage Transaction Merchant Financial and Reporting Requirements	
+Section 7. Performance Margin	
+Section 8. Information Requests	
+Section 9. Notification of Reportable Positions	
+Section 10. Late Financial Reports and Other Filings	
+Section 11. Forex Dealer Member Financial Requirements	
+Section 12. Security Deposits for Forex Transactions with Forex Dealer Members	
+Section 13. Forex Dealer Member Reports	
+Section 14. Assets Covering Liabilities to Retail Forex Customers	
+Section 15. Forex Dealer Member Internal Financial Controls	
+Section 16. FCM Financial Practices and Excess Segregated Funds/Secured Amount/Cleared Swaps Customer Collateral Disbursements	
+Section 17. Swap Dealer and Major Swap Participant Reporting Requirements	
+Section 18. Swap Dealer and Major Swap Participant Financial Requirements	
+Registration Rules	
+Part 100. Definitions	
+Rule 101. Definitions	
+Part 200. Registration Requirements and Procedures	
+Rule 201. Registration Requirements and Procedures	
+Rule 202. Registration Processing and Notification of Registration or Confirmation of Exemption from Registration	
+Rule 203. Registration Fees	
+Rule 204. Registration of Futures Commission Merchants, Notice Futures Commission Merchants, Retail Foreign Exchange Dealers, Floor Trader Firms, Introducing Brokers, Notice Introducing Brokers, Commodity Pool Operators, Commodity Trading Advisors	
+Rule 205. Registration of Floor Brokers and Floor Traders	
+Rule 206. Registration of Associated Persons of Futures Commission Merchants, Introducing Brokers, Commodity Pool Operators, Commodity Trading Advisors and Leverage Transaction Merchants	
+Rule 207. Multiple Associations	
+Rule 208. Reporting of Principals	
+Rule 209. Alternative to the Fingerprint Filing Requirement in Certain Cases	
+Rule 210. Deficiencies, Inaccuracies and Changes to Application Information must be Reported	
+Rule 211. Supplemental Filing Requirements	
+Rule 212. Registration in One Capacity does Not Include Registration in Any Other Capacity	
+Rule 213. Current Address for Purpose of Delivery of Communications	
+Rule 214. Termination of Associated Person Registration and Principal Affiliation	
+Rule 215. [Reserved]	
+Part 300. Temporary Licenses	
+Rule 301. Temporary Licensing of Associated Persons	
+Rule 302. Temporary Licensing for Guaranteed Introducing Brokers	
+Rule 303. Temporary Licensing for Floor Brokers and Floor Traders	
+Part 400. Proficiency Requirements	
+Rule 401. Qualification Testing Requirement	
+Rule 402. Waiver of Testing Requirement	
+Part 500. Proceedings to Deny, Condition, Suspend and Revoke Registration	
+Rule 501. Authority to Deny, Condition, Suspend and Revoke Registration	
+Rule 502. General Provisions	
+Rule 503. Withdrawal of Application for Registration	
+Rule 504. Procedures Governing Applicants and Registrants Disqualified from Registration Under Section 8a(2), 8a(3) or 8a(4) of the Act	
+Rule 505. Motions	
+Rule 506. Hearing Procedures	
+Rule 507. Decision of Membership Committee or a Designated Subcommittee	
+Rule 508. Orders	
+Rule 509. Settlements	
+Rule 510. Procedures to Lift or Modify Conditions	
+Part 600. Withdrawal from Registration	
+Rule 601. Withdrawal from Registration	
+Part 700. Procedures Governing Access to and Certification of Registration Records Maintained by NFA	
+Rule 701. Disclosure of Information from Registration Records Maintained by NFA	
+Rule 702. Certification of the Authenticity of Registration Records Maintained by NFA	
+Part 800. Electronic Filing of Registration Forms	
+Rule 801. Electronic Filing of Forms 7-R, 8-R, 7-W and 8-T	
+Rule 802. Certifications, Acknowledgements, Agreements and Representations	
+Interpretive Notices	
+[Reserved]	
+Registration Requirements; Branch Offices	
+NFA Compliance Rule 2-29: Communications with the Public and Promotional Material	
+NFA Compliance Rule 2-30: Customer Information and Risk Disclosure	
+NFA Compliance Rule 2-4: Guidelines for the Disclosure by FCMs and IBs of Costs Associated with Futures and Cleared Swap Transactions	
+NFA Compliance Rule 2-13: Guideline for the Disclosure by CPOs and CTAs of "Up Front" Fees and Organizational and Offering Expenses	
+Compliance with NFA Bylaw 1101	
+[Reserved]	
+NFA Compliance Rule 2-29: Review of Promotional Material Prior to its First Use	
+Information Available from NFA Regarding Background of Prospective Employees	
+NFA Bylaws 515, 708 and 802: NFA Requirements Which Constitute Disciplinary Offenses	
+[Reserved]	
+NFA Compliance Rule 2-30: Customer Information and Risk Disclosure	
+NFA Compliance Rule 2-4: Confidentiality Language in Release Agreements	
+[Reserved]	
+NFA Bylaw 1301: NFA Assessment Fee Questions and Answers for FCMs	
+NFA Bylaw 1301: Forms and Procedures for Assessment Fee Computation	
+Registration Rule 402: CPOs of Pools Trading Primarily in Securities	
+Compliance Rule 2-9: Supervision of Branch Offices and Guaranteed IBs	
+NFA Compliance Rules 2-9 and 2-36: Self-Examination Questionnaires	
+NFA Compliance Rules 2-9 and 2-36: Enhanced Supervisory Requirements for FCMs, IBs, FDMs, CPOs and CTAs	
+Registration Rule 402: CTAs Trading Primarily in Securities	
+Compliance Rule 2-13: Break-Even Analysis	
+[Reserved]	
+Compliance Rule 2-29: Use of Promotional Material Containing Hypothetical Performance Results	
+[Reserved]	
+[Reserved]	
+NFA Financial Requirements: The Electronic Filing of Financial Reports	
+NFA Compliance Rule 2-10: The Allocation of Bunched Orders for Multiple Accounts	
+[Reserved]	
+Standard List of Documents to be Exchanged Under Section 8 of NFA's Code of Arbitration	
+Standard List of Documents to be Exchanged Under Section 7 of NFA's Member Arbitration Rules	
+NFA Compliance Rule 2-29: Deceptive Advertising	
+NFA Compliance Rule 2-29: Deceptive Advertising	
+Rule 2-35. CPO/CTA Disclosure Documents	
+[Reserved]	
+NFA Compliance Rules 2-9, 2-10, 2-29, 2-36 and 2-39: Guidance on the Use and Supervision of Websites, Social Media and Other Electronic Communications	
+NFA Compliance Rules 2-29: High Pressure Sales Tactics	
+NFA Compliance Rules 2-29 and 2-9: NFA's Review and Approval of Certain Audio and Video Advertisements	
+[Reserved]	
+Obligations to Customers and Other Market Participants	
+Compliance Rule 2-9: Special Supervisory Requirements for Members Registered as Broker-Dealers Under Section 15(b)(11) of the Securities Exchange Act of 1934	
+NFA Compliance Rule 2-29: Use of Past or Projected Performance; Disclosing Conflicts of Interest for Security Futures Products	
+NFA Compliance Rule 2-4: Broker-Dealer Registration Requirements for Security Futures Products	
+NFA Compliance Rule 2-9: FCM and IB Anti-Money Laundering Program	
+Compliance Rule 2-9: Supervision of the Use of Automated Order-Routing Systems	
+NFA Compliance Rule 2-37: Fair Commissions	
+NFA Compliance Rule 2-4: The Best Execution Obligation of NFA Members Registered as Broker-Dealers Under Section 15(b)(11) of the Securities Exchange Act of 1934	
+NFA Compliance Rules 2-7 and 2-24 and Registration Rule 401: Proficiency Requirements for Security Futures Products	
+NFA Compliance Rule 2-30(b): Risk Disclosure Statement for Security Futures Contracts	
+NFA Compliance Rules 2-9 and 2-36: Ethics Training Requirements	
+NFA Compliance Rule 2-38: Business Continuity and Disaster Recovery Plan	
+Forex Transactions	
+Compliance Rule 2-34: CTA Performance Reporting and Disclosures	
+NFA Bylaw 1101, Compliance Rules 2-9 and 2-29: Guidelines Relating to the Registration of Third-Party Trading System Developers and the Responsibility of NFA Members for Promotional Material that Promotes Third-Party Trading System	
+NFA Compliance Rule 2-6: Conducting Commodity Interest Business with an Expelled or Suspended Member or Associate	
+Commissions, Fees and Other Charges	
+NFA Compliance Rule 2-40: Procedures for the Bulk Assignment or Liquidation of Forex Positions; Cessation of Customer Business	
+NFA Compliance Rule 2-4: Disclosure Guidelines for FCMs Offering Sweep Accounts	
+Compliance Rule 2-36(e): Supervision of the Use of Electronic Trading Systems	
+NFA Compliance Rule 2-4: Misuse of Trade Secrets and Proprietary Information	
+Compliance Rule 2-45: Prohibition of Loans by Commodity Pools to CPOs and Related Entities	
+Reserved	
+NFA Compliance Rule 2-36: Requirements for Forex Transactions	
+NFA Compliance Rule 2-10: The Allocation of Bunched Retail Forex Orders for Multiple Accounts	
+NFA Financial Requirements Section 16: FCM Financial Practices and Excess Segregated Funds/Secured Amount/Cleared Swaps Customer Collateral Disbursements	
+NFA Bylaw 1301(b): NFA's Assessment Fee - Diminutive Notional Value Contracts and Security Futures Products	
+NFA Compliance Rules 2-4 and 2-36: Prohibition on the Use of Certain Electronic Funding Mechanisms	
+NFA Compliance Rule 2-36: Risk Management Program for Forex Dealer Members	
+NFA Compliance Rules 2-9, 2-36 and 2-49: Information Systems Security Programs1	
+NFA Compliance Rule 2-46: Reporting Financial Information on NFA Forms PQR and PR	
+NFA Compliance Rule 2-49: Swap Valuation Dispute Filing Requirements	
+Disclosure Requirements for NFA Members Engaging in Virtual Currency Activities	
+NFA Compliance Rule 2-9: CPO Internal Controls System	
+NFA Bylaw 301 and Compliance Rule 2-24: Proficiency Requirements for Swap APs	
+NFA Compliance Rule 2-9(D): Supervision Requirements for Swap Dealer and Major Swap Participant Members	
+NFA Compliance Rule 2-9(D): Swap Dealer and Major Swap Participant Supervision of the Use of Marketing Materials	
+NFA Financial Requirements Section 18: NFA Pre-Approval of the Use of Subordinated Debt	
+NFA Compliance Rules 2-9 and 2-36: Members' Use of Third-Party Service Providers	
+NFA Compliance Rule 2-50: CPO Notice Filing Requirements	
+Financial Requirements Section 17: Initial Margin Model Ongoing Monitoring Reports	

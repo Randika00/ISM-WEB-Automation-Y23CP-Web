@@ -1,0 +1,1020 @@
+Rule 101. Scope
+Rule 102. Purpose and Construction
+Rule 103. Rulings on Evidence
+Rule 104. Preliminary Questions
+Rule 105. Limited Admissibility
+Rule 106. Remainder of or Related Writings or Recorded Statements
+Article II. Judicial Notice
+Rule 201. Judicial Notice of Adjudicative Facts
+Article III. Presumptions in Civil Actions and Proceeedings
+Rule 301. Presumptions in General in Civil Actions and Proceedings
+Article IV. Relevancy and its Limits
+Rule 401. Definition of "Relevant Evidence"
+Rule 402. Relevant Evidence Generally Admissible; Irrelevant Evidence Inadmissible
+Rule 403. Exclusion of Relevant Evidence on Grounds of Prejudice, Confusion, or Waste of Time
+Rule 404. Character Evidence Not Admissible to Prove Conduct; Exceptions; Other Crimes
+Rule 405. Methods of Proving Character
+Rule 406. Habit; Routine Practice
+Rule 407. Reserved
+Rule 408. Compromise and Offers to Compromise
+Rule 409. Payment of Medical and Similar Expenses
+Rule 410. Inadmissibility of Pleas, Plea Discussions, and Related Statements
+Rule 411. Liability Insurance
+Rule 412. Prior Sexual Activity or Reputation as Evidence
+Rule 413. Evidence of Other Offenses in Criminal Cases
+Article V. Privileges
+Rule 501. General Rule
+Rule 502. Attorney-Client Privilege and Work Product; Limitations on Waiver
+Article VI. Witnesses
+Rule 601. General Rule of Competency
+Rule 602. Lack of Personal Knowledge
+Rule 603. Oath or Affirmation
+Rule 604. Interpreters
+Rule 605. Competency of Judge as Witness
+Rule 606. Competency of Juror as Witness
+Rule 607. Who may Impeach
+Rule 608. Evidence of Character of Witness for Truthfulness or Untruthfulness
+Rule 609. Impeachment by Evidence of Conviction of Crime
+Rule 610. Religious Beliefs or Opinions
+Rule 611. Mode and Order of Interrogation and Presentation
+Rule 612. Writing Used to Refresh Memory
+Rule 613. Prior Statements of Witnesses
+Rule 614. Calling and Interrogation of Witnesses by Court
+Rule 615. Exclusion of Witnesses
+Article VII. Opinions and Expert Testimony
+Rule 701. Opinion Testimony by Lay Witnesses
+Rule 702. Testimony by Experts
+Rule 703. Bases of Opinion Testimony by Experts
+Rule 704. Opinion on Ultimate Issue
+Rule 705. Disclosure of Facts or Data Underlying Expert Opinion
+Article VIII. Hearsay
+Rule 801. Definitions
+Rule 802. Hearsay Rule
+Rule 803. Hearsay Exceptions; Availability of Declarant Immaterial
+Rule 804. Hearsay Exceptions; Declarant Unavailable
+Rule 805. Hearsay Within Hearsay
+Rule 806. Attacking and Supporting Credibility of Declarant
+Article IX. Authentication and Identification
+Rule 901. Requirement of Authentication or Identification
+Rule 902. Self-Authentication
+Rule 903. Subscribing Witness' Testimony Unnecessary
+Article X. Contents of Writings, Recordings and Photographs
+Rule 1001. Definitions
+Rule 1002. Requirement of Original
+Rule 1003. Admissibility of Duplicates
+Rule 1004. Admissibility of Other Evidence of Contents
+Rule 1005. Public Records
+Rule 1006. Summaries
+Rule 1007. Testimony or Written Admission of Party
+Rule 1008. Functions of Court and Jury
+Article XI. Miscellaneous Rules
+Rule 1101. Applicability of Rules
+Rule 1102. Title
+Part 1. General Provisions				
+Rule 1.01. Rules of Court				
+Rules of Practice Arbitration				
+Rule 1. Actions Subject to Court-Annexed Mandatory Arbitration (S.Ct.Rule 86)				
+Rule 2. Appointment, Qualification and Compensation of Arbitrators (S.Ct.Rule 87)				
+Rule 3. Scheduling of Hearings (S.Ct.Rule 88)				
+Rule 4. Discovery (S.Ct.Rule 89)				
+Rule 5. Conduct of the Hearings (S.Ct.Rule 90)				
+Rule 6. Default of a Party (S.Ct.Rule 91)				
+Rule 7. Award and Judgment on Award (S.Ct.Rule 92)				
+Rule 8. Rejection of Award (S.Ct.Rule 93)				
+Rule 9. Duties of Supervising Judge for Arbitration				
+Part 2. Family Division				
+Rule No. 2.01: Assignment and Coordination of Cases Involving Custody and Visitation				
+Rule No. 2.02: Attorney Qualifications in Child Custody Matters				
+Rule No. 2.03: Parent Education				
+Rule No. 2.04: Failure to Appear at Court Dates				
+Rule No. 2.05: Affidavits of Assets and Liabilities and Proof of Income				
+Rule No. 2.06: Position Statement of Proposed Disposition				
+Rule No. 2.07: Authorizations for Information				
+Rules of Practice Custody and Mediation				
+Rule 1. Definitions				
+Rule 2. Mediation Mandatory				
+Rule 3. Referral Assignment Procedure				
+Rule 4. Mediation Process				
+Rule 5. Application of Safeguards in Case of Impediment				
+Rule 6. Confidentiality				
+Rule 7. Attendance and Termination of Mediation				
+Rule 8. Entry of Judgment or Order				
+Rule 9. Qualification and Training of Mediators				
+Part 3. Law Division				
+Rule 3.01. Amended Circuit Court Rules				
+Part 4. Substitution of Judge in Class Action Cases				
+Rule 4.01. Circuit Court Rule Regarding Class Action Cases				
+Part 5. Mediation in Malpractice Cases				
+Rule 1. Mediation in Malpractice Cases				
+Rule 2: Eligibility for Mandatory Mediation				
+Rule 3: Circuit Review Panel				
+Rule 4: Scheduling of Mediation				
+Rule 5: Mediator Appointment, Qualfications and Compensation				
+Rule 6: Conduct of Mediation Conference				
+Rule 7: Motions to Dismiss Involving Certificates of Merit				
+Part 6. Voluntary Mediation in Civil Cases				
+Rule 1. Purpose of the Mediation Process				
+Rule 2. Actions Eligible for Court-Annexed Mediation				
+Rule 3. Scheduling of Mediation				
+Rule 4. Mediation Rules and Procedures				
+Rule 5. Mediator Qualifications				
+Part 7. E-Filing Rules in Law Cases				
+Rule 1. Authority				
+Rule 2. Designation of Electronic Filing Case Types				
+Rule 3. Definitions				
+Rule 4. Authorized Users				
+Rule 5. Method of Filing				
+Rule 6. Maintenance of Original Documents				
+Rule 7. Privacy Issues				
+Rule 8. Format of Documents				
+Rule 9. Signatures				
+Rule 10. Time of Filing, Acceptance by the Clerk and Electronic Filing Stamp				
+Rule 11. Electronic Service, Courtesy Copies and Filing Proof of Service				
+Rule 12. Collection of Fees				
+Rule 13. System or User Errors				
+Rule 14. Vendor Conditions				
+Part 8. Cases Under Advisement				
+Rule 1				
+Rule 2				
+Rule 3				
+Amended Part 9. Residential Mortgage Foreclosure Mediation Mandatory Court Rules				
+A. Purpose				
+B. Actions Eligible for Mediation				
+C. Participant Program Costs				
+D. Mediation Procedure				
+E. Mediators				
+F. Confidentiality				
+G. Discovery				
+H. Immunity				
+I. Impartiality				
+J. Conflicts of Interest				
+J. Sustainability Plan Including Long-Term Funding				
+K. Attachments				
+Notice of Mandatory Mediation				
+Homeowner's Financial Questionnaire				
+Part 10. E-Filing Rules of the Third Judicial Circuit				
+Rule 1. Authority				
+Rule 2. Designation of Electronic Filing Case Types				
+Rule 3. Definitions				
+Rule 4. Authorized Users				
+Rule 5. Method of Filing				
+Rule 6. Maintenance of Original Documents				
+Rule 7. Privacy Issues				
+Rule 8. Requirements of an Electronic Document				
+Rule 9. Signatures				
+Rule 10. Time of Filing, Acceptance by the Clerk and Electronic Filing Stamp				
+Rule 11. Electronic Service, Courtesy Copies and Filing Proof of Service				
+Rule 12. Collection of Fees				
+Rule 13. System or User Errors				
+Rule 14. Vendor Conditions				
+Rules to Implement and Maintain an E-Record Program, Part 11				
+Rule 1. Authority				
+Rule 2. Designation of Case Types for the Electronic Record as the Official Court Record				
+Rule 3. Restrictions on Access to Electronic Documents				
+Rule 4. Forward Migration of Electronic Documents Ensures Future Access				
+Rule 5. Designation of the Electronic Record as the Official Court Record for Non-Civil Case Types				
+Rule 6. Other Rules and Orders Necessary for Electronic Record Program				
+Part 12. Custody and Mediation				
+RULE 1. DEFINITIONS				
+RULE 2. MEDIATION MANDATORY				
+RULE 3. REFERRAL ASSIGNMENT PROCEDURE				
+RULE 4. MEDIATION PROCESS				
+RULE 5. APPLICATION OF SAFEGUARDS IN CASE OF IMPEDIMENT				
+RULE 6. CONFIDENTIALITY				
+RULE 7. ATTENDANCE AND TERMINATION OF MEDIATION				
+RULE 8. ENTRY OF JUDGMENT OR ORDER				
+RULE 9. QUALIFICATIONS AND TRAINING OF MEDIATORS				
+Rules Governing Elder Law and Justice Division, Part 13				
+Purpose and Policy				
+Definitions				
+General Organization of the Elder Law and Justice Division				
+Filing, Service and Assignment				
+Part 14. Residential Eviction Mediation Program				
+A. PURPOSE				
+B. AUTHORITY FOR PROGRAM				
+C. ACTIONS ELIGIBLE FOR MEDIATION				
+D. PROGRAM STAFF				
+E. PRE-MEDIATION AND MEDIATION PROCEDURE				
+F. MEDIATORS				
+G. CONFIDENTIALITY				
+H. DISCOVERY				
+I. IMMUNITY				
+J. IMPARTIALITY				
+K. CONFLICTS OF INTEREST				
+L. LANGUAGE ACCESS				
+M. SUSTAINABLITY PLAN INCLUDING LONG-TERM FUNDING				
+N. REPORTS				
+O. ATTACHMENTS				
+Rule 15. Remote Appearances				
+Rule 16. Parenting Coordinators				
+Rule 1. Definitions				
+Rule 2. Parenting Coordinator				
+Rule 3. Obligations Of Coparents				
+Rule 4. Court Review				
+Rule 5. Communications And Immunity				
+Rule 6. Qualifications And Training Of Parenting Coordinators	
+Part 1. Organization				
+Rule 1.1. Rules of Court				
+Rule 1.2. Chief Judge				
+Rule 1.3. Presiding Judge				
+Rule 1.4. Judicial Assignments				
+Rule 1.5. Court Personnel				
+Rule 1.6. Judicial Meetings				
+Rule 1.7. Judicial Reports				
+Rule 1.8. Documents and Court Files				
+Rule 1.9. County Law Library				
+Rule 1.10. Inspection and Certification of Court Facilities				
+Rule 1.11. Court Appearance				
+Rule 1.12. Jurors, Terms of Service, Summons and Excuse				
+Part 2. Motions				
+Rule 2.1. Motion Practice				
+Part 3. Proceedings Before Trial				
+Rule 3.1. Discovery Documents				
+Rule 3.2. Felony Arraignments				
+Rule 3.3. Marking of Exhibits – Pretrial Marking of Exhibits				
+Rule 3.4. Dismissal				
+Part 4. Trials				
+Rule 4.1. Jury Trials				
+Rule 4.2. Custody of Evidence or Exhibits				
+Part 5. Draft Orders and Post-Judgment Notices				
+Rule 5.1. Written Orders				
+Part 6. Small Claims Action				
+Rule 6.1. Procedure in Small Claims Actions				
+Part 7. Domestic Relations				
+Rule 7.1. Special Rules Pertaining to Matrimonial Cases				
+Part 8. Contempt of Court				
+Rule 8.1. Admission of Will to Probate				
+Rule 8.2. Expenditures from Ward's Estate				
+Rule 8.3. Withdrawal of Ward's Money				
+Rule 8.4. Disposition of Claims--Procedure				
+Rule 8.5. Dismissal for Want of Action				
+Rule 8.6. Periodic Accounting				
+Rule 8.7. Independent Administration--Status Report				
+Rule 8.8. Inactive Docket--Guardians of Person				
+Rule 8.9. Settlement of Personal Injury or Death Action				
+Rule 8.10. Assignment of Interest				
+Rule 8.11. Attorneys-In-Fact and Representatives of Foreign Countries				
+Part 9. Probate Proceedings				
+Rule 9.1. Cameras in the Courtroom				
+Appendix A. Financial Affidavit				
+Appendix B. Notice of Service of Discovery Documents				
+Appendix C. Extended Media Coverage	
+Series 100. Reserved				
+Series 200. Reserved				
+Series 300. Family Court Rules				
+1. Definition				
+2. Dissolution Venue				
+Rule 301. Filing and Appearance Requirements				
+Rule 302. Motions				
+Rule 303. Discovery – Interrogatories, Requests for Production and Depositions				
+Rule 304. Case Management				
+Rule 305. Trial and Post Trial Matters				
+Rule 306. Final Orders Involving Children				
+Rule 307. Dormant Calendar				
+Rule 308. Mediation				
+Rule 309. Coordination of Parental Responsibilty Proceedings				
+Rule 310. Attorney Qualifications in Parental Responsibility and Parenting Time Matters				
+Rule 311. Forms Relating to Dissolution of Marriage, Establishing Parentage, Child Support and Maintenance				
+Rule 312. Implementation of Rules				
+Appendixes				
+Appendix C - Case Management Order				
+Appendix D-1 - Final Pre-Trial Memorandum - With Children				
+Appendix D-2 - Final Pre-Trial Memorandum - Without Children				
+Appendix E - Order for Mediation				
+Appendix F - Family Court Mediation Referral Form				
+Appendix G - Mediator's Report				
+Appendix M - Model Judgment of Dissolution of Marriage by Publication				
+Appendix N - Model Petition for Order of Parentage				
+Appendix O - Model Order of Parentage	
+Preface				
+Repeal of Prior Rules				
+Forms				
+General Rules				
+Rule 1. Chief Circuit Judge, Selection and Removal, Meetings				
+Rule 2. General Administrative Authority of Chief Circuit Judge				
+Rule 3. Filing and Identification of Pleadings				
+Rule 4. Withdrawal of Files from Clerks				
+Rule 5. Office Hours of Clerks				
+Rule 6. Reports by Clerks				
+Rule 7. Civil Trial Calendars in Jury Demand Cases				
+Rule 8. Peremptory Calendar				
+Rule 9. Bonds of Clerks				
+Rule 10. Sales in Chancery				
+Rule 11. Organization and Divisions of Court				
+Rule 12. Grand Jurors				
+Rule 13. Petit Jurors				
+Rule 14. Digital Electronic Recording				
+Rule 15-19. Omitted				
+General Practice				
+Part 1. Appearances and Default				
+Rule 20. Omitted				
+Rule 21. Appearance of Parties				
+Part 2. Hearing of Motions				
+Rule 22. Notice of Hearing of Motions				
+Rule 23. Emergency and Ex Parte Motions Where Notice is Not Required				
+Part 3. Proceedings Before Trial				
+Rule 24. Form of Written Discovery Requests				
+Rule 25. Form of Responses to Written Discovery Requests				
+Rule 26. Days for Taking Depositions				
+Rule 27. Subpoenas for Production of Documents				
+Rule 28. Signing of Notice of Hearing or Notice of Deposition				
+Part 4. Case Management Conference				
+Rule 29. Case Management Conference-Requirement				
+Rule 30. Case Management Conference-Notice and Exceptions				
+Part 5. Satisfaction of Money Judgment				
+Rule 31. Satisfaction of Money Judgment Where Judgment Creditor Cannot be Found				
+Part 6. Receivers				
+Rule 32. Qualifications of Receivers				
+Rule 33. Attorneys for Receivers				
+Rule 34. Inventories of Receivers				
+Rule 35. Appraisal for Receivers				
+Rule 36. Reports for Receivers				
+Part 7. Bonds				
+Rule 37. Surety Companies				
+Rule 38. Justification of Sureties				
+Rule 39. Omitted				
+Domestic Relations Court				
+Part 1. General				
+Rule 40. Definitions and Scope				
+Rule 41. Administration of Domestic Relations Court				
+Rule 42. Financial Affidavits and Affidavits of Amount Due				
+Part 2. Case Management				
+Rule 43. Case Management Conference in Domestic Relations Court				
+Rule 44. Pleading Designation and Duties of Circuit Clerk				
+Rule 45. Assignment and Coordination-Child Custody Proceedings				
+Rule 46. Order of Protection in Domestic Relations Courts				
+Part 3. Mediation				
+Rule 47. Mediator-Qualifications				
+Rule 48. Mediator-Continuing Education				
+Rule 49. Mediator-List, Pro Bono and Statistical Obligations				
+Rule 50. Mediator-Removal				
+Rule 51. Initial Mediation Procedure				
+Rule 52. Confidentiality of Mediation Process				
+Rule 53. Exceptions to Confidentiality in Mediation Process				
+Rule 54. Ongoing Mediation Procedure, Agreement and Final Report				
+Part 4. Attorneyas Guardian Ad Litem, Attorney for a Child, or Child Representative				
+Rule 55. Attorney-Qualifications				
+Rule 56. Attorney-Continuing Education Requirements				
+Rule 57. Attorney-Pro Bono, Statistical Obligations and Discharge				
+Rule 58-59. Omitted				
+Probate Court				
+Part 1. General				
+Rule 60. Uniform Forms				
+Rule 61. Waiver of Rule				
+Rule 62. Filing of Address by Executor, Administrator or Guardian				
+Part 2. Opening Decedent's Estates				
+Rule 63. Petitions for Admission of will to Probate or for Letters of Administration				
+Rule 64. Deposition of Witness to a Will				
+Rule 65. Proof of Heirship				
+Rule 66. Inventory				
+Rule 67. Claims Against the Estate				
+Rule 68. Guardian Ad Litem				
+Rule 69. Attorneys-in-Fact and Representatives of Foreign Countries				
+Rule 70. Demand on Executor, Administrator, or Guardian to Pay Money or Deliver Property				
+Rule 71. Objections				
+Part 3. Accounts and Distribution				
+Rule 72. Change in Identity of the Parties				
+Rule 73. Distribution Before the Expiration of Six Months After Issuance of Letters				
+Rule 74. Accounts Procedure				
+Rule 75. Distribution-Minor or Disabled Adult				
+Rule 76. Final Account-Costs, Claims and Taxes				
+Rule 77. Final Settlement of Guardian with Ward				
+Rule 78. Settlement of Personal Injury and Wrongful Death Cases				
+Rule 79. Proof to Establish Dependency				
+Rule 80. Guardian's Petition for Expenses for Ward				
+Rule 81. Withdrawal of Money on Deposit with the County Treasurer (Recovery of Escheated Property)				
+Other Proceedings				
+Rule 82. Accounting Actions				
+Rule 83. Actions Seeking Review from an Administrative Agency's Decision				
+Rule 84. Criminal Proceedings-Notice of Hearing to Accompany Motion				
+Certificate				
+I. Administration of the Court				
+Article 1: General Rules				
+1.01. General Rules				
+1.02. Power of Court to Adopt Rules				
+1.03. Court Reporting Services				
+1.04-1.18. (Reserved)				
+1.19. Meetings				
+1.20. Selection of a Chief Judge				
+1.21. Authority of the Chief Judge				
+1.22. (Reserved)				
+1.23. Motion for Substitution of Judge for Cause				
+1.24. (RESERVED)				
+1.25. Attorney Registration - Addresses of Parties and Attorneys				
+1.26. Handling of all Writs in Criminal Proceedings				
+1.27. Appearance of Counsel				
+1.28. Judicial Supervision of the Use of Eavesdropping Devices				
+1.29. Decisions Within Sixty (60) Days				
+1.30. Photographing, Recording, Broadcasting or Televising in or Near Courtrooms				
+1.31. Judicial Review of Local Electoral Board Decisions				
+1.32. (RESERVED)				
+1.33. Law Library Rules of Conduct				
+1.34. Procedure Upon Remand for Further Proceedings				
+Article 2: Clerk of the Circuit Court				
+2.01. Office of the Clerk				
+2.02. Filing of Papers				
+2.03. Removal of Documents Filed				
+2.04. Copies of Papers Filed				
+2.05. Delivery of Files to Court Security Officers				
+2.06. Opening of Depositions				
+2.07. Maintaining Daily Call Sheet				
+2.08. Files Present in Courtroom				
+2.09. Custody of Evidence				
+2.10. Record Keeping				
+2.11. (Reserved)				
+2.12. Application to Waive Costs and Fees (Civil Actions)				
+2.13. Non-Wage Garnishment				
+2.14. Wage Deduction				
+2.15. Notice of Appeal				
+2.16. Transferred Cases				
+2.17. Clerk to Prepare Pre-Printed Approved Forms				
+Article 3: Sheriff				
+3.01. Additional Court Security Officers				
+3.02. Rules as to Court Security Officers				
+Article 4: Jury Services				
+4.01. Jurors: Selection and Terms of Service				
+4.02. Failure to Respond to Jury Summons				
+4.03. Compensation of Jurors				
+4.04. Jury Services at Coroner's Inquest				
+4.05. Jury Commission				
+Article 5: E-Filing				
+5.01. Authority				
+5.02. (RESERVED)				
+5.03. Designation of Electronic Filing Case Types				
+5.04. Definitions				
+5.05. Authorized Users				
+5.06. Method of Filing				
+5.07. Maintenance of Original Documents				
+5.08. Privacy Issues				
+5.09. Format of Documents				
+5.10. Signatures				
+5.11. Time of Filing, Acceptance by the Clerk and Electronic Filing Stamp				
+5.12. Electronic Service, Courtesy Copies and Filing Proof of Service				
+5.13. Collection of Fees				
+5.14. System or User Errors				
+5.15. Vendor Conditions				
+5.16. ELECTRONIC RECORDS				
+5.17. Summons on New Case Filings				
+II. Civil Proceedings				
+Article 6: Pleadings and Motions				
+6.01. Automatic Status Dates				
+6.02. Notice of Dismissal for Want of Prosecution				
+6.03. Pleadings to be Readily Comprehensible				
+6.04. Motions Generally				
+6.05. Contested Motions				
+6.06. (Reserved)				
+6.07. Motions for Consolidation of Cases				
+6.08. Emergency Motions and Emergency Relief				
+6.09. Proof of Damages Upon Entry of Default				
+6.10. Privacy Issues				
+Article 7: Discovery				
+7.01. Written Interrogatories or Production Requests				
+7.02. Discovery Documents				
+7.03. Medical Opinion Witnesses				
+7.04. Days for Taking Depositions				
+Article 8: Settlement and Litigation Conferences				
+8.01. Settlement Conference				
+8.01(a). Small Claims Subrogation Settlement Conferences				
+8.02. Litigation Conference				
+8.03. Initial Case Management Conference Exemption				
+8.04. L, ED, LM Case Management Conferences				
+Article 9: Trial Practice				
+9.01. Litigants to be Present in Court				
+9.02. Motions in Limine				
+9.03. Jury Selection				
+9.04. Wage Deduction Procedure				
+III. Particular Civil Proceedings				
+Article 10: Settlements and Judgments Involving Minors and Wards				
+10.01. Settlement of Minor's or Wards Personal Injury Claim, Wrongful Death Claim or Claim Under the Survival Statute				
+10.02. Distribution of Funds to a Minor Pursuant to Judgment				
+Article 11: Receivers				
+11.01. Qualifications and Appointment of Receivers				
+11.02. Attorneys for Receivers				
+11.03. Inventories of Receivers				
+11.04. Appraisal for Receivers				
+11.05. Reports of Receivers				
+11.06. Bonds of Receivers				
+Article 12: Bonds and Sureties				
+12.01. Definitions				
+12.02. Authorization to Serve as Surety				
+12.03. Petition and Hearing for Authorization				
+12.04. Revocation of Authorization				
+12.05. Justification of Sureties				
+Article 13: Mandatory Arbitration				
+13.01. Civil Actions Subject to Mandatory Arbitration (S.C. Rule 86)				
+13.02. Appointment, Qualification and Compensation of Arbitrators and Prohibition from Post-Hearing Contact with Arbitrators (S.C. Rule 87)				
+13.02.1. Diligence Date				
+13.03. Scheduling of Hearings (S.C. Rule 88)				
+13.04. Discovery (S.Ct. Rule 89)				
+13.05. Conduct of the Hearings (S.Ct. Rule 90)				
+13.06. Default of a Party (S.C. Rule 91)				
+13.07. Award and Judgment on Award (S.C. Rule 92)				
+13.08. Rejection of Award (S.C. Rule 93)				
+13.09. Form of Oath, Award and Notice of Entry of Award (S.C. Rule 94)				
+13.10. Form of Notice of Rejection of Award (S.C. Rule 95)				
+13.11. Administration of Mandatory Arbitration				
+13.12. Duties of Supervising Judge for Arbitration				
+13.13. Destruction of Arbitration Hearing Exhibits				
+Article 14: (Part 1) Court Ordered Mediation for Civil Cases				
+14.01. Purpose of the Mediation Process				
+14.02. Civil Actions Eligible for Court Ordered Mediation				
+14.03. Filing of Cases Eligible for Court Ordered Mediation				
+14.04. Discovery				
+14.05. Order of Referral to Court Ordered Mediation				
+14.06. Procedure Following Entry of an Order of Referral to Court Ordered Mediation				
+14.07. Location of Mediation Conferences				
+14.08. Attendance at a Mediation Conference				
+14.09. Settlement Prior to Mediation Conference				
+14.10. Termination and Report of Mediation Conference				
+14.11. Post-Mediation Conference Status Date				
+14.12. Mediation Conference Confidentiality				
+14.13. Mediator Immunity				
+14.14. Certification of Mediators for Court Ordered Mediation				
+14.15. Re-Certification & Removal of Mediators for Court Ordered Mediation				
+14.16. Disqualification of a Mediator				
+14.17. Mediator Compensation				
+14.18. Form Orders				
+14.19. Supervising Judge and Reporting Requirements				
+14.20. Duties of Supervising Judge for Mediation				
+ARTICLE 14: (PART 2) COURT ORDERED MEDIATION FOR CIVIL CASES				
+14.21. Purpose of the Residential Eviction Mediation Process				
+14.22. Eviction Actions Eligible for Court Ordered Mediation				
+14.23. Filing of Cases Eligible for Court Ordered Residential Eviction Mediation				
+14.24. Program Staff				
+14.25. Order of Referral to Court Ordered Mediation and Other Services				
+14.26. Appointment, Qualifications and Compensation of Mediators				
+14.27. Confidentiality, Applicability of Uniform Mediation Act				
+14.28. Attendance and Participation in Mediation				
+14.29. Reporting Requirements				
+14.30. Settlement Prior to Mediation Conference				
+14.31. Orders on Agreement Reached in Mediation				
+14.32. Post-Mediation Conference Status Date				
+14.33. Presiding Judge and Reporting Requirements				
+14.34. Language Access				
+Article 15: Domestic Relations-Articles 15.01-15.14 Articles 15.15-15.26				
+15.01. Definitions				
+15.02. Applicability and Case Designation				
+15.03. Marriage				
+15.04. Time Limitations in Child Custody or Allocation of Parental Responsibilities Cases				
+15.05. Discovery				
+ 15.05.01. Jurisdiction and Venue				
+ 15.05.02. Prove Ups				
+ 15.05.03. Due Diligence Affidavit; Leave to Serve by Publication				
+15.06. Education Program				
+15.07. Initial Status Conference				
+15.08. Titles on All Petitions, Motions and Orders				
+15.09. Motions and Hearings				
+15.10. Emergency Matters				
+15.11. Motions for Temporary Relief				
+15.12. Rule to Show Cause				
+15.13. Consolidation of Guardianship Cases				
+15.14. Guardians Ad Litem, Child Representatives, and Attorneys for Children				
+15.15. Mediation Referral Program				
+15.16. Custody Evaluation Program				
+15.17. Record in Certain Proceedings				
+15.18. Pre-Trial Conference and Trial Dates				
+15.19. Reserved				
+15.20. Entry of Judgment				
+15.21. Maintenance or Support Payments				
+15.22. Expedited Matrimonial Fee Arbitration Program				
+15.22.01. Eligible Actions				
+15.22.02. Powers and Duties				
+15.22.03. Applicability of Code of Civil Procedure				
+15.22.04. Commencement of Arbitration and Hearing				
+15.22.05. Reply and Notice				
+15.22.06. Absence of Party at Hearing				
+15.22.07. Award and Judgment on Award				
+15.22.08. Binding Arbitration and Judgment on Award				
+15.22.09. Arbitrator May Not Testify				
+15.22.10. Witness Immunity				
+15.22.11. Disclosure of Attorney-Client Communication and Work Product				
+15.22.12. Disputes Not Subject to Arbitration				
+15.22.13. Docketing of Arbitration				
+15.22.14. Review of Petition for Arbitration				
+15.22.15. Assignment to Arbitration Panel				
+15.22.16. Duties of Arbitration Panel; Arbitrator Disqualification; Compensation				
+15.22.17. Hearing				
+15.22.18. Fees and Costs				
+15.23. Refiled Cases				
+15.24. Domestic Violence				
+15.25. PRO SE COURT				
+15.26. Periodic Meetings				
+15.27. Self-Represented Litigant Assistance Center				
+Article 16: Small Claims				
+16.01. Form of Summons and Complaint				
+16.02. (Reserved)				
+16.03. Return Day Procedures				
+16.04. Jury Demands				
+Article 17: Juvenile				
+17.01. Intake Criteria				
+17.02. Intake Procedure				
+17.03. Preliminary Conference				
+17.04. Diversion-Intake Criteria				
+17.05. Neglected and Dependent Child Intake				
+17.06. Filing of Petitions				
+17.07. Attendance at Hearings				
+17.08. Answers to Petitions				
+17.09. (RESERVED)				
+17.10. Court Investigators				
+17.11. (RESERVED)				
+17.12. Limited or Temporary Custody				
+17.13. Detention Hearings				
+17.14. Emergency Change in Custody				
+17.15. Notice of Emergency Change in Custody				
+17.16. Routine Change in Custody				
+17.17. Duty to Report Pregnancy				
+17.18. Restriction Upon Undue Influence				
+17.19. Conditions of Supervision or Probation				
+17.20. Saving Provision				
+17.21. Expungement of Law Enforcement and Juvenile Court Records				
+Article 18: Probate				
+18.01. Admission of Will to Probate - Letters of Administration				
+18.02. Petition for Expenditure for Ward				
+18.03. Investment by Plenary Guardian or Guardian of the Estate				
+18.04. Inventories				
+18.05. Form of Accounts				
+18.06. Out-of-State Personal Representatives Reserved				
+18.07. Procedures for Estates of Disabled Adults				
+18.08. Procedures Regarding Guardianship Cases For Minors				
+Article 21				
+21.01. Filing of Petition				
+21.02. Docket Call Times				
+21.03. Motions				
+21.04. Courtesy Copies				
+21.05. Consents				
+21.06. Investigative Reports				
+21.07. Interim Orders				
+21.08. Guardians Ad Litem				
+21.09. Termination of Parental Rights by Default				
+21.10. Verification of Finality of Parallel Proceedings				
+21.11. Appointment of Counsel/Experts				
+21.12. Setting Matter for Judgment				
+21.13. Standby Adoptions				
+21.14. Adult Adoptions				
+21.15. Co-Parent and Second Parent Adoptions				
+21.16. Access to Court Files				
+21.17. Appointment of Confidential Intermediaries				
+Article 22: Tax Cases				
+22.01. Special Assessments				
+22.02 - 22.10. (Reserved)				
+IV. Criminal Proceedings				
+Article 30: General				
+30.01. Applicability of Rules				
+30.02. Motions Generally; Notice				
+30.02A. Contested Motions				
+30.03. Joinder and Transfer of Cases				
+30.04. Reassignments				
+30.05. Defendant's Appearance by a Two-Way Audio/Video Communication System				
+30.06. Defendant's Demand for Speedy Trial				
+30.07. Motion Days				
+30.08. Future Court Dates				
+30.09. Continuances				
+30.10. PLACING OF CF, CM, DV, OR MT or TR FILINGS ON THE COURT'S CALL				
+30.11. Appearances of Counsel and Priority in Court Call				
+30.12. (Reserved)				
+30.13. Waiver of Trial by Jury				
+30.14. (Reserved)				
+30.15. Control of Evidence in Criminal Courts				
+30.16. Petitions to Expunge Records of Arrest				
+Article 31: Arrest, Preliminary Examination and Bail				
+31.01. Warrant, Summons and Notice to Appear				
+31.02. Processing Returns on Bench Warrants				
+31.03. Bail				
+31.04. Setting of Bail Bond in Felony Cases				
+31.05. Bond Court				
+31.06. (Reserved)				
+31.07. (Reserved)				
+31.08. Arraignment and Plea				
+31.09. Analysis Report of Field Tests				
+Article 32: Felonies				
+32.01. Applicability				
+32.02. Preliminary Hearing				
+32.03. Discovery				
+32.04. Pre-Plea Report				
+32.05. Procedure for Disclosure and Filing of Pre-Sentence Reports and Pre- Plea Reports				
+32.06. (Reserved)				
+32.07. (Reserved)				
+Article 33: Misdemeanors				
+33.01. Applicability				
+33.02. (Reserved)				
+33.03. (Reserved)				
+33.04. Trial or Hearing Dates in DUI and Misdemeanor Courts				
+Article 34: Driving Under the Influence of Alcohol/Drugs				
+34.01. Applicability				
+34.02. Monitoring				
+34.03. DUI Evaluation Reports				
+34.04. DUI Evaluation Fees				
+34.05. DUI Treatment Services				
+34.06. (RESERVED)				
+34.07. Arraignment				
+Article 35: Traffic and Ordinances				
+35.01. Applicability				
+35.02. Jury Demands				
+35.03. (Reserved)				
+35.04. Parking Tickets				
+35.05. Appointment of Public Defender				
+35.06. Trial or Hearing Dates in Traffic Division				
+35.07. Continuances				
+35.08. Vacating Judgments in the Traffic Division				
+35.09. Special Motions				
+Article 36: Sentencing				
+36.01. Applicability				
+36.02. Judgment and Sentence				
+36.03. Payment of Fines and Costs				
+36.04. Extending Time to Pay Fines and Costs				
+36.05. Pre-Sentence Reports				
+36.06. Probation				
+36.07. Conditional Discharge Procedures				
+36.08. Court Supervision				
+36.09. Periodic Imprisonment				
+36.10. Enforcement of Probation				
+36.11. Probation and Court Services Records				
+Article 37: Post-Trial, Post-Conviction and Appeal				
+37.01. Post-Conviction Petitions				
+37.02. Appeals of Criminal Cases				
+Article 38: Extended Media Coverage				
+Appendices				
+Appendix of Forms for Use in Civil Cases				
+Statement of the Nature of the Case				
+Settlement Conference Memorandum				
+Litigation Conference Order Pursuant to Supreme Court Rule 218				
+Order Approving Settlement of a Minor's Claim with Funds to be Deposited				
+Order Approving Settlement of a Minor's Claim with Funds to be Administered in a Probate Proceeding				
+Comprehensive Financial Statement				
+Appendix of Forms for Use in Criminal Cases				
+Provider Profile and Consent				
+Alcohol/Drug Related Arrest Addendum				
+DuPage County Evaluation Addendum Summary				
+Risk Education/Treatment Compliance Form				
+Request for Extended Media Coverage				
+Objection of Party to Extended Media Coverage of Testimony				
+Objection of Witness to Extended Media Coverage of Testimony				
+Order on Request for Extended Media Coverage				
+Part 1.00. Organization				
+1.01. Rules of Court				
+1.02. Election or Selection of Chief Judge				
+1.03. Authority of Chief Judge				
+1.04. Judicial Assignments				
+1.05. Judges' Meetings				
+1.06. Committees				
+1.07. Court Administration				
+1.08. Court Reporting Services				
+1.09. Non-Judicial Appointments				
+1.10. Legal Holidays				
+1.11. Hours of Court				
+1.12. Courtroom Personnel				
+1.13. Prompt Attendance at Court				
+1.14. Court Decorum				
+1.15. Photography, Radio, Television, Audio Recording Devices and Cellular Telephones				
+1.15.5. Extended Media Coverage				
+1.16. Court Facilities				
+1.17. County Law Library				
+1.18. Record-Keeping				
+1.19. Documents and Court Files				
+1.20. Remote Electronic Access				
+1.21. Custody of Evidence				
+1.22. Delivery of Files to Courtroom				
+1.23. Files Present in Courtroom				
+1.24. Copies of Papers Filed				
+1.25. Documents to be in Accordance with Forms				
+1.26. Prohibition as to Gratuities				
+1.27. Jurors				
+Part 2.00. Motions/Notice				
+2.01. Motions Generally/Notice				
+2.02. Contested Motions				
+2.03. Motions for Consolidation of Cases				
+2.04. Motions for Summary Judgment				
+2.05. Emergency Motions				
+2.06. Orders				
+2.07. Notice of Default in Mortgage Foreclosure Cases				
+Part 3.00. Proceedings Before Trial				
+3.01. Appearance, Jury Demands				
+3.02. Pleadings to be Readily Comprehensible				
+3.03. Written Interrogatories				
+3.04. Discovery Documents				
+3.05. Days for Taking Depositions/Attendance				
+3.06. Seasonably Updating Discovery				
+3.07. Compliance with Supreme Court Rule 222				
+3.08. Local Subpoena Rules, Pretrial Discovery				
+3.09. Progress Calls				
+3.10. Procedures for Initial Case Management Conference in Law Cases (ad damnum Over $50,000) and in Cases Where a Summons Requiring Appearance Within Thirty (30) Days After Service is Used				
+3.11. Trial Calendar				
+3.12. Stipulations				
+3.13. Medical Experts				
+Part 4.00. Pre-Trial Conference				
+4.01. Pre-Trial Conference				
+4.02. Marking of Exhibits				
+4.03. Final Pretrial, Settlement Conference				
+4.04. Dismissal for Want of Prosecution				
+Part 5.00. Trials				
+5.01. Counsel to be Present; Continuances				
+5.02. Motions in Limine				
+5.03. Jury Trials-Statement of the Nature of the Case				
+5.04. Jury Instructions				
+5.05. Cases Taken Under Advisement				
+Part 6.00. Bonds-Sureties-Receivers				
+6.01. Receivers				
+6.02. Inventories of Receivers				
+6.03. Appraisal for Receivers				
+6.04. Reports of Receivers				
+6.05. Receiver Bonds				
+6.06. Personal Sureties				
+Part 7.00. Small Claims				
+7.01. Forms of Summons and Complaint				
+7.02. Default				
+7.03. Contested Cases				
+7.04. Motions and Special Appearances				
+7.05. Referral to Arbitration When a Jury is Demanded				
+7.06. Dismissal for Want of Prosecution				
+7.07. Costs in Small Claims				
+7.08. Small Claims Voluntary Pro Se Mediation				
+Part 8.00. Real Estate Sales Pursuant to Judgment or Order				
+8.01. Application				
+8.02. Counsel to Prepare Necessary Document				
+8.03. Preliminary				
+8.04. Time of Sale				
+8.05. Documents to be Presented by Counsel to Designated Officer Following Sale				
+8.06. Deed After Period of Redemption Expires				
+8.07. Miscellaneous				
+Part 9.00. Juvenile Proceedings				
+9.01. Purpose and Policy				
+9.02. Juvenile Court Judges				
+9.03. Release of Confidential Information				
+9.04. Expungement				
+9.05. Interstate Compact on Juveniles				
+9.06. Reports				
+9.11. Pre-hearing Conference				
+9.12. Discovery				
+9.13. Answer to Petition				
+9.14. Intake Procedure				
+9.15. Preliminary Conference				
+9.16. Probation Adjustment (Formerly Diversion)				
+9.17. Reception and Detention of Minors				
+9.18. Investigation of Circumstances of Custody				
+9.19. Discovery				
+Part 10.00. Criminal Rules				
+10.01. Applicability of General Rules				
+10.02. Forms of Criminal Procedure				
+10.03. Court Calendar and Assignment of Cases				
+10.04. Consolidation of Offenses and Defendants				
+10.05. Filing Appearance of Attorneys-Pre-Trial and Trial				
+10.06. Withdrawal of Counsel				
+10.07. Appointment of Public Defender				
+10.08. First Appearance-Rights Court				
+10.09. Bail Hearings				
+10.10. Grand Jury				
+10.11. Dismissal of Charges Upon Filing of a New Charging Document				
+10.12. Felony Arraignments				
+10.13. Substitution of Judges				
+10.14. Assignment of Court Interpreters				
+10.15. Motion Practice				
+10.16. Discovery in Criminal Cases				
+10.17. Pre-Trial Subpoena for Production of Specified Documents, Objects or Tangible Things				
+10.18. Expert Witnesses				
+10.19. Trial Subpoena for Production of Specified Documents, Objects or Tangible Things				
+10.20. Continuances				
+10.21. Demand for Speedy Trial-Defendant Not in Custody				
+10.22. Jury Trials				
+10.23. Waiver of Jury Trial				
+10.24. Control of Evidence				
+10.25. DUI-Alcohol and Drug Related Evaluations				
+10.26. Certificate of History of Prior Offenses Involving DUI, First Offender Drug, or Other Causes				
+10.27. Sealing or Impoundment of Files and Documents				
+Part 11.00. Family Law				
+11.01. Scope				
+11.02. Financial Affidavit of Parties and Production of Documents				
+11.03. Discovery				
+11.04. Representation of Child				
+11.05. Conciliation, Mediation, Advice to Court, Investigations and Reports				
+11.06. Case Management Conferences				
+11.07. Settlement Conference				
+11.08. Trial Conference				
+11.09. Parenting Education				
+11.10. Emergency Motions				
+11.11. Prove-ups, Report of Proceedings and Prove-up Forms				
+11.12. Joint Simplified Dissolution Procedure				
+11.13. Remote Court Appearances				
+Part 12.00. Enforcement of Child Support				
+12.01. Payments Ordered through the Clerk of the Court				
+Part 13.00. Reserved				
+Part 14.00. Probate Proceedings				
+14.01. General				
+14.02. Bonds: Personal Sureties				
+14.03. Excuse of Surety on Guardian's Bond in Cash Deposits				
+14.04. Surety Companies				
+14.05. Opening a Safe Deposit Box				
+14.06. Periodic Accounting				
+14.07. Notice of Hearing on Accounts				
+14.08. Proof of Service in Guardianship Estates				
+14.09. Notice of Claim Call				
+14.10. Vouchers				
+14.11. Final Account and Settlement of Guardianship Estates				
+14.12. Distribution to a Minor, a Disabled Person or a Deceased Heir, Devisee or Legatee				
+14.13. Closing of an Estate				
+14.14. Change in Heirship or Distributive Rights				
+14.15. Alternative Distribution to Resident of Foreign Country				
+14.16. Assignment of Interest - Power of Attorney				
+14.17. Notice to Beneficiaries of Testamentary Trusts				
+14.18. Termination of Small Estate of Wards				
+14.19. Petition for Expenditures on Behalf of a Ward				
+14.20. Allowance of Fees				
+14.21. Withrdrawal of Deposit with County Treasurer				
+14.22. Jury Demands				
+14.23. Procedure for Settlement of Personal Injury and Wrongful Death Claims in Probate Court				
+14.24. Procedure for Disposition of Pending Law Cases in Personal Injury Actions Involving Claims of Minor or Disabled Person, by Trial Court				
+14.25. Procedure for Disposition of Pending Law Cases in Wrongful Death Actions, by Trial Court				
+14.26. Appointment of Special Administrator Where no Probate Estate has been Opened				
+14.27. Inactive Docket				
+Part 15.00. Post Judgment Proceedings				
+15.01. Post-Judgment Notices - Warnings				
+15.02. Post-Trial Motions and Supplemental Proceedings to Enforce Judgments				
+15.03. Citation to Discover Assets				
+15.04. Rule to Show Cause				
+15.05. Issuance of Order of Body Attachment				
+15.06. Copy of Rule or Order				
+15.07. Satisfaction of Judgment by Court Order				
+15.08. Deposit with Clerk of Court and Order of Satisfaction of Judgment				
+15.09. Deposit for Preparation by Clerk of Appeal Record in Civil Cases				
+Part 16.00. Adoptions				
+16.01. Filing of Petition				
+16.02. Investigation Reports				
+16.03. Consents				
+Part 17.00. Mandatory Arbitration Rules				
+17.01. Definitions				
+17.02. Actions Subject to Mandatory Arbitration (Supreme Court Rule 86)				
+17.03. Appointment, Qualification and Compensation of Arbitrators (Supreme Court Rule 87)				
+17.04. Scheduling of Hearing (Supreme Court Rule 88)				
+17.05. Motions				
+17.06. Discovery (Supreme Court Rule 89)				
+17.07. Conduct of the Hearing (Supreme Court Rule 90 and 91)				
+17.08. Award and Judgment on Award (Supreme Court Rule 92)				
+17.09. Rejection of Award (Supreme Court Rule 93)				
+17.10. Refiling After Nonsuit				
+17.11. Location of Arbitration Hearing				
+17.12. Forms				
+17.13. Administration of Mandatory Arbitration				
+Part 18.00. Family Division Mediation Program Rules				
+18.01. Mission/Purpose Statement				
+18.02. Definitions				
+18.03. Mediation Mandatory in Certain Cases				
+18.04. Appointment and Qualification of Mediator				
+18.05. Duties of the Mediator				
+18.06. Application of Safeguards in Case of Impairment				
+18.07. Confidentiality and Privilege				
+18.08. Termination of Mediation Generally				
+18.09. Termination of Mediation on Motion of a Party				
+18.10. Entry of Judgment or Order				
+18.11. Personal Safety Protocols				
+18.12. Costs and Fees				
+18.13. Reports and Recordkeeping				
+18.14. Circuit Court Advisory Committee				
+Part 19.00. Remote Electronic Access Program				
+19.00. Remote Electronic Access Program				
+Part 20.00. Civil Division Mediation Program Rules				
+20.00. Purpose of the Mediation Process				
+20.01. Actions Eligible for Court-Annexed Mediation				
+20.02. Scheduling of Mediation				
+20.03. Mediation Rules and Procedures				
+20.04. Mediator Qualifications				
+20.05. Duties of Presiding Judge for Mediation				
+20.06. Small Claims Mediation Program				
+Part 21.00. E-Filing Rules for the 22nd Judicial Circuit				
+21.01. Authority				
+21.02. Effective Date				
+21.03. Designation of Electronic Filing Case & Document Types				
+21.04. Definitions				
+21.05. Authorized Users				
+21.06. Method of Filing				
+21.07. Filing of Exhibits				
+21.08. Maintenance of Original Documents				
+21.09. Privacy Issues				
+21.10. Format of Documents				
+21.11. Signatures and Authentication				
+21.12. Time of Filing, Acceptance by the Clerk and Electronic Filing Stamp				
+21.13. Electronic Service, Courtesy Copies and Filing Proof of Service				
+21.14. Collection of Fees				
+21.15. System or User Errors				
+21.16. Vendor Conditions				
+21.17. Authority for E-Records				
+Part 22.00. Remote Appearances in Circuit Court Proceedings				
+22.01. Purpose				
+22.02. Authority				
+22.03. How to Appear Remotely				
+22.04. Notices Must Include Information About Remote Appearances				
+22.05. When Remote Proceedings are Allowed				
+22.06. Remote Proceedings in Criminal Cases				
+22.07. Remote Proceedings in Civil Cases				
+22.08. Remote Proceedings in Family Cases				
+22.09. Remote Proceedings in Juvenile Cases				
+22.10. Remote Proceedings Order of Protection Cases				
+22.11. Remote Proceedings in Problem Solving Court Cases				
+22.12. Standards of Decorum				
+22.13. Recording is Prohibited				
+22.14. Effective Date				
+	
+		
+			
+			
+
+				
+

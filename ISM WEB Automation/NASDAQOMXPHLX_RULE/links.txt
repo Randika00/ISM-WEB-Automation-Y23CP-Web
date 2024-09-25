@@ -1,0 +1,728 @@
+NASDAQ OMX PHLX LLC Rules of the Board of Governors	
+General Equity and Options Rules	
+General 1 General Provisions	
+Section 1. Definitions	
+General 2 Organization and Administration	
+Section 1. Reserved	
+Section 2. Fees, Dues and Other Charges	
+Section 3. Exchange's Costs of Defending Legal Proceedings	
+Section 4. Affiliation and Ownership Restrictions	
+Section 5.Regulatory Services Agreements	
+Section 6. Reserved	
+Section 7. Reserved	
+Section 8. Reserved	
+Section 9. Reserved	
+Section 10. Qualification; Designation of Executive Representative	
+Section 11. Contact Information Requirements	
+Section 12. The Exchange's Business Continuity and Disaster Recovery Plan Testing Requirements for Member Organizations and PSX Participants Pursuant to Regulation SCI	
+Section 13. Reserved	
+Section 14. Additional Requirements for Securities Listed on the Exchange Issued by Nasdaq or its Affiliates	
+Section 15. Reserved	
+Section 16. Reserved	
+Section 17. Accommodations	
+Section 18. Members' Contracts	
+Section 19. Deliveries through Registered Clearing Agencies	
+Section 20. Disapproval of Business	
+Section 21. Office Vacated by Suspension or Termination	
+Section 22. Sponsored Participants	
+Section 23. Rights and Privileges of A-1 Permits	
+Section 24. Transfer of Accounts	
+General 3 Membership and Access	
+General 4 Registration Requirements	
+Section 1. Registration, Qualification and Continuing Education	
+General 5 Discipline	
+Section 1. Disciplinary Jurisdiction	
+Section 2. Investigations and Sanctions	
+Section 3. Code of Procedure	
+General 6. Arbitration	
+Section 1. Arbitration	
+General 7 Consolidated Audit Trail Compliance	
+General 7. Consolidated Audit Trail Compliance	
+General 8 Connectivity	
+General 8. Connectivity	
+General 9 Regulation	
+Section 1. General Standards	
+Section 2. Customers' Securities and Excessive Trading of Members	
+Section 3. Reserved	
+Section 4. Reserved	
+Section 5. Telemarketing	
+Section 6. Reserved	
+Section 7. Report of Financial Arrangements	
+Section 8. Reserved	
+Section 9. Reserved	
+Section 10. Recommendations to Customers (Suitability)	
+Section 11. Best Execution and Interpositioning	
+Section 12. Reserved	
+Section 13. Reserved	
+Section 14. Reserved	
+Section 15. Reserved	
+Section 16. Reserved	
+Section 17. Reserved	
+Section 18. Reserved	
+Section 19. Discretionary Accounts	
+Section 20. Supervision	
+Section 21. Supervisory Procedures Relating to ITSFEA and to Prevention of Misuse of Material Nonpublic Information	
+Section 22. Reserved	
+Section 23. Reserved	
+Section 24. Reserved	
+Section 25. Accounts of Employees of Member Organizations	
+Section 26. Reserved	
+Section 27. Reserved	
+Section 28. Reserved	
+Section 29. Transactions for Employees and Speculative Transactions for Employees of Certain Employers	
+Section 30. Books and Records	
+Section 31. Reserved	
+Section 32. Reserved	
+Section 33. Reserved	
+Section 34. Reserved	
+Section 35. Nonregistered Foreign Finders	
+Section 36. Reserved	
+Section 37. Anti-Money Laundering Compliance Program	
+Section 38. Reserved	
+Section 39. Fidelity Bonds	
+Section 40. Reserved	
+Section 41. Reserved	
+Section 42. Reserved	
+Section 43. Reserved	
+Section 44. Reserved	
+Section 45. Customer Account Information	
+Section 46. Reserved	
+Section 47. Reserved	
+Section 48. Reserved	
+Section 49. Reserved	
+Section 50. Reserved	
+Section 51. Reserved	
+Section 52. Reserved	
+Section 53. Disruptive Quoting and Trading Activity Prohibited	
+Section 54. Guarantees Not Permitted	
+Section 55. Office, Other than Main Offices	
+Section 56. Status Verification	
+Section 57. Control of Offices	
+Section 58. Advertisements, Market Letters, Research Reports and Sales Literature	
+Section 59. Notification of Changes in Business Operations	
+Section 60. Training	
+Section 61. Assignment of Interest of Partner	
+Section 62. Partial Payments	
+Section 63. Diligence as to Accounts	
+Section 64. Approval of Accounts	
+Section 65. Statements to be Sent to Customers	
+Section 66. Notwithstanding Power of Attorney	
+Section 67. Participation in Joint Accounts	
+Section 68. Report of Options	
+Section 69. Periodic Reports	
+Section 70. Underwriting of Securities by Member Organizations	
+Section 71. Reserved	
+Equity Rules	
+Equity 1 Equity Definitions	
+Section 1. Definitions	
+Equity 2 Market Participants	
+Section 1. Scope	
+Section 2. Definitions	
+Section 3. Reserved	
+Section 4. Registration as a Market Maker	
+Section 5. Market Maker Obligations	
+Section 6. Stabilizing Bids	
+Section 7. Reports	
+Section 8. Normal Business Hours	
+Section 9. Clearance and Settlement	
+Section 10. Withdrawal of Quotations	
+Section 11. Voluntary Termination of Registration	
+Section 12. Suspension and Termination of Quotations and Order Entry	
+Section 13. Termination of PSX Service	
+Section 14. Alternative Trading Systems	
+Section 15. Penalty Bids and Syndicate Covering Transactions	
+Section 16. Obligation to Provide Information	
+Section 17. Limitation of Liability	
+Section 18. Obligation to Honor System Trades	
+Section 19. Compliance with Rules and Registration Requirements	
+Section 20. Customer Disclosures	
+Equity 4 Equity Trading Rules	
+Rule 3100. Limit Up-Limit Down Plan and Trading Halts on PSX	
+Rule 3101. Trading Halts Due to Extraordinary Market Volatility	
+Rule 3102. Limitation of Exchange Liability and Reimbursement of Certain Expenses	
+Rule 3301A. Order Types	
+Rule 3301B. Order Attributes	
+Rule 3302. Opening Process	
+Rule 3303. Short Sale Price Test Pursuant to Rule 201 of Regulation SHO	
+Rule 3304. Data Feeds Utilized	
+Rule 3306. Entry and Display of Quotes and Orders	
+Rule 3307. Processing of Orders	
+Rule 3309. Trade Reporting	
+Rule 3310. Anonymity	
+Rule 3311. Issuer Corporate Actions Related to a Dividend, Payment or Distribution	
+Rule 3312. Clearly Erroneous Transactions	
+Rule 3315. Order Routing	
+Rule 3317. Compliance with Regulation NMS Plan to Implement a Tick Size Pilot	
+Equity 5 Reserved	
+Equity 6 PSX Risk Management Services; Other Systems and Programs	
+Section 1. Reserved	
+Section 2. Reserved	
+Section 3. PHLX Kill Switch	
+Section 4. Exchange Sharing of PSX Participant Risk Settings	
+Section 5. Exchange Sharing of PSX Participant Risk Settings	
+Section 6. Reserved	
+Equity 7 Pricing Schedule	
+Section 1. General Provisions	
+Section 2. Collection of Exchange Fees and Other Claims	
+Section 3. Nasdaq PSX Fees	
+Section 4. Membership Fees	
+Section 12. Covered Sales Fee	
+Equity 8A Unlisted Trading Privileges; Proxy and Other Rules	
+Section 1. Reserved	
+Section 2. Reserved	
+Section 3. Reserved	
+Section 4. Reserved	
+Section 5. Securities Traded Under Unlisted Trading Privileges	
+Section 6. Advertising Practices	
+Section 7. Prevention of the Misuse of Material, Nonpublic Information	
+Section 8. Additional Requirements for Securities Issued by Nasdaq or its Affiliates	
+Section 9. Restriction	
+Section 10. Voting Instructions	
+Section 11. Proxies at Direction of Owner	
+Section 12. Proxy to Show Number of Shares	
+Section 13. Transfer to Facilitate Solicitation	
+Section 14. Rule Applicable to Individual Members and Nominees	
+Section 15. Transmission of Interim Reports and Other Material	
+Equity 9 Business Conduct	
+Section 1. Reserved	
+Section 2. Reserved	
+Section 3. Reserved	
+Section 4. Reserved	
+Section 5. Reserved	
+Section 6. Reserved	
+Section 7. Reserved	
+Section 8. Reserved	
+Section 9. Reserved	
+Section 10. Reserved	
+Section 11. Reserved	
+Section 12. Reserved	
+Section 13. Reserved	
+Section 14. Reserved	
+Section 15. Limitations on Members' Trading Because of Customers' Orders	
+Section 16. Successive Transactions by Members	
+Section 17. Short Sales	
+Section 18. Proper and Adequate Margin	
+Section 19. Prohibition on Free-Riding in Cash Accounts	
+Section 20. Financial Responsibility and Reporting	
+Section 21. Automated Submission of Trading Data	
+Section 22. Restrictions on Pledge of Customers' Securities	
+Section 23. Independent Audit	
+Equity 10 Other Products and Securities	
+Section 1. Reserved	
+Section 2. Reserved	
+Section 3. Reserved	
+Section 4. Reserved	
+Section 5. Reserved	
+Section 6. Reserved	
+Section 7. Reserved	
+Section 8. Trading in Commodity-Related Securities	
+Equity 11 Uniform Practice Code	
+Section 1. Dealings on the Exchange - Securities	
+Section 2. Bids and Offers - "When Issue"	
+Section 3. Price of Execution Binding	
+Section 4. Payment on Delivery—Collect on Delivery	
+Section 5. Book-Entry Settlement	
+Section 6. Ex-Dividend, Ex-Rights	
+Section 7. Ex-Warrants	
+Section 8. Buyer Entitled to Dividend, etc.	
+Section 9. Claims for Dividend, etc.	
+Section 10. Taking or Supplying Securities Named in Order	
+Options Rules	
+Options 1 General Provisions	
+Section 1. Applicability, Definitions and References	
+Options 2 Options Market Participants	
+Section 1. Application for Approval as an SQT, RSQT, or RSQTO and Assignment in Options	
+Section 2. Reserved	
+Section 3. Allocation Application, Allocation, Reallocation, Transfer and Voluntary Resignation	
+Section 4. Obligations of Market Makers	
+Section 5. Electronic Market Maker Obligations and Quoting Requirements	
+Section 6. Market Maker Orders	
+Section 7. Securities Accounts and Orders of Lead Market Makers and Market Makers	
+Section 8. Reserved	
+Section 9. Good Standing for Lead Market Maker, SQT, and RSQT	
+Section 10. Directed Orders	
+Section 11. Lead Market Maker Appointment	
+Section 12. Registration and Functions of Options Lead Market Makers	
+Section 13. Affiliated Persons of Lead Market Makers	
+Section 14. Limitations on Options Market Making	
+Options 2A Reserved	
+Options 2A. Reserved	
+Options 3 Options Trading Rules	
+Section 1. Hours of Business	
+Section 2. Units of Trading	
+Section 3. Minimum Increments	
+Section 4. Entry and Display of Quotes	
+Section 5. Entry and Display of Orders	
+Section 6. Firm Quotations	
+Section 7. Types of Orders and Order and Quote Protocols	
+Section 8. Options Opening Process	
+Section 9. Trading Halts	
+Section 10. Electronic Execution Priority and Processing in the System	
+Section 11. Reserved	
+Section 12. Electronic Qualified Contingent Cross Order	
+Section 13. Price Improvement XL (“PIXL”)	
+Section 14. Complex Orders	
+Section 15. Simple Order Risk Protections	
+Section 16. Complex Order Risk Protections	
+Section 17. Kill Switch	
+Section 18. Detection of Loss of Communication	
+Section 19. Mass Cancellation of Trading Interest	
+Section 20. Nullification and Adjustment of Options Transactions Including Obvious Errors	
+Section 21. Exchange Sharing of Participant-Designated Risk Settings	
+Section 22. Limitations on Order Entry	
+Section 23. Data Feeds and Trade Information	
+Section 24. Price of Execution Binding	
+Section 25. Reserved	
+Section 26. Message Traffic Mitigation	
+Section 27. Limitation of Exchange Liability and Reimbursement of Certain Expenses	
+Section 28. Reserved	
+Options 4 Options Listing Rules	
+Options 4A Options Index Rules	
+Section 1. Applicability	
+Section 2. Definitions	
+Section 3. Designation of the Index	
+Section 4. Index Options Values for Settlement	
+Section 5. Dissemination of Information	
+Section 6. Position Limits	
+Section 7. Reserved	
+Section 8. Reserved	
+Section 9. Reserved	
+Section 10. Exercise Limits	
+Section 11. Reserved	
+Section 12. Terms of Index Options Contracts	
+Section 13. Reserved	
+Section 14. Disclaimers	
+Section 15. Exercise of Option Contracts	
+Section 16. Reserved	
+Section 17. Other Restrictions on Options Transactions and Exercises	
+Section 18. Trading Rotations, Halts or Reopenings	
+Section 19. Limitation of Exchange Liability	
+Section 20. Standard & Poor's® Index	
+Section 21. Nasdaq, Inc. Indexes	
+Options 4B Options on Treasury Securities	
+Section 1. Applicability of 1000D Series-Treasury Securities Options	
+Section 2. Definitions - Treasury Securities Options	
+Section 3. Position Limits - Treasury Securities Options	
+Section 4. Exercise Limits - Treasury Securities Options	
+Section 5. Reports Related to Position Limits and Liquidation of Positions - Treasury Securities Options	
+Section 6. Designation of Treasury Securities Options	
+Section 7. Criteria for Securities Underlying Treasury Securities Options	
+Section 8. Withdrawal of Approval of Underlying Treasury Securities or Options	
+Section 9. Terms of Treasury Securities Options	
+Section 10. Series of Treasury Securities Options Open for Trading	
+Section 11. Days and Hours of Business of Treasury Securities Options	
+Section 12. Trading Rotations - Treasury Securities Options	
+Section 13. Trading Halts and Suspension of Trading, Obvious and Catastrophic Errors - Treasury Securities Options	
+Section 14. Minimum Increment and Meaning of Premium Bids and Offers for Treasury Securities Options	
+Section 15. Lead Market Maker and Registered Option Trader Obligations and Electronic Trading - Treasury Securities Options	
+Section 16. Accommodation Trading - Treasury Securities Options	
+Section 17. Reconciliation of Unmatched Trades - Treasury Securities Options	
+Section 18. Limit Book for Treasury Securities Options	
+Section 19. Bid/Ask Differentials - Treasury Securities Options	
+Section 20. Allocation of Exercise Assignment Notices - Treasury Securities Options	
+Section 21. Delivery and Payment - Treasury Securities Options	
+Section 22. Margin Requirements - Treasury Securities Options	
+Section 23. Furnishing of Books, Records and Other Information - Treasury Securities Options	
+Section 24. Communication Links - Treasury Securities Options	
+Section 25. Doing Business with the Public - Treasury Securities Options	
+Options 4C U.S. Dollar-Settled Foreign Currency Options	
+Section 1. Applicability	
+Section 2. Definitions	
+Section 3. Criteria for Underlying Securities	
+Section 4. Withdrawal of Approval of Underlying Securities or Options	
+Section 5. Series of U.S. Dollar-Settled Foreign Currency Options Contracts Open for Trading	
+Section 6. U.S. Dollar-Settled Foreign Currency Option Closing Settlement Value	
+Options 5 Order Protection and Locked Cross Markets	
+Section 1. Order Protection; Locked and Crossed Markets Definitions	
+Section 2. Order Protection	
+Section 3. Locked and Crossed Markets	
+Section 4. Order Routing	
+Section 5. Cancellation of Orders and Error Account	
+Options 6 Options Trade Administration	
+Section 1. Authorization to Give up	
+Section 2. Responsibility of Clearing Members for Exchange Options Transactions	
+Section 3. General Comparison and Clearance Rule	
+Section 4. Reserved	
+Section 5. Transfer of Positions	
+Section 6. Off-Exchange RWA Transfers	
+Section 7. In-Kind Exchange of Options Positions and ETF Shares and UIT Units	
+Section 8. Clearing Arrangements	
+Section 9. Stock Transfer Tax	
+Section 10. Filing of Trade Information	
+Section 11. Verification of Trades and Reconciliation of Uncompared Trades	
+Section 12. Reporting of Compared Trades to Options Clearing Corporation	
+Section 13. Maintaining Office and Filing Signatures	
+Options 6A Closing Transactions	
+Section 1. Options Contracts of Suspended Members	
+Section 2. Failure to Pay Premium	
+Options 6B Exercises and Deliveries	
+Section 1. Exercise of Equity Option Contracts	
+Section 2. Allocation of Exercise Notices	
+Section 3. Delivery and Payment	
+Options 6C Margins	
+Section 1. Reserved	
+Section 2. Reserved	
+Section 3. Proper and Adequate Margin	
+Section 4. Reserved	
+Section 5. Reserved	
+Section 6. Reserved	
+Section 7. Prohibition on Free-Riding in Cash Accounts	
+Options 6D Net Capital Requirements	
+Section 1. Financial Responsibility and Reporting	
+Section 2. Reserved	
+Section 3. Reserved	
+Section 4. Reserved	
+Options 6E Records, Reports and Audits	
+Section 1. Maintenance, Retention and Furnishing of Books, Records and Other Information	
+Section 2. Reporting of Options Positions	
+Section 3. Reserved	
+Section 4. Independent Audit	
+Section 5. Automated Submission of Trading Data	
+Section 6. Reserved	
+Section 7. Regulatory Services Agreements	
+Section 8. Reserved	
+Section 9. Reserved	
+Options 7 Pricing Schedule	
+Section 1. General Provisions	
+Section 2. Customer Rebate Program	
+Section 3. Rebates and Fees for Adding and Removing Liquidity in SPY	
+Section 4. Multiply Listed Options Fees (Includes Options Overlying Equities, ETFs, ETNs and Indexes Which are Multiply Listed) (Excludes SPY and Broad-Based Index Options Symbols Listed Within Options 7, Section 5.A)	
+Section 5. Index and Singly Listed Options (Includes Options Overlying FX Options, Equities, ETFs, ETNs, and Indexes Not Listed on Another Exchange)	
+Section 6. Other Transaction Fees	
+Section 7. Routing Fees	
+Section 8. Membership Fees	
+Section 9. Other Member Fees	
+Section 10. Proprietary Data Feed Fees	
+Section 11. Access and Redistribution Fee	
+Section 12. Covered Sale Fee	
+Options 8 Floor Trading	
+Section 1. Applicability	
+Section 2. Definitions	
+Section 3. Imposition	
+Section 4. Rights and Privileges of A-1 Permits	
+Section 5. Qualification as Member Organization	
+Section 6. Registration of Floor Brokers	
+Section 7. Inactive Nominees	
+Section 8. Trading Floor Registration	
+Section 9. Trading Floor Hours of Business and Admittance	
+Section 10. Training	
+Section 11. Floor Market Maker and Lead Market Maker Appointment	
+Section 12. Clerks	
+Section 13. Acts Detrimental to the Interest or Welfare of the Exchange	
+Section 14. Financial Responsibility and Reporting	
+Section 15. "Stopping" an Option	
+Section 16. Reserved	
+Section 17. Reserved	
+Section 18. General Responsibility of Floor Brokers	
+Section 19. Responsibilities of Floor Brokers - Treasury Securities Options	
+Section 20. Dealings on Floor—Hours	
+Section 21. Dealings on Floor—Persons	
+Section 22. Execution of Options Transactions on the Trading Floor	
+Section 23. Precedence of Highest Bid	
+Section 24. Bids and Offers-Premium	
+Section 25. Floor Allocation	
+Section 26. Trading Halts, Business Continuity and Disaster Recovery	
+Section 27. Quoting Obligations and Required Transactions	
+Section 28. Responsibilities of Floor Brokers	
+Section 29. Use of Floor Based Management System by Floor Market Makers and Lead Market Makers	
+Section 30. Crossing, Facilitation and Solicited Orders	
+Section 31. Discretionary Transactions	
+Section 32. Types of Floor-Based (Non-System) Orders	
+Section 33. Accommodation Transactions	
+Section 34. FLEX Index, Equity, and Currency Options	
+Section 35. Disputes	
+Section 36. Resolution of Uncompared Trade	
+Section 37. Letters of Authorization	
+Section 38. Communications and Equipment	
+Section 39. Option Minor Rule Violations and Order and Decorum Regulations	
+Options 9 Business Conduct	
+Section 1. Reserved	
+Section 2. Reserved	
+Section 3. Reserved	
+Section 4. Reserved	
+Section 5. Reserved	
+Section 6. Reserved	
+Section 7. Reserved	
+Section 8. Reserved	
+Section 9. Reserved	
+Section 10. Reserved	
+Section 11. Reserved	
+Section 12. Reserved	
+Section 13. Position Limits	
+Section 14. Reserved	
+Section 15. Exercise Limits	
+Section 16. Reserved	
+Section 17. Liquidation of Positions	
+Section 18. Limit on Uncovered Short Positions	
+Section 19. Other Restrictions on Exchange Options Transactions and Exercises	
+Section 20. Reserved	
+Section 21. Reserved	
+Section 22. Reserved	
+Section 23. Reserved	
+Section 24. Violation of By-Laws and Rules of Options Clearing Corporation	
+Options 10 Doing Business with the Public	
+Section 1. Reserved	
+Section 2. Registration of Options Principals	
+Section 3. Reserved	
+Section 4. Reserved	
+Section 5. Branch Offices	
+Section 6. Opening of Accounts	
+Section 7. Supervision of Accounts	
+Section 8. Suitability	
+Section 9. Discretionary Accounts	
+Section 10. Confirmations to Customers	
+Section 11. Statements of Accounts	
+Section 12. Reserved	
+Section 13. Delivery of Options Disclosure Documents	
+Section 14. Restrictions on Pledge of Customers' Securities	
+Section 15. Reserved	
+Section 16. Reserved	
+Section 17. Profit Sharing	
+Section 18. Reserved	
+Section 19. Reserved	
+Section 20. Options Communications	
+Section 21. Reserved	
+Section 22. Customer Complaints	
+Section 23. Reserved	
+Section 24. Transactions with Issuers	
+Section 25. Restricted Stocks	
+Section 26. Reserved	
+Section 27. Reserved	
+Options 11 Minor Rule Plan Violations	
+Section 1. Lead Market Maker as Market Maker	
+Section 2. Option Quote Parameters	
+Section 3. Failure to Comply with an Exchange Inquiry	
+Section 4. Affiliations	
+Section 5. Unusual Market Conditions	
+Section 6. Supervisory Procedures Relating to ITSFEA	
+Section 7. Minor Infractions of Position/Exercise Limits and Hedge Exemptions	
+Section 8. Clearing Agents' Responsibility for Carrying Positions in Market Maker Accounts	
+Section 9. Options Exchange Official Rulings	
+Section 10. Failure to Provide Notification of Changes in Business Operations	
+Section 11. Failure to Timely Submit Amendments to Form U4, Form U5 and Form BD	
+Section 12. Violations of Exercise and Exercise Advice Rules for Noncash-Settled Equity Option Contracts	
+Section 13. Index Option Exercise Advices	
+Section 14. Failure to Comply with the Consolidated Audit Trail Compliance Rule Requirements	
+Nasdaq PSX	
+Nasdaq PSX (Rules 3000—7470A)	
+Rule 3000. Nasdaq PSX	
+Rule 3200. Requirements for PSX Participants	
+Rule 3201. Scope	
+Rule 3202. Application of Other Rules of the Exchange	
+Rule 3203. Definitions	
+Rule 3204. Securities Traded Under Unlisted Trading Privileges	
+Rule 3210. Registration and Other Requirements	
+Rule 3211. Reserved	
+Rule 3212. Registration as a Market Maker	
+Rule 3213. Market Maker Obligations	
+Rule 3214. Stabilizing Bids	
+Rule 3215. Exchange Sharing of PSX Participant Risk Settings	
+Rule 3216. Reports	
+Rule 3217. Normal Business Hours	
+Rule 3218. Clearance and Settlement	
+Rule 3219. Withdrawal of Quotations	
+Rule 3220. Voluntary Termination of Registration	
+Rule 3221. Suspension and Termination of Quotations and Order Entry	
+Rule 3222. Termination of PSX Service	
+Rule 3223. Alternative Trading Systems	
+Rule 3224. Penalty Bids and Syndicate Covering Transactions	
+Rule 3225. Obligation to Provide Information	
+Rule 3226. Limitation of Liability	
+Rule 3227. Obligation to Honor System Trades	
+Rule 3228. Compliance with Rules and Registration Requirements	
+Rule 3230. Trading in Commodity-Related Securities	
+Rule 3231. Customer Disclosures	
+Rule 3232. Advertising Practices	
+Rule 3233. Prevention of the Misuse of Material, Nonpublic Information	
+Rule 3234. Additional Requirements for Securities Issued by Nasdaq or its Affiliates	
+Rule 3236. Restriction	
+Rule 3237. Voting Instructions	
+Rule 3238. Proxies at Direction of Owner	
+Rule 3239. Proxy to Show Number of Shares	
+Rule 3240. Transfer to Facilitate Solicitation	
+Rule 3241. Rule Applicable to Individual Members and Nominees	
+Rule 3242. Transmission of Interim Reports and Other Material	
+Rule 3300. Execution Services	
+Rule 3301. Definitions	
+Rule 3305. Reserved	
+Rule 3308. Reserved	
+Rule 3316. PHLX Kill Switch	
+Rule 3400. Dealings on the Exchange—Securities	
+Rule 3401. Bids and Offers—"When Issue"	
+Rule 3402. Price of Execution Binding	
+Rule 3403. Payment on Delivery—Collect on Delivery	
+Rule 3404. Book-Entry Settlement	
+Rule 3405. Ex-Dividend, Ex-Rights	
+Rule 3406. Ex-Warrants	
+Rule 3407. Buyer Entitled to Dividend, etc.	
+Rule 3408. Claims for Dividend, etc.	
+Rule 3409. Taking or Supplying Securities Named in Order	
+Rule 3410. Limitations on Members' Trading Because of Customers' Orders	
+Rule 3411. Successive Transactions by Members	
+Rule 3412. Short Sales	
+Rule 3413. Proper and Adequate Margin	
+Rule 3414. Prohibition on Free-Riding in Cash Accounts	
+Rule 3500. Financial Responsibility and Reporting	
+Rule 3501. Independent Audit	
+Rule 3502. Automated Submission of Trading Data	
+Rule 3503. Conduct Inconsistent with Just and Equitable Principles of Trade	
+Rule 3504. Acts Detrimental to the Interest or Welfare of the Exchange	
+Rule 3505. Restrictions on Pledge of Customers' Securities	
+Rule 3506. Anti-Money Laundering Compliance Program	
+Rule 3507. Telemarketing	
+Rule 3600. Regulatory Services Agreements	
+Rule 7400A. Order Audit Trail System	
+Rule 7410A. Definitions	
+Rule 7420A. Applicability	
+Rule 7430A. Synchronization of Member Organization Business Clocks	
+Rule 7440A. Recording of Order Information	
+Rule 7450A. Order Data Transmission Requirements	
+Rule 7460A. Violation of Order Audit Trail System Rules	
+Investigations, Sanctions and Code of Procedure	
+Investigations and Sanctions (Rules 8000—8330)	
+Rule 8000. Investigations and Sanctions	
+Rule 8001. Regulation of the Exchange and its Member Organizations	
+Rule 8100. General Provisions	
+Rule 8110. Availability of Manual to Customers	
+Rule 8120. Definitions	
+Rule 8200. Investigations	
+Rule 8210. Provision of Information and Testimony and Inspection and Copying of Books	
+Rule 8211. Automated Submission of Trading Data	
+Rule 8212. Reserved	
+Rule 8213. Reserved	
+Rule 8220. Reserved	
+Rule 8300. Sanctions	
+Rule 8310. Sanctions for Violation of the Rules	
+Rule 8320. Payment of Fines, Other Monetary Sanctions, or Costs; Summary Action for Failure to Pay	
+Rule 8330. Costs of Proceedings	
+Code of Procedure (Rules 9000—9870)	
+Rule 9000. Code of Procedure	
+Rule 9001. Regulatory Contract with FINRA	
+Rule 9100. Application and Purpose	
+Rule 9110. Application	
+Rule 9120. Definitions	
+Rule 9130. Service; Filing of Papers	
+Rule 9131. Service of Complaint and Document Initiating a Proceeding	
+Rule 9132. Service of Orders, Notices, and Decisions by Adjudicator	
+Rule 9133. Service of Papers Other Than Complaints, Orders, Notices, or Decisions	
+Rule 9134. Methods of, Procedures for Service	
+Rule 9135. Filing of Papers with Adjudicator: Procedure	
+Rule 9136. Filing of Papers: Form	
+Rule 9137. Filing of Papers: Signature Requirement and Effect	
+Rule 9138. Computation of Time	
+Rule 9140. Proceedings	
+Rule 9141. Appearance and Practice; Notice of Appearance	
+Rule 9142. Withdrawal by Attorney or Representative	
+Rule 9143. Ex Parte Communications	
+Rule 9144. Separation of Functions	
+Rule 9145. Rules of Evidence; Official Notice	
+Rule 9146. Motions	
+Rule 9147. Rulings on Procedural Matters	
+Rule 9148. Interlocutory Review	
+Rule 9150. Exclusion from Rule 9000 Series Proceeding	
+Rule 9160. Recusal or Disqualification	
+Rule 9200. Disciplinary Proceedings	
+Rule 9210. Complaint and Answer	
+Rule 9211. Authorization of Complaint	
+Rule 9212. Complaint Issuance — Requirements, Service, Amendment, Withdrawal, and Docketing	
+Rule 9213. Assignment of Hearing Officer and Appointment of Panelists to Hearing Panel or Extended Hearing Panel	
+Rule 9214. Consolidation or Severance of Disciplinary Proceedings	
+Rule 9215. Answer to Complaint	
+Rule 9216. Acceptance, Waiver, and Consent; Violation of Floor Procedure Advices; Violation of Order and Decorum Regulations	
+Rule 9220. Request for Hearing; Extensions of Time, Postponements, Adjournments	
+Rule 9221. Request for Hearing	
+Rule 9222. Extensions of Time, Postponements, and Adjournments	
+Rule 9230. Appointment of Hearing Panel, Extended Hearing Panel	
+Rule 9231. Appointment by the Chief Hearing Officer of Hearing Panel or Extended Hearing Panel or Replacement Hearing Officer	
+Rule 9232. Criteria for Selection of Panelists and Replacement Panelists	
+Rule 9233. Hearing Panel or Extended Hearing Panel: Recusal and Disqualification of Hearing Officers	
+Rule 9234. Hearing Panel or Extended Hearing Panel: Recusal and Disqualification of Panelists	
+Rule 9235. Hearing Officer Authority	
+Rule 9240. Pre-Hearing Conference and Submission	
+Rule 9241. Pre-Hearing Conference	
+Rule 9242. Pre-Hearing Submission	
+Rule 9250. Discovery	
+Rule 9251. Inspection and Copying of Documents in Possession of Staff	
+Rule 9252. Requests for Information	
+Rule 9253. Production of Witness Statements	
+Rule 9260. Hearing and Decision	
+Rule 9261. Evidence and Procedure in Hearing	
+Rule 9262. Testimony	
+Rule 9263. Evidence: Admissibility	
+Rule 9264. Motion for Summary Disposition	
+Rule 9265. Record of Hearing	
+Rule 9266. Proposed Findings of Fact, Conclusions of Law, and Post-Hearing Briefs	
+Rule 9267. Record; Supplemental Documents Attached to Record; Retention	
+Rule 9268. Decision of Hearing Panel or Extended Hearing Panel	
+Rule 9269. Default Decisions	
+Rule 9270. Settlement Procedure	
+Rule 9280. Contemptuous Conduct	
+Rule 9290. Expedited Disciplinary Proceedings	
+Rule 9291. Permanent Cease and Desist Orders	
+Rule 9300. Review of Disciplinary Proceeding by the Exchange Review Council and the Exchange Board; Application for Commission Review	
+Rule 9310. Appeal to or Review by the Exchange Review Council	
+Rule 9311. Appeal by Any Party; Cross-Appeal	
+Rule 9312. Review Proceeding Initiated by the Exchange Review Council	
+Rule 9313. Counsel to the Exchange Review Council	
+Rule 9320. Transmission of Record; Extensions of Time, Postponements, Adjournments	
+Rule 9321. Transmission of Record	
+Rule 9322. Extensions of Time, Postponements, Adjournments	
+Rule 9330. Appointment of Subcommittee or Extended Proceeding Committee; Disqualification and Recusal	
+Rule 9331. Appointment of Subcommittee or Extended Proceeding Committee	
+Rule 9332. Disqualification and Recusal	
+Rule 9340. Proceedings	
+Rule 9341. Oral Argument	
+Rule 9342. Failure to Appear at Oral Argument	
+Rule 9343. Disposition Without Oral Argument	
+Rule 9344. Failure to Participate Below; Abandonment of Appeal	
+Rule 9345. Subcommittee or Extended Proceeding Committee Recommended Decision to the Exchange Review Council	
+Rule 9346. Evidence in the Exchange Review Council Proceedings	
+Rule 9347. Filing of Papers in the Exchange Review Council Proceedings	
+Rule 9348. Powers of the Exchange Review Council on Review	
+Rule 9349. Exchange Review Council Formal Consideration; Decision	
+Rule 9350. Discretionary Review by Board	
+Rule 9351. Discretionary Review by the Exchange Board	
+Rule 9360. Effectiveness of Sanctions	
+Rule 9370. Application to Commission for Review	
+Rule 9400. Expedited Client Suspension Proceeding	
+Rule 9500. Other Proceedings	
+Rule 9510. Reserved	
+Rule 9520. Eligibility Proceedings	
+Rule 9521. Purpose and Definitions	
+Rule 9522. Initiation of Eligibility Proceeding; Member Regulation Consideration	
+Rule 9523. Acceptance of Member Regulation Recommendations and Supervisory Plans by Consent Pursuant to SEC Rule 19h-1	
+Rule 9524. Exchange Review Council Consideration	
+Rule 9525. Discretionary Review by the Exchange Board	
+Rule 9526. Expedited Review	
+Rule 9527. Application to Commission for Review	
+Rule 9530. Reserved	
+Rule 9531. Reserved	
+Rule 9532. Reserved	
+Rule 9533. Reserved	
+Rule 9534. Reserved	
+Rule 9535. Reserved	
+Rule 9536. Reserved	
+Rule 9537. Reserved	
+Rule 9550. Expedited Proceedings	
+Rule 9551. Reserved	
+Rule 9552. Failure to Provide Information or Keep Information Current	
+Rule 9553. Failure to Pay the Exchange Dues, Fees, and Other Charges	
+Rule 9554. Failure to Comply with an Arbitration Award or Related Settlement or an Order of Restitution or Settlement Providing for Restitution	
+Rule 9555. Failure to Meet the Eligibility or Qualification Standards or Prerequisites for Access to Services	
+Rule 9556. Failure to Comply with Temporary and Permanent Cease and Desist Orders	
+Rule 9557. Procedures for Regulating Activities Under Rule 703 Regarding a Member Organization Experiencing Financial or Operational Difficulties	
+Rule 9558. Summary Proceedings for Actions Authorized by Section 6(d)(3) of the Act	
+Rule 9559. Hearing Procedures for Expedited Proceedings Under the Rule 9550 Series	
+Rule 9600. Procedures for Exemptions	
+Rule 9610. Application	
+Rule 9620. Decision	
+Rule 9630. Appeal	
+Rule 9700. Reserved	
+Rule 9800. Temporary Cease and Desist Orders	
+Rule 9810. Initiation of Proceeding	
+Rule 9820. Appointment of Hearing Officer and Hearing Panel	
+Rule 9830. Hearing	
+Rule 9840. Issuance of Temporary Cease and Desist Order by Hearing Panel	
+Rule 9850. Review by Hearing Panel	
+Rule 9860. Violation of Temporary Cease and Desist Orders	
+Rule 9870. Application to Commission for Review	
