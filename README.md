@@ -2,7 +2,7 @@
 
 Unlock the power of data with my advanced web scraping techniques! I specialize in extracting and processing valuable information from diverse sources using a blend of cutting-edge technologies. 
 Whether you're looking to gather insights from academic journals, dynamic websites, or complex documents, I ensure a seamless and efficient data collection process tailored to your specific needs. 
-By combining automated web scraping with intelligent data processing, I deliver high-quality, structured data in formats that are easy to analyze, integrate, and utilize.  
+By combining automated web scraping with intelligent data processing, I deliver high-quality, structured data in formats that are easy to analyze, integrate, and utilize.
 
 From navigating challenging CAPTCHA systems to bypassing anti-bot protections, my solutions are built to handle even the most complex websites and data sources. Whether you're conducting research, 
 building a data-driven application, or automating routine data collection tasks, I can transform raw, unstructured data into organized, actionable insights. With technologies like BeautifulSoup, 
