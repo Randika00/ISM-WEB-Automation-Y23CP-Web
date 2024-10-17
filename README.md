@@ -10,7 +10,7 @@ Selenium, SpaCy, and Scrapy API at the core of my process, I ensure that your da
 
 My services extend to creating pipelines that not only extract data but also clean, filter, and optimize it, ensuring it's in the most useful format for your needs. Whether you need data in CSV, 
 Excel, XML, or JSON formats for API integrations, my solutions are adaptable to fit your workflow. No task is too big or too small — from one-off data scraping projects to ongoing data extraction 
-services, I am here to make your data work for you. 
+services, I am here to make your data work for you.
 
 Let me help you take control of your data, streamline your processes, and unlock new possibilities for research, business, and innovation with my automated web scraping expertise. Together, we can 
 leverage the power of data to drive smarter decisions and foster growth.
