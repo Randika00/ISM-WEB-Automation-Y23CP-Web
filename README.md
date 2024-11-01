@@ -6,7 +6,7 @@ By combining automated web scraping with intelligent data processing, I deliver 
 
 From navigating challenging CAPTCHA systems to bypassing anti-bot protections, my solutions are built to handle even the most complex websites and data sources. Whether you're conducting research, 
 building a data-driven application, or automating routine data collection tasks, I can transform raw, unstructured data into organized, actionable insights. With technologies like BeautifulSoup, 
-Selenium, SpaCy, and Scrapy API at the core of my process, I ensure that your data is collected and processed with precision.
+Selenium, SpaCy, and Scrapy API at the core of my process, I ensure that your data is collected and processed with precision.  
 
 My services extend to creating pipelines that not only extract data but also clean, filter, and optimize it, ensuring it's in the most useful format for your needs. Whether you need data in CSV, 
 Excel, XML, or JSON formats for API integrations, my solutions are adaptable to fit your workflow. No task is too big or too small — from one-off data scraping projects to ongoing data extraction 
